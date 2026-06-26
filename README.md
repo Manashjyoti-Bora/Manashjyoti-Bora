@@ -1,23 +1,80 @@
 # Hi, I'm Manashjyoti Bora 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+JavaScript+%7C+Node.js)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+JavaScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
-## About Me
+## 🚀 About Me
 
-Full Stack Web Developer from Assam, India.
+💻 Full Stack Web Developer from Assam, India 🇮🇳
 
-## Tech Stack
+🚀 Passionate about building modern, responsive and scalable web applications.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🌱 Currently learning **React.js, Node.js, Express.js and MongoDB**.
 
-## GitHub Stats
+💼 Open to **Internships, Freelance Projects and Entry-Level Software Developer Opportunities.**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manashjyotibora122&show_icons=true&theme=github_dark)
+---
 
-## Connect
+## 🛠 Tech Stack
 
-- Portfolio: https://manashjyotibora122.github.io/portfolio-website/
-- LinkedIn: https://www.linkedin.com/in/manashjyoti-bora-323b97405
-- Email: manashjyotibora122@gmail.com
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manashjyotibora122&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manashjyotibora122&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Manashjyotibora122&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manashjyotibora122&theme=github-dark"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Manashjyotibora122&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+- 💼 Job Portal App
+- 🛒 Premium Tech Storefront
+- 🌐 Portfolio Website
+- 🤖 AI Chatbot
+- 💬 Chat Application
+- 🌤 Weather App
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Portfolio: https://manashjyotibora122.github.io/portfolio-website/
+- 💼 LinkedIn: https://www.linkedin.com/in/manashjyoti-bora-323b97405
+- 📧 Email: manashjyotibora122@gmail.com
+- 🐙 GitHub: https://github.com/Manashjyotibora122
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Manashjyotibora122&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+> ⭐ **Code with purpose. Learn without limits. Build solutions that create real impact.**
