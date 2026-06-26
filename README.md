@@ -75,24 +75,31 @@
 
 ---
 
-## 🏆 GitHub Trophies
+🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Manashjyotibora122&theme=onedark" alt="GitHub Trophies"/>
-  </a>
-</p>
+💼 Job Portal App
+
+A responsive job portal built with modern web technologies featuring job listings, search functionality and a clean user interface.
+
+🔗 Repository: https://github.com/Manashjyotibora122/job-portal-app
 
 ---
 
-## 🌟 Featured Projects
+🛒 Premium Tech Storefront
 
-- 💼 Job Portal App
-- 🛒 Premium Tech Storefront
-- 🌐 Portfolio Website
-- 🤖 AI Chatbot
-- 💬 Chat Application
-- 🌤 Weather App
+A modern e-commerce storefront with responsive design, product showcase and intuitive shopping experience.
+
+🔗 Repository: https://github.com/Manashjyotibora122/premium-tech-storefront
+
+---
+
+🌐 Portfolio Website
+
+My personal portfolio showcasing projects, skills and development journey.
+
+🌍 Live Demo: https://manashjyotibora122.github.io/portfolio-website/
+
+🔗 Repository: https://github.com/Manashjyotibora122/portfolio-website
 
 ---
 
