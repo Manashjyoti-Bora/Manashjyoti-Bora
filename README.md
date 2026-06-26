@@ -125,14 +125,6 @@ My personal portfolio showcasing projects, skills and development journey.
 
 ---
 
-## 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Manashjyotibora122&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to collaborating on exciting projects, contributing to open source, and connecting with fellow developers.
