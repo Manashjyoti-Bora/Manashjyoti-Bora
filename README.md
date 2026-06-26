@@ -1,156 +1,98 @@
-# Hi, I'm Manashjyoti Bora 👋
+Hi, I'm Manashjyoti Bora 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=true&width=700&lines=Frontend+Developer;Building+Responsive+Web+Applications;JavaScript+%7C+API+Integration+%7C+UI+Development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+JavaScript+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+%26+Building" />💫 About Me
 
-### Frontend Developer | Assam, India 🇮🇳
+💻 Full Stack Web Developer from Assam, India 🇮🇳
 
-Building responsive, user-focused web applications with JavaScript, API integration and modern UI design.
+I'm passionate about building responsive, scalable and user-focused web applications using modern web technologies.
 
-💼 Open to Internship and Frontend Development Opportunities.
+🚀 Currently expanding my expertise in React.js, Node.js, Express.js and MongoDB while building real-world projects.
+
+💼 Open to Internships, Freelance Projects and Entry-Level Software Developer Opportunities.
 
 ---
 
-## 🚀 Skills
+🚀 Tech Stack
 
-### 🌐 Frontend
+🎨 Frontend
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- Responsive Design
+- React.js
+- Responsive Web Design
 - REST API Integration
-- UI Development
 
-### 🛠 Tools
+⚙️ Backend
+
+- Node.js (Learning)
+- Express.js (Learning)
+
+🗄 Database
+
+- MongoDB (Learning)
+
+🛠 Tools
 
 - Git
 - GitHub
 - VS Code
-
-### 📈 Development Focus
-
-- React.js
-- Modern Frontend Development
-- Backend Fundamentals
-- Database Integration
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- Postman
 
 ---
 
-## 🏆 Highlights
+🌟 Featured Projects
 
-✔ 10+ Web Development Projects
-
-✔ Responsive UI Development
-
-✔ API Integration Projects
-
-✔ Git & GitHub Workflow Experience
-
-✔ Portfolio Deployed on GitHub Pages
+- 💼 Job Portal App
+- 🛒 Premium Tech Storefront
+- 🌐 Portfolio Website
+- 🤖 AI Chatbot
+- 🌤 Weather App
+- 💬 Chat Application
 
 ---
 
-## 💻 Featured Projects
+🎯 2026 Goals
 
-### 🌐 Portfolio Website
-
-Responsive portfolio website showcasing projects, skills and professional information.
-
-🔗 Live Demo:
-https://manashjyotibora122.github.io/portfolio-website/
-
-🔗 Source Code:
-https://github.com/Manashjyotibora122/portfolio-website
+- Build Production-Ready Full Stack Applications
+- Master React.js & Node.js
+- Learn System Design
+- Contribute to Open Source
+- Secure a Software Developer Role
 
 ---
 
-### 🛒 E-Commerce Website
+📊 GitHub Analytics
 
-Responsive e-commerce interface featuring product browsing and shopping cart functionality.
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Manashjyotibora122&show_icons=true&theme=github_dark)
 
-🔗 Source Code:
-https://github.com/Manashjyotibora122/ecommerce-website
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Manashjyotibora122&layout=compact&theme=github_dark)
 
----
+"GitHub Streak" (https://streak-stats.demolab.com?user=Manashjyotibora122&theme=github-dark)
 
-### 🌤 Weather App
-
-Real-time weather application powered by API integration and dynamic weather updates.
-
-🔗 Source Code:
-https://github.com/Manashjyotibora122/weather-app
+"Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=Manashjyotibora122&theme=github-dark)
 
 ---
 
-### 🎬 Movie App
+🏆 GitHub Achievements
 
-Movie discovery application with real-time search and movie details using external APIs.
-
-🔗 Source Code:
-https://github.com/Manashjyotibora122/movie-app
+https://github-profile-trophy.vercel.app/?username=Manashjyotibora122&theme=algolia&no-frame=true&margin-w=15
 
 ---
 
-### 🤖 AI Chatbot
+🌐 Connect With Me
 
-Interactive chatbot interface focused on conversational UI and responsive design.
-
-🔗 Source Code:
-https://github.com/Manashjyotibora122/ai-chatbot
-
----
-
-### 💬 Chat App
-
-Modern chat interface designed for responsive communication experiences.
-
-🔗 Source Code:
-https://github.com/Manashjyotibora122/chat-app
+- 🌍 Portfolio: https://manashjyotibora122.github.io/portfolio-website/
+- 💼 LinkedIn: https://www.linkedin.com/in/manashjyoti-bora-323b97405
+- 📧 Email: manashjyotibora122@gmail.com
+- 🐙 GitHub: https://github.com/Manashjyotibora122
 
 ---
 
-## 🎯 Development Goals
+👀 Profile Views
 
-- Strengthen Frontend Engineering Skills
-- Build Scalable Web Applications
-- Expand Full Stack Development Knowledge
-- Contribute to Open Source Projects
-- Develop Production-Ready Applications
+https://komarev.com/ghpvc/?username=Manashjyotibora122&color=blue&style=flat
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manashjyotibora122&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manashjyotibora122&layout=compact&theme=github_dark)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manashjyotibora122&theme=github-dark)
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/Manashjyotibora122
-- Portfolio: https://manashjyotibora122.github.io/portfolio-website/
-- LinkedIn: https://www.linkedin.com/in/manashjyoti-bora-323b97405
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Manashjyotibora122&color=blue)
+«"Code with purpose. Learn without limits. Build solutions that make an impact." 🚀»
