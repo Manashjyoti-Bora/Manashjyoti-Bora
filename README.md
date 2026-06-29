@@ -162,8 +162,6 @@ https://github.com/Manashjyotibora122/portfolio-website
 
 ---
 
----
-
 ## 🤝 Let's Connect
 
 I'm actively seeking **Frontend / Full Stack Web Development Internship** opportunities where I can learn, contribute, and build impactful software with experienced teams.
