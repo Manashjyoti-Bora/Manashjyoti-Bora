@@ -162,14 +162,14 @@ https://github.com/Manashjyotibora122/portfolio-website
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always open to collaborating on exciting projects, contributing to open source, and connecting with fellow developers.
-
-If you're looking for a passionate developer or would like to collaborate, feel free to reach out!
-
-⭐ Thanks for visiting my profile!
-
 ---
 
-> 🚀 **Always learning. Always building. Always improving.**
+## 🤝 Let's Connect
+
+I'm actively seeking **Frontend / Full Stack Web Development Internship** opportunities where I can learn, contribute, and build impactful software with experienced teams.
+
+If you're hiring interns or would like to collaborate on a project, feel free to reach out.
+
+📧 **Email:** manashjyotibora122@gmail.com
+
+⭐ Thank you for visiting my profile. I look forward to connecting with you!
