@@ -18,7 +18,7 @@
 
 🌱 Currently learning **React.js, Node.js, Express.js and MongoDB**.
 
-💼 Open to **Internships, Freelance Projects and Entry-Level Software Developer Opportunities.**
+💼 Open to **Frontend & Full Stack Web Development Internship Opportunities.**
 
 ---
 
@@ -164,10 +164,10 @@ https://github.com/Manashjyotibora122/portfolio-website
 
 ## 🤝 Let's Connect
 
-I'm actively seeking **Frontend / Full Stack Web Development Internship** opportunities where I can learn, contribute, and build impactful software with experienced teams.
+I'm actively seeking **Frontend & Full Stack Web Development Internship** opportunities where I can apply my skills, learn from experienced developers, and contribute to building high-quality software.
 
-If you're hiring interns or would like to collaborate on a project, feel free to reach out.
+I enjoy creating responsive web applications, solving real-world problems, and continuously improving as a developer.
 
 📧 **Email:** manashjyotibora122@gmail.com
 
-⭐ Thank you for visiting my profile. I look forward to connecting with you!
+Thank you for visiting my profile. I look forward to connecting with recruiters, developers, and fellow learners.
