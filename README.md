@@ -1,24 +1,20 @@
 # Hi, I'm Manashjyoti Bora 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Manashjyotibora122&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Manashjyotibora122?label=Followers&style=flat" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Manashjyotibora122?affiliations=OWNER&style=flat" alt="Stars" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Manashjyotibora122&color=0891b2&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Manashjyotibora122?style=flat-square&color=0891b2)](https://github.com/Manashjyotibora122)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React.js+%7C+JavaScript+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
+> 🚀 **Full Stack Web Developer** | React • Next.js • Node.js | Building scalable, modern web applications.
+
+---
 
 ## 🚀 About Me
 
-💻 Full Stack Web Developer from Assam, India 🇮🇳
-
-🚀 Passionate about building modern, responsive and scalable web applications.
-
-🌱 Currently learning **React.js, Node.js, Express.js and MongoDB**.
-
-💼 Open to **Frontend & Full Stack Web Development Internship Opportunities.**
+- 💻 Full Stack Web Developer from **Assam, India** 🇮🇳
+- 🔥 Passionate about building **modern, responsive and scalable** web applications
+- 🌱 Currently learning **React.js, Node.js, Express.js and MongoDB**
+- 🤝 Open to **Frontend & Full Stack Web Development Internship** Opportunities
+- 📫 Email: **manashjyotibora122@gmail.com**
+- 🌐 Portfolio: **https://manashjyotibora122.github.io/portfolio-website/**
 
 ---
 
@@ -27,147 +23,87 @@
 - 🚀 Building Production-Ready Full Stack Applications
 - ⚡ Mastering React.js Ecosystem
 - 🌐 Learning Backend Development with Node.js & Express.js
-- 🗄️ Working with MongoDB & REST APIs
+- 🍃 Working with MongoDB & REST APIs
 - 🤝 Contributing to Open Source
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Tech Stack
 
-- ⚛️ Advanced React.js
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 🔐 Authentication (JWT)
-- ☁️ Deployment (Vercel, Netlify & Render)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
-</p>
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manashjyotibora122&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manashjyotibora122&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+![Manashjyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manashjyotibora122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Manashjyotibora122&theme=github-dark&hide_border=true"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manashjyotibora122&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manashjyotibora122&theme=github-dark"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Manashjyotibora122/Manashjyotibora122/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manashjyotibora122&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 💼 Job Portal App
-
-A modern job portal web application built with React.js and Vite, designed to provide a fast, responsive and intuitive job searching experience.
-
-**✨ Key Features**
-- 🔍 Smart Job Search
-- 📱 Fully Responsive Design
-- ⚡ Fast Performance
-- 🎨 Clean & Modern UI
-
-**🛠 Tech Stack**
-React.js • Vite • JavaScript • CSS3
-
-**🌐 Live Demo**
-https://job-portal-app-olive.vercel.app/
-
-**📂 Repository**
-https://github.com/Manashjyotibora122/job-portal-app
-
----
+> A modern job portal web application built with React.js and Vite.
+- 🔍 Smart Job Search | 📱 Fully Responsive | ⚡ Fast Performance
+- **Tech Stack:** React.js • Vite • JavaScript • CSS3
+- 🌐 [Live Demo](https://job-portal-app-olive.vercel.app/) | 📁 [Repository](https://github.com/Manashjyotibora122/job-portal-app)
 
 ### 🛒 Premium Tech Storefront
-
-A premium e-commerce storefront built with Next.js and TypeScript, featuring a modern shopping experience and responsive design.
-
-**✨ Key Features**
-- 🛍 Premium Product Showcase
-- 📱 Responsive Layout
-- ⚡ Optimized Performance
-- 🎨 Elegant User Interface
-
-**🛠 Tech Stack**
-Next.js • TypeScript • React • Tailwind CSS
-
-**🌐 Live Demo**
-https://premium-tech-storefront.vercel.app/
-
-**📂 Repository**
-https://github.com/Manashjyotibora122/premium-tech-storefront
-
----
+> Premium e-commerce storefront built with Next.js and TypeScript.
+- 🛍️ Premium Products | 📱 Responsive | ⚡ Optimized Performance
+- **Tech Stack:** Next.js • TypeScript • React • Tailwind CSS
+- 🌐 [Live Demo](https://premium-tech-storefront.vercel.app/) | 📁 [Repository](https://github.com/Manashjyotibora122/premium-tech-storefront)
 
 ### 🌐 Portfolio Website
-
-My personal portfolio showcasing projects, technical skills and development journey.
-
-**✨ Key Features**
-- 👨‍💻 Developer Profile
-- 💼 Project Showcase
-- 📱 Responsive Design
-- 📬 Contact Section
-
-**🛠 Tech Stack**
-HTML5 • CSS3 • JavaScript
-
-**🌐 Live Demo**
-https://manashjyotibora122.github.io/portfolio-website/
-
-**📂 Repository**
-https://github.com/Manashjyotibora122/portfolio-website
+> Personal portfolio showcasing projects, skills and development journey.
+- **Tech Stack:** HTML5 • CSS3 • JavaScript
+- 🌐 [Live Demo](https://manashjyotibora122.github.io/portfolio-website/) | 📁 [Repository](https://github.com/Manashjyotibora122/portfolio-website)
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Manashjyotibora122" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/manashjyoti-bora-323b97405" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://manashjyotibora122.github.io/portfolio-website/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="mailto:manashjyotibora122@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manashjyotibora122)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manashjyotibora)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://manashjyotibora122.github.io/portfolio-website/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com)
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm actively seeking **Frontend & Full Stack Web Development Internship** opportunities where I can apply my skills, learn from experienced developers, and contribute to building high-quality software.
+I'm actively seeking **Frontend & Full Stack Web Development Internship** opportunities where I can:
+- ✅ Apply my skills in real-world projects
+- ✅ Learn from experienced developers
+- ✅ Contribute to building high-quality software
+- ✅ Grow as a professional developer
 
 I enjoy creating responsive web applications, solving real-world problems, and continuously improving as a developer.
 
-📧 **Email:** manashjyotibora122@gmail.com
+> Thank you for visiting my profile! I look forward to connecting with recruiters, developers, and fellow learners. 🙏
 
-Thank you for visiting my profile. I look forward to connecting with recruiters, developers, and fellow learners.
+---
+*⭐ Star my repositories if you find them useful!*
