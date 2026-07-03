@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=%F0%9F%9A%80+Full+Stack+Software+Developer+%7C+Crafting+Modern+Web+Experiences;%E2%9A%A1+React+19+%E2%80%A2+Next.js+App+Router+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;%F0%9F%8E%AF+Clean+Architecture+%E2%80%A2+Performance+First+%E2%80%A2+Pixel-Perfect+UI;%E2%9C%A8+Open+to+Software+Developer+Internships+%26+Junior+Roles!)](https://portfolio-website-manashjyoti.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=%F0%9F%9A%80+Full+Stack+Software+Developer+%7C+Crafting+Modern+Web+Experiences;%E2%9A%A1+React+19+%E2%80%A2+Next.js+App+Router+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;%F0%9F%8E%AF+Clean+Architecture+%E2%80%A2+Performance+First+%E2%80%A2+Pixel-Perfect+UI;%E2%9C%A8+Open+to+Software+Developer+Internships+%26+Junior+Roles!)](https://manashjyoti-bora.vercel.app)
 
 <!-- ═══════════════════ STATUS BADGES ═══════════════════ -->
 
@@ -15,7 +15,7 @@
 ![Open for Internship](https://img.shields.io/badge/OPEN_FOR-INTERNSHIP-10b981?style=for-the-badge&labelColor=0f172a)
 ![Status](https://img.shields.io/badge/STATUS-AVAILABLE_NOW-22d3ee?style=for-the-badge&labelColor=0f172a)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Website-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-manashjyoti.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Website-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://manashjyoti-bora.vercel.app)
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
 ![Location](https://img.shields.io/badge/📍_Nagaon,_Assam-India_🇮🇳-f59e0b?style=for-the-badge&labelColor=0f172a)
@@ -138,7 +138,7 @@ remote: Ready ✅
 ### 🌐 AUREA — Portfolio Website
 **⭐ Best & Latest Project** · `v1.0` · ✅ Live in Production
 
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Visit_Website-6366f1?style=for-the-badge)](https://portfolio-website-manashjyoti.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Visit_Website-6366f1?style=for-the-badge)](https://manashjyoti-bora.vercel.app)
 [![Source](https://img.shields.io/badge/📂_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Manashjyoti-Bora/portfolio-website)
 
 > Award-style premium developer portfolio — a full product, not a template.
@@ -317,12 +317,12 @@ remote: Ready ✅
 | 🤝 **Collaboration** | Git/GitHub workflow, code reviews, agile-friendly |
 | ⚡ **Response Time** | Within 24 hours, every time |
 
-[![Resume Download](https://img.shields.io/badge/📄_RESUME-Download_PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://portfolio-website-manashjyoti.vercel.app/resume.pdf)
-[![Resume Preview](https://img.shields.io/badge/👀_RESUME-Preview_Online-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-manashjyoti.vercel.app/resume.pdf)
+[![Resume Download](https://img.shields.io/badge/📄_RESUME-Download_PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://manashjyoti-bora.vercel.app/resume.pdf)
+[![Resume Preview](https://img.shields.io/badge/👀_RESUME-Preview_Online-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manashjyoti-bora.vercel.app/resume.pdf)
 
 ### 🌐 Portfolio — My Work, Live
 
-[![Visit Portfolio](https://img.shields.io/badge/🚀_VISIT_LIVE_PORTFOLIO-portfolio--website--manashjyoti.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-manashjyoti.vercel.app)
+[![Visit Portfolio](https://img.shields.io/badge/🚀_VISIT_LIVE_PORTFOLIO-manashjyoti--bora.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://manashjyoti-bora.vercel.app)
 [![Portfolio Source](https://img.shields.io/badge/📂_VIEW_SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manashjyoti-Bora/portfolio-website)
 
 </div>
@@ -338,7 +338,7 @@ remote: Ready ✅
 [![Email](https://img.shields.io/badge/📧_manashjyotibora122@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Manashjyoti_Bora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-Manashjyoti--Bora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manashjyoti-Bora)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-manashjyoti.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://manashjyoti-bora.vercel.app)
 
 <!-- ═══════════════════ FUN + QUOTE ═══════════════════ -->
 
