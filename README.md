@@ -22,6 +22,8 @@
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
 ![Location](https://img.shields.io/badge/📍_Nagaon,_Assam-India_🇮🇳-f59e0b?style=for-the-badge&labelColor=0f172a)
 
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="220" alt="developer illustration"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -93,6 +95,18 @@ remote: Ready ✅
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="28"> Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
+
+*↑ these icons are animated — watch them move!*
+
+</div>
 
 ### ⚡ Frontend & Styling
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,redux&theme=dark)
@@ -269,6 +283,8 @@ remote: Ready ✅
 </td>
 <td width="50%" valign="top">
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Developer at work"/>
+
 ### 📚 Learning Roadmap
 - ✅ HTML/CSS/JS fundamentals → React → Next.js + TypeScript *(done, shipped)*
 - 🔄 **Now:** Node.js backends, system design, performance optimization
@@ -279,7 +295,7 @@ remote: Ready ✅
 </tr>
 </table>
 
-## 🏆 Milestones & Achievements
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="28"> Milestones & Achievements
 
 | Year | Achievement |
 |---|---|
@@ -292,7 +308,7 @@ remote: Ready ✅
 
 <!-- ═══════════════════ PHILOSOPHY + SERVICES ═══════════════════ -->
 
-## 💡 Development Philosophy
+## <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="28"> Development Philosophy
 
 <div align="center">
 
@@ -306,7 +322,7 @@ remote: Ready ✅
 
 </div>
 
-## 🤝 What I Can Do For You
+## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="28"> What I Can Do For You
 
 `Frontend Development` · `Full Stack Development` · `Responsive Websites` · `UI Implementation (Figma → Code)` · `API Integration` · `Performance Optimization`
 
@@ -314,7 +330,7 @@ remote: Ready ✅
 
 <!-- ═══════════════════ RECRUITER SECTION ═══════════════════ -->
 
-## 🎯 For Recruiters — Quick Facts
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="28"> For Recruiters — Quick Facts
 
 <div align="center">
 
@@ -345,6 +361,12 @@ remote: Ready ✅
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/manashjyoti-bora-323b97405"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:manashjyotibora122@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" alt="Email"/></a>
+&nbsp;
+<a href="https://manashjyoti-bora.vercel.app"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="Portfolio"/></a>
+
 [![Email](https://img.shields.io/badge/📧_manashjyotibora122@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Manashjyoti_Bora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-Manashjyoti--Bora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manashjyoti-Bora)
@@ -355,6 +377,8 @@ remote: Ready ✅
 ### ✨ Daily Dev Wisdom
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="240" alt="typing"/>
 
 **💭 "Ship real things. Learn in public. Every project deployed, every line on GitHub."**
 
