@@ -177,17 +177,21 @@ remote: Ready ✅
 <td width="50%" valign="top">
 
 ### 🛒 NexusMart — Full-Stack E-Commerce
-**🚧 In Development** · Backend + Auth + Database showcase
+**⚙️ Backend Powerhouse** · `v1.0` · ✅ Live in Production
 
-> Complete online store proving the full stack: Node.js API routes, MongoDB CRUD, JWT authentication, cart + checkout, user dashboard and admin product panel.
+[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Visit_Store-10b981?style=for-the-badge)](https://nexusmart-dusky.vercel.app)
+[![Source](https://img.shields.io/badge/📂_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Manashjyoti-Bora/nexusmart)
 
-**Planned Features:**
-- 🔐 JWT auth (bcrypt + HTTP-only cookies) with protected routes
-- 🗄️ MongoDB Atlas — users, products, orders collections
-- 🛒 Cart, checkout flow & order history
-- 🛠️ Admin panel with product CRUD
+> Complete online store proving the full stack: real database, real auth, real checkout — try it live.
 
-`Next.js` `TypeScript` `Node.js` `MongoDB` `JWT` `Zod`
+**Key Features:**
+- 🔐 JWT auth — bcrypt hashing, HTTP-only cookies, rate-limited login
+- 🗄️ MongoDB Atlas — users, products & orders (server-computed totals)
+- 🛒 Cart with optimistic updates, checkout & order history
+- 🛠️ Role-gated admin panel with product CRUD
+- ✅ Zod validation on client AND server
+
+`Next.js` `TypeScript` `Node.js` `MongoDB` `JWT` `Zod` `Tailwind`
 
 </td>
 <td width="50%" valign="top">
@@ -274,7 +278,7 @@ remote: Ready ✅
 | Year | Achievement |
 |---|---|
 | 🚀 2026 | Launched **AUREA** — full Next.js 14 + TypeScript + GSAP portfolio, engineered **entirely from an Android phone** (Termux + Git + Vercel) |
-| 🛍️ 2026 | Shipped **Premium Tech Storefront** — Apple/Netflix-grade e-commerce UX, live on Vercel |
+| 🛒 2026 | Shipped **NexusMart** — full-stack e-commerce LIVE: Node.js APIs, MongoDB Atlas, JWT auth, admin panel |
 | 💼 2026 | Built **DevHire Pro ATS** & **TaskFlow** with React 19 |
 | 🌐 2025 | First deployed website — hand-coded vanilla HTML/CSS/JS on GitHub Pages |
 
