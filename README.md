@@ -12,6 +12,8 @@
 
 <!-- ═══════════════════ STATUS BADGES ═══════════════════ -->
 
+![Last Shipped](https://img.shields.io/github/last-commit/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=8b5cf6&label=LAST%20SHIPPED)
+![Commits](https://img.shields.io/github/commit-activity/m/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=22d3ee&label=COMMITS%2FMONTH)
 ![Profile Views](https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VIEWS&color=3b82f6&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=6366f1&labelColor=0f172a)](https://github.com/Manashjyoti-Bora?tab=followers)
 ![Open for Internship](https://img.shields.io/badge/OPEN_FOR-INTERNSHIP-10b981?style=for-the-badge&labelColor=0f172a)
@@ -295,6 +297,17 @@ remote: Ready ✅
 </tr>
 </table>
 
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#6366f1','primaryTextColor':'#fff','lineColor':'#38bdf8'}}}%%
+timeline
+    title 🚀 My Developer Journey
+    2025 : First website — vanilla HTML/CSS/JS : Deployed on GitHub Pages
+    2026 Q1 : Joined B.Voc IT — Dr. BKB College : React + Next.js + TypeScript
+    2026 Q2 : Built DevHire Pro & TaskFlow : React 19 mastery
+    2026 Q3 : AUREA portfolio LIVE : NexusMart full-stack LIVE : Built 100% from a phone 📱
+    Next : Open source contributions : First internship 🎯
+```
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="28"> Milestones & Achievements
 
 | Year | Achievement |
@@ -378,6 +391,10 @@ remote: Ready ✅
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+### 😄 Random Dev Joke (changes every visit!)
+
+![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="240" alt="typing"/>
 
 **💭 "Ship real things. Learn in public. Every project deployed, every line on GitHub."**
@@ -385,6 +402,32 @@ remote: Ready ✅
 <br/>
 
 **🙏 Thanks for visiting!** If my work resonates, let's talk — the fastest way is [email](mailto:manashjyotibora122@gmail.com).
+
+<details>
+<summary>🥚 <b>psst... click here for a secret</b></summary>
+<br>
+
+```text
+ ┌─────────────────────────────────────────────┐
+ │  You found the easter egg! 🎉               │
+ │                                             │
+ │  Fun fact: this entire GitHub presence —    │
+ │  every repo, every README, every deploy —   │
+ │  was built without ever touching a laptop.  │
+ │                                             │
+ │  If a phone can ship production code,       │
+ │  imagine what I'll do with a real machine.  │
+ │                                             │
+ │  Let's build something → manashjyotibora122 │
+ │  @gmail.com                                 │
+ └─────────────────────────────────────────────┘
+```
+
+*There's another easter egg hidden in my portfolio — try typing `iddqd` at manashjyoti-bora.vercel.app* 👀
+
+</details>
+
+<br>
 
 ![Last Updated](https://img.shields.io/badge/Last_Updated-July_2026-3b82f6?style=flat-square&labelColor=0f172a)
 ![Made with](https://img.shields.io/badge/Made_with-❤️_&_Markdown-ef4444?style=flat-square&labelColor=0f172a)
