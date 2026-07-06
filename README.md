@@ -133,7 +133,7 @@ remote: Ready ✅
 ### 🔧 Workflow, Build & Design Tools
 ![Tools](https://skillicons.dev/icons?i=vscode,vite,npm,postman,figma&theme=dark)
 
-### 🎨 Skill Meters
+### <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="24"> Skill Meters
 
 | | | |
 |---|---|---|
@@ -283,7 +283,7 @@ remote: Ready ✅
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 
-### 🐍 Contribution Snake
+### <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="24"> Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg)
 
@@ -475,6 +475,8 @@ Visit [manashjyoti-bora.vercel.app](https://manashjyoti-bora.vercel.app) and pre
 ![License](https://img.shields.io/badge/©_2026-Manashjyoti_Bora-6366f1?style=flat-square&labelColor=0f172a)
 
 ![Luminance](https://svg-banners.vercel.app/api?type=luminance&text1=Let's%20build%20something%20amazing&width=800&height=120)
+
+![Twinkle](https://capsule-render.vercel.app/api?type=transparent&height=90&text=Manashjyoti%20Bora&fontSize=42&fontColor=8b5cf6&animation=twinkling)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:3b82f6,100:06b6d4&height=130&section=footer)
 
