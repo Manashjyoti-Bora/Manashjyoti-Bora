@@ -14,12 +14,10 @@
 
 <!-- ═══════════════════ STATUS BADGES ═══════════════════ -->
 
-![Last Shipped](https://img.shields.io/github/last-commit/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=8b5cf6&label=LAST%20SHIPPED)
-![Commits](https://img.shields.io/github/commit-activity/m/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=22d3ee&label=COMMITS%2FMONTH)
-![Profile Views](https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VIEWS&color=3b82f6&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=6366f1&labelColor=0f172a)](https://github.com/Manashjyoti-Bora?tab=followers)
+![Last Shipped](https://img.shields.io/github/last-commit/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=8b5cf6&label=LAST%20SHIPPED&labelColor=0f172a)
+![Commits](https://img.shields.io/github/commit-activity/m/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=22d3ee&label=SHIPS%2FMONTH&labelColor=0f172a)
 ![Open for Internship](https://img.shields.io/badge/OPEN_FOR-INTERNSHIP-10b981?style=for-the-badge&labelColor=0f172a)
-![Status](https://img.shields.io/badge/STATUS-AVAILABLE_NOW-22d3ee?style=for-the-badge&labelColor=0f172a)
+[![Followers](https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=6366f1&labelColor=0f172a)](https://github.com/Manashjyoti-Bora?tab=followers)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Website-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://manashjyoti-bora.vercel.app)
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com)
@@ -28,9 +26,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="220" alt="developer illustration"/>
 
+[![scroll](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=15&pause=800&color=64748B&center=true&vCenter=true&width=500&lines=scroll+for+more+%E2%86%93;there's+a+3D+city+down+there+%F0%9F%8F%99%EF%B8%8F;and+an+easter+egg+%F0%9F%A5%9A)](https://github.com/Manashjyoti-Bora)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:ec4899,100:f59e0b" width="100%">
 
 <!-- ═══════════════════ INTRODUCTION ═══════════════════ -->
 
@@ -88,7 +88,7 @@ remote: Ready ✅
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:ec4899,100:f59e0b" width="100%">
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
@@ -103,7 +103,7 @@ remote: Ready ✅
 | 🎨 **Interests** | Creative frontend · Motion design · Developer tooling · Open source |
 | 🗺️ **Roadmap** | Internship → Junior Developer → Product-minded Full-Stack Engineer |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:ec4899,100:f59e0b" width="100%">
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
@@ -165,7 +165,7 @@ remote: Ready ✅
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:ec4899,100:f59e0b" width="100%">
 
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
@@ -261,7 +261,7 @@ remote: Ready ✅
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:ec4899,100:f59e0b" width="100%">
 
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
@@ -293,7 +293,7 @@ remote: Ready ✅
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:ec4899,100:f59e0b" width="100%">
 
 <!-- ═══════════════════ OPEN SOURCE + LEARNING ═══════════════════ -->
 
@@ -343,7 +343,7 @@ timeline
 | 💼 2026 | Built **DevHire Pro ATS** & **TaskFlow** with React 19 |
 | 🌐 2025 | First deployed website — hand-coded vanilla HTML/CSS/JS on GitHub Pages |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:ec4899,100:f59e0b" width="100%">
 
 <!-- ═══════════════════ PHILOSOPHY + SERVICES ═══════════════════ -->
 
@@ -365,7 +365,7 @@ timeline
 
 `Frontend Development` · `Full Stack Development` · `Responsive Websites` · `UI Implementation (Figma → Code)` · `API Integration` · `Performance Optimization`
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:ec4899,100:f59e0b" width="100%">
 
 <!-- ═══════════════════ RECRUITER SECTION ═══════════════════ -->
 
@@ -401,7 +401,7 @@ timeline
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8b5cf6,50:ec4899,100:f59e0b" width="100%">
 
 <!-- ═══════════════════ CONTACT ═══════════════════ -->
 
