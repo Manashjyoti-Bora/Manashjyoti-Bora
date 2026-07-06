@@ -8,6 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=%F0%9F%9A%80+Full+Stack+Software+Developer+%7C+Crafting+Modern+Web+Experiences;%E2%9A%A1+React+19+%E2%80%A2+Next.js+App+Router+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;%F0%9F%8E%AF+Clean+Architecture+%E2%80%A2+Performance+First+%E2%80%A2+Pixel-Perfect+UI;%E2%9C%A8+Open+to+Software+Developer+Internships+%26+Junior+Roles!)](https://manashjyoti-bora.vercel.app)
 
+![Glitch Banner](https://svg-banners.vercel.app/api?type=glitch&text1=MANASHJYOTI%20BORA&width=800&height=150)
+
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" alt="animated banner">
 
 <!-- ═══════════════════ STATUS BADGES ═══════════════════ -->
@@ -257,6 +259,10 @@ remote: Ready ✅
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manashjyoti-Bora&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=3b82f6&line=38bdf8&point=e2e8f0&area=true)
 
+### 🏙️ 3D Contribution City (yes, THREE-DIMENSIONAL!)
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+
 ### 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg)
@@ -342,6 +348,8 @@ timeline
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ RECRUITER SECTION ═══════════════════ -->
+
+![TypeWriter](https://svg-banners.vercel.app/api?type=typeWriter&text1=I%20ship%20production%20code%20from%20a%20phone%20📱&width=800&height=120)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="28"> For Recruiters — Quick Facts
 
@@ -432,6 +440,8 @@ timeline
 ![Last Updated](https://img.shields.io/badge/Last_Updated-July_2026-3b82f6?style=flat-square&labelColor=0f172a)
 ![Made with](https://img.shields.io/badge/Made_with-❤️_&_Markdown-ef4444?style=flat-square&labelColor=0f172a)
 ![License](https://img.shields.io/badge/©_2026-Manashjyoti_Bora-6366f1?style=flat-square&labelColor=0f172a)
+
+![Luminance](https://svg-banners.vercel.app/api?type=luminance&text1=Let's%20build%20something%20amazing&width=800&height=120)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:3b82f6,100:06b6d4&height=130&section=footer)
 
