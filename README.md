@@ -481,3 +481,5 @@ Visit [manashjyoti-bora.vercel.app](https://manashjyoti-bora.vercel.app) and pre
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:3b82f6,100:06b6d4&height=130&section=footer)
 
 </div>
+
+<!-- v1.0.0 -->
