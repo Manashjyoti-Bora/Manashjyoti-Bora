@@ -1,96 +1,181 @@
 <div align="center">
 
-![Breach](https://svg-banners.vercel.app/api?type=glitch&text1=MANASHJYOTI%20BORA&width=800&height=150)
+<!-- ═══ 1. ANIMATED BANNER ═══ -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:1e3a8a,45:3b82f6,70:8b5cf6,100:d946ef&height=280&section=header&text=Manashjyoti%20Bora&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descSize=16&descAlignY=52)
 
-[![Typing](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=2200&pause=600&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=%3E+INITIALIZING+PROFILE...+ACCESS+GRANTED+%E2%9C%94;%3E+FULL+STACK+DEVELOPER+%7C+SHIPS+FROM+A+PHONE+%F0%9F%93%B1;%3E+2+PRODUCTS+LIVE+%7C+100%25+CODE+PUBLIC+%7C+ZERO+EXCUSES;%3E+STATUS%3A+HUNTING+INTERNSHIPS+%5BACTIVE%5D)](https://manashjyoti-bora.vercel.app)
+![Glitch](https://svg-banners.vercel.app/api?type=glitch&text1=BUILT%20FROM%20A%20PHONE%20📱&width=800&height=110)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ff41,50:22d3ee,100:8b5cf6" width="100%">
+<!-- ═══ 2. TYPING SVG ═══ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=830&height=90&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+2+Products+LIVE+in+Production;%E2%9A%A1+React+19+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;%F0%9F%93%B1+Everything+shipped+from+an+Android+phone+%E2%80%94+zero+excuses;%F0%9F%8E%AF+Open+to+SDE+Internships+%26+Junior+Roles+%5BACTIVE%5D)](https://manashjyoti-bora.vercel.app)
 
-![Last Shipped](https://img.shields.io/github/last-commit/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=00ff41&label=LAST%20DEPLOY&labelColor=0d1117)
-![Ships](https://img.shields.io/github/commit-activity/m/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=22d3ee&label=OPS%2FMONTH&labelColor=0d1117)
-![Status](https://img.shields.io/badge/UPLINK-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117)
-![Intrusions](https://komarev.com/ghpvc/?username=Manashjyoti-Bora&color=00ff41&style=for-the-badge&label=INTRUSION+ATTEMPTS)
-[![Followers](https://img.shields.io/github/followers/Manashjyoti-Bora?label=OPERATIVES&style=for-the-badge&color=8b5cf6&labelColor=0d1117)](https://github.com/Manashjyoti-Bora?tab=followers)
+<!-- ═══ 3. VISITOR COUNTER + LIVE BADGES ═══ -->
+![Visitors](https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VISITS&color=8b5cf6&style=for-the-badge)
+![Last Shipped](https://img.shields.io/github/last-commit/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=22d3ee&label=LAST%20SHIPPED&labelColor=0f172a)
+![Open To Work](https://img.shields.io/badge/OPEN_TO-INTERNSHIP-10b981?style=for-the-badge&labelColor=0f172a)
+[![Followers](https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=6366f1&labelColor=0f172a)](https://github.com/Manashjyoti-Bora?tab=followers)
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:3b82f6,50:8b5cf6,100:d946ef" width="100%">
+
+<!-- ═══ 4. ABOUT ME ═══ -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="28"> About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **Full Stack Developer** from **Nagaon, Assam, India** 🇮🇳 — and everything on this profile is **clickable proof, not claims.**
+
+- 🚀 **2 products LIVE** in production — portfolio + full-stack e-commerce
+- 📱 **100% built from an Android phone** — Termux + Git + Vercel
+- 🎓 B.Voc IT @ Dr. BKB College (2026–2030)
+- 🌱 Currently: Node.js depth, system design, open source
+- 💡 Fun fact: Next.js dev mode can't even run on Android — so I made Vercel my build machine. The constraint taught me professional CI/CD.
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 ```ansi
-[38;5;46m╔══════════════════════════════════════════════════════════════════╗[0m
-[38;5;46m║[0m  [38;5;213m❯ sudo access ./manashjyoti_bora.profile[0m                        [38;5;46m║[0m
-[38;5;46m║[0m  [38;5;250m[sudo] password: ********[0m  [38;5;46m→ ACCESS GRANTED ✔[0m                    [38;5;46m║[0m
-[38;5;46m╠══════════════════════════════════════════════════════════════════╣[0m
-[38;5;46m║[0m  [38;5;51mCODENAME......:[0m Full Stack Developer                             [38;5;46m║[0m
-[38;5;46m║[0m  [38;5;51mBASE..........:[0m Nagaon, Assam, India [IST]                       [38;5;46m║[0m
-[38;5;46m║[0m  [38;5;51mHARDWARE......:[0m 1× Android phone. That's it. 📱                  [38;5;46m║[0m
-[38;5;46m║[0m  [38;5;51mARSENAL.......:[0m React 19 · Next.js · TypeScript · Node · Mongo   [38;5;46m║[0m
-[38;5;46m║[0m  [38;5;51mDEPLOYMENTS...:[0m 2 live in production · 5 public repos            [38;5;46m║[0m
-[38;5;46m║[0m  [38;5;51mTRAINING......:[0m B.Voc IT — Dr. BKB College [2026-2030]           [38;5;46m║[0m
-[38;5;46m║[0m  [38;5;220mMISSION.......:[0m SDE Internship / Junior Role — [38;5;46mRECRUITING ME     [0m[38;5;46m║[0m
-[38;5;46m║[0m  [38;5;250mCONTACT.......:[0m manashjyotibora122@gmail.com — replies <24h      [38;5;46m║[0m
-[38;5;46m╚══════════════════════════════════════════════════════════════════╝[0m
+[38;5;213m❯ status[0m
+[38;5;46m● AVAILABLE NOW[0m
+[38;5;213m❯ replies_within[0m
+[38;5;51m24 hours[0m
 ```
 
-> [!IMPORTANT]
-> **⚡ RECRUITER FAST-PATH:** No laptop. No excuses. Every claim below is a clickable, live, verifiable deployment. Fastest audit: [**nexusmart-dusky.vercel.app**](https://nexusmart-dusky.vercel.app) → create account → place order. You just used my MongoDB + JWT backend.
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ff41,50:22d3ee,100:8b5cf6" width="100%">
+<!-- ═══ 5. SOCIAL LINKS + 6. CONTACT ═══ -->
+<div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="26"> ACTIVE DEPLOYMENTS
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://manashjyoti-bora.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://manashjyoti-bora.vercel.app/resume.pdf)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:3b82f6,50:8b5cf6,100:d946ef" width="100%">
+
+<!-- ═══ 7. TECH STACK + 8. SKILL ICONS ═══ -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="28"> Tech Stack
+
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" alt="React"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="TypeScript"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" alt="JavaScript"/>
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="58" height="58" alt="REST"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="58" height="58" alt="GitHub"/>
+
+*↑ animated — watch them move!*
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,redux&theme=dark)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase&theme=dark)
+![Tools](https://skillicons.dev/icons?i=vercel,netlify,git,github,githubactions,linux,vscode,vite,npm,postman,figma&theme=dark)
+
+</div>
+
+| Skill | Level | |
+|---|---|---|
+| **React / Next.js** | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ | `daily driver` |
+| **TypeScript** | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ | `typed everything` |
+| **Node.js / MongoDB** | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ | `production-deployed` |
+| **Consistency** | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 | `superpower 🔥` |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:3b82f6,50:8b5cf6,100:d946ef" width="100%">
+
+<!-- ═══ 9. GITHUB STATS + 10. STREAK + 11. TOP LANGS + 12. ACTIVITY + 13. CONTRIB GRAPH + 14. SNAKE + 15. 3D ═══ -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="28"> GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=8b5cf6&icon_color=38bdf8&text_color=e2e8f0&ring_color=8b5cf6" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manashjyoti-Bora&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=8b5cf6&text_color=e2e8f0" width="41%" alt="Top Languages"/>
+
+![Streak](https://streak-stats.demolab.com/?user=Manashjyoti-Bora&theme=tokyonight&hide_border=true&background=0f172a&stroke=8b5cf6&ring=8b5cf6&fire=d946ef&currStreakLabel=8b5cf6&sideLabels=e2e8f0)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manashjyoti-Bora&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=8b5cf6&line=38bdf8&point=e2e8f0&area=true)
+
+### 🏙️ 3D Contribution City *(every commit = one building)*
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions"/>
+
+### 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg)
+
+### 🗓️ Contribution Heatmap
+
+<img src="https://ghchart.rshah.org/8b5cf6/Manashjyoti-Bora" width="100%" alt="heatmap"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manashjyoti-Bora&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manashjyoti-Bora&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manashjyoti-Bora&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manashjyoti-Bora&theme=tokyonight&utcOffset=5.5" width="32%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:3b82f6,50:8b5cf6,100:d946ef" width="100%">
+
+<!-- ═══ 16. FEATURED PROJECTS ═══ -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="28"> Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 OPERATION: AUREA
-`STATUS: LIVE ✔` `CLASS: FLAGSHIP`
+### ✨ AUREA — Portfolio
+`✅ LIVE` `⭐ FLAGSHIP`
 
-[![Live](https://img.shields.io/badge/⚡_INFILTRATE-manashjyoti--bora.vercel.app-00ff41?style=for-the-badge&labelColor=0d1117)](https://manashjyoti-bora.vercel.app)
-[![Src](https://img.shields.io/badge/📂_SOURCE-DECLASSIFIED-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://github.com/Manashjyoti-Bora/portfolio-website)
+[![Live](https://img.shields.io/badge/🔴_LIVE-Visit-8b5cf6?style=for-the-badge)](https://manashjyoti-bora.vercel.app)
+[![Code](https://img.shields.io/badge/📂_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Manashjyoti-Bora/portfolio-website)
 
-> Award-grade portfolio. Three.js particle field, GSAP choreography, ⌘K command palette, **hidden terminal** (`sudo hire-me` works), AI concierge, live GitHub telemetry, CSP hardened.
+> Three.js 3D hero · GSAP · ⌘K palette · hidden terminal · AI chatbot · live GitHub dashboard · CSP hardened.
+
+**Try:** <kbd>Ctrl</kbd>+<kbd>K</kbd> · type <kbd>iddqd</kbd> 🤫
 
 `Next.js 14` `TypeScript` `Three.js` `GSAP`
-
-**⌨️ Intrusion codes:** <kbd>Ctrl</kbd>+<kbd>K</kbd> · <kbd>Ctrl</kbd>+<kbd>/</kbd> · type <kbd>iddqd</kbd> 🤫
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 OPERATION: NEXUSMART
-`STATUS: LIVE ✔` `CLASS: FULL-STACK`
+### 🛒 NexusMart — E-Commerce
+`✅ LIVE` `⚙️ FULL-STACK`
 
-[![Live](https://img.shields.io/badge/⚡_INFILTRATE-nexusmart--dusky.vercel.app-00ff41?style=for-the-badge&labelColor=0d1117)](https://nexusmart-dusky.vercel.app)
-[![Src](https://img.shields.io/badge/📂_SOURCE-DECLASSIFIED-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://github.com/Manashjyoti-Bora/nexusmart)
+[![Live](https://img.shields.io/badge/🔴_LIVE-Try_It-10b981?style=for-the-badge)](https://nexusmart-dusky.vercel.app)
+[![Code](https://img.shields.io/badge/📂_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Manashjyoti-Bora/nexusmart)
 
-> Production e-commerce. **MongoDB Atlas** · **JWT + bcrypt** (HTTP-only cookies, rate-limited) · server-computed totals (price-tamper proof) · role-gated admin panel · Zod on both sides.
+> MongoDB Atlas · JWT + bcrypt (HTTP-only cookies) · server-computed totals · role-gated admin panel · Zod both sides.
+
+**Try:** create account → place an order. It's real.
 
 `Node.js` `MongoDB` `JWT` `Zod`
-
-**🔐 Security-first:** no user enumeration, no client trust.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 OPERATION: DEVHIRE PRO
-`STATUS: COMPLETE ✔`
+### 💼 DevHire Pro — Job Portal & ATS
+[![Code](https://img.shields.io/badge/📂_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Manashjyoti-Bora/devhire-pro-ats)
 
-[![Src](https://img.shields.io/badge/📂_SOURCE-DECLASSIFIED-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://github.com/Manashjyoti-Bora/devhire-pro-ats)
-
-> Job portal + ATS. Triple real-time filter (keyword × skill × location), memoized React 19 rendering, pipeline tracker, glassmorphic theming.
+> Real-time triple filtering (keyword × skill × location), memoized React 19, pipeline tracker.
 
 `React 19` `Vite`
 
 </td>
 <td width="50%" valign="top">
 
-### 📋 OPERATION: TASKFLOW
-`STATUS: COMPLETE ✔`
+### 📋 TaskFlow — Kanban Suite
+[![Code](https://img.shields.io/badge/📂_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Manashjyoti-Bora/taskflow-enterprise)
 
-[![Src](https://img.shields.io/badge/📂_SOURCE-DECLASSIFIED-8b5cf6?style=for-the-badge&labelColor=0d1117)](https://github.com/Manashjyoti-Bora/taskflow-enterprise)
-
-> Agile Kanban suite. Dynamic stage columns, live priority tags, centralized state — zero reloads.
+> Dynamic stage columns, live priority tags, centralized state — zero reloads.
 
 `React` `State Management`
 
@@ -98,147 +183,87 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ff41,50:22d3ee,100:8b5cf6" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:3b82f6,50:8b5cf6,100:d946ef" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="26"> WEAPONS CACHE
-
-<div align="center">
-
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React"/>
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript"/>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript"/>
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST"/>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub"/>
-
-*↑ live ammunition — they move*
-
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,redux&theme=dark)
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase&theme=dark)
-![Ops](https://skillicons.dev/icons?i=vercel,netlify,git,github,githubactions,linux,vscode,vite,npm,postman,figma&theme=dark)
-
-</div>
-
-| LOADOUT | AMMO | CLEARANCE |
-|---|---|---|
-| **React / Next.js** | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ | `PRIMARY WEAPON` |
-| **TypeScript** | 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛ | `DAILY CARRY` |
-| **Tailwind CSS** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛ | `FLUENT` |
-| **Node.js / APIs** | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ | `FIELD-TESTED` |
-| **MongoDB** | 🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ | `PRODUCTION-DEPLOYED` |
-| **Consistency** | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 | `⚠ MAXIMUM — DO NOT ENGAGE` |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ff41,50:22d3ee,100:8b5cf6" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="26"> SURVEILLANCE FEED
+<!-- ═══ 17. EXPERIENCE TIMELINE + 18. EDUCATION ═══ -->
+## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="28"> Journey Timeline
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#00ff41','primaryTextColor':'#fff','lineColor':'#22d3ee'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#8b5cf6','primaryTextColor':'#fff','lineColor':'#38bdf8'}}}%%
 timeline
-    title ⚡ OPERATION HISTORY
-    2025 : First strike — vanilla HTML/CSS/JS : Deployed via GitHub Pages
-    2026 Q1 : Enlisted — B.Voc IT, Dr. BKB College : React + Next.js + TypeScript acquired
-    2026 Q2 : DevHire Pro + TaskFlow shipped : React 19 mastery confirmed
-    2026 Q3 : AUREA flagship LIVE : NexusMart full-stack LIVE : All ops executed from a phone 📱
-    NEXT : Open source infiltration : First internship — target locked 🎯
+    title 🚀 From Zero to Production
+    2025 : First website — vanilla HTML/CSS/JS : GitHub Pages deploy
+    2026 Q1 : B.Voc IT — Dr. BKB College : React + Next.js + TypeScript
+    2026 Q2 : DevHire Pro & TaskFlow : React 19 shipped
+    2026 Q3 : AUREA portfolio LIVE : NexusMart full-stack LIVE : All from a phone 📱
+    Next : First open-source PR : SDE Internship 🎯
 ```
 
-### 🏙️ 3D OPERATION MAP (every commit = one building)
+| 🎓 Education | 💼 Experience |
+|---|---|
+| **B.Voc Information Technology** — Dr. BKB College, Nagaon (2026–2030) | **Full Stack Developer** — Self-driven · 4+ production apps designed, built & deployed solo (2025–Present) |
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:3b82f6,50:8b5cf6,100:d946ef" width="100%">
 
-### 🐍 THE HARVESTER
-
-![Snake](https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg)
+<!-- ═══ 19. FUN FACTS + INTERESTS + 20. QUOTES ═══ -->
+## <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="28"> Fun Zone
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=Manashjyoti-Bora&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+**⌨️ My portfolio has secrets — try these at [manashjyoti-bora.vercel.app](https://manashjyoti-bora.vercel.app):**
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Manashjyoti-Bora&theme=github-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&hide_border=true&area=true)
+<kbd>Ctrl</kbd>+<kbd>K</kbd> Command Palette · <kbd>Ctrl</kbd>+<kbd>/</kbd> Terminal · <kbd>i</kbd><kbd>d</kbd><kbd>d</kbd><kbd>q</kbd><kbd>d</kbd> 🤫 · <kbd>↑↑↓↓←→←→BA</kbd> 🎊
 
-<img src="https://ghchart.rshah.org/00ff41/Manashjyoti-Bora" width="100%" alt="Contribution heatmap"/>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manashjyoti-Bora&theme=github_dark" width="100%"/>
+![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ff41,50:22d3ee,100:8b5cf6" width="100%">
+<!-- ═══ 21. UPCOMING GOALS ═══ -->
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="28"> Upcoming Goals
 
-## <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="26"> RULES OF ENGAGEMENT
+- [x] ~~Ship flagship portfolio~~ ✅
+- [x] ~~Ship full-stack product (MongoDB + JWT)~~ ✅
+- [x] 365-day commit streak — `IN PROGRESS 🔥`
+- [ ] First external open-source PR — `THIS MONTH 🎯`
+- [ ] Publish first npm package
+- [ ] Land SDE Internship — `PRIMARY OBJECTIVE`
 
-```ansi
-[38;5;46m01.[0m [38;5;250mShip real things — tutorials don't count, deployments do.[0m
-[38;5;46m02.[0m [38;5;250mNever trust the client — totals, roles, validation live on the server.[0m
-[38;5;46m03.[0m [38;5;250mMobile-first always — most of the world attacks from a phone.[0m
-[38;5;46m04.[0m [38;5;250mLearn in public — the commit graph is the only résumé that can't lie.[0m
-[38;5;46m05.[0m [38;5;250mConstraints are weapons — no laptop taught me professional CI/CD.[0m
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:3b82f6,50:8b5cf6,100:d946ef" width="100%">
 
-> [!TIP]
-> **The origin story:** Next.js dev mode can't even run on Android — the SWC binary doesn't exist for the platform. Instead of quitting, I re-architected: **Termux for code → GitHub for control → Vercel as the build machine.** The "limitation" trained me on the exact workflow professional teams use.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ff41,50:22d3ee,100:8b5cf6" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="26"> NEXT TARGETS
-
-- [x] ~~Deploy flagship portfolio~~ `COMPLETE ✔`
-- [x] ~~Ship full-stack product (MongoDB + JWT)~~ `COMPLETE ✔`
-- [x] ~~365-day operation streak — initiated~~ `IN PROGRESS 🔥`
-- [ ] First open-source infiltration (external PR) `LOCKED ON 🎯`
-- [ ] npm package deployment `QUEUED`
-- [ ] SDE Internship `PRIMARY OBJECTIVE`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ff41,50:22d3ee,100:8b5cf6" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="26"> ESTABLISH UPLINK
-
-![TypeWriter](https://svg-banners.vercel.app/api?type=typeWriter&text1=I%20ship%20production%20code%20from%20a%20phone%20📱&width=800&height=120)
-
+<!-- ═══ 22. EASTER EGG + FOOTER ═══ -->
 <div align="center">
 
-| CHANNEL | FREQUENCY |
-|---|---|
-| 🌐 **Command Center** | [manashjyoti-bora.vercel.app](https://manashjyoti-bora.vercel.app) |
-| 📄 **Dossier (Résumé)** | [Download PDF](https://manashjyoti-bora.vercel.app/resume.pdf) |
-| 📧 **Direct Line** | [manashjyotibora122@gmail.com](mailto:manashjyotibora122@gmail.com) |
-| 💼 **LinkedIn** | [manashjyoti-bora](https://www.linkedin.com/in/manashjyoti-bora-323b97405) |
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![Joke](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
 <details>
-<summary>🥚 <b>[ENCRYPTED FILE — CLICK TO DECRYPT]</b></summary>
+<summary>🥚 <b>psst... click here for a secret</b></summary>
 <br>
 
 ```text
- ╔═══════════════════════════════════════════════╗
- ║  DECRYPTION SUCCESSFUL. 🎉                    ║
- ║                                               ║
- ║  You found the hidden payload.                ║
- ║                                               ║
- ║  Classified intel: this entire operation —    ║
- ║  every repo, every deploy, every pixel —      ║
- ║  was executed without ever touching a laptop. ║
- ║                                               ║
- ║  If a phone can ship production systems,      ║
- ║  imagine the damage with real hardware.       ║
- ║                                               ║
- ║  Recruit me before someone else does. 😏      ║
- ║  → manashjyotibora122@gmail.com               ║
- ╚═══════════════════════════════════════════════╝
+ ┌─────────────────────────────────────────────┐
+ │  You found it! 🎉                           │
+ │                                             │
+ │  This entire GitHub presence — every repo,  │
+ │  every README, every deploy — was built     │
+ │  without ever touching a laptop.            │
+ │                                             │
+ │  If a phone can ship production code,       │
+ │  imagine what I'll do with a real machine.  │
+ │                                             │
+ │  → manashjyotibora122@gmail.com             │
+ └─────────────────────────────────────────────┘
 ```
-
-*Second payload hidden at [manashjyoti-bora.vercel.app](https://manashjyoti-bora.vercel.app) — type `iddqd`* 👀
 
 </details>
 
 <br>
 
-![Luminance](https://svg-banners.vercel.app/api?type=luminance&text1=CONSISTENCY%20IS%20THE%20EXPLOIT&width=800&height=110)
+![TypeWriter](https://svg-banners.vercel.app/api?type=typeWriter&text1=Ship%20real%20things.%20Learn%20in%20public.&width=800&height=110)
 
-`© 2026 MANASHJYOTI BORA` · `UPLINK: ALWAYS ONLINE` · `BUILT FROM A PHONE 📱`
+![Twinkle](https://capsule-render.vercel.app/api?type=transparent&height=90&text=Manashjyoti%20Bora&fontSize=42&fontColor=8b5cf6&animation=twinkling)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:22d3ee&height=120&section=footer">
+`© 2026` · `BUILT FROM A PHONE 📱` · `REPLIES < 24H`
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:8b5cf6,100:d946ef&height=120&section=footer)
 
 </div>
