@@ -9,6 +9,7 @@
 ![Last Shipped](https://img.shields.io/github/last-commit/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=00ff41&label=LAST%20DEPLOY&labelColor=0d1117)
 ![Ships](https://img.shields.io/github/commit-activity/m/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=22d3ee&label=OPS%2FMONTH&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/UPLINK-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117)
+![Intrusions](https://komarev.com/ghpvc/?username=Manashjyoti-Bora&color=00ff41&style=for-the-badge&label=INTRUSION+ATTEMPTS)
 [![Followers](https://img.shields.io/github/followers/Manashjyoti-Bora?label=OPERATIVES&style=for-the-badge&color=8b5cf6&labelColor=0d1117)](https://github.com/Manashjyoti-Bora?tab=followers)
 
 </div>
@@ -178,6 +179,17 @@ timeline
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ff41,50:22d3ee,100:8b5cf6" width="100%">
 
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="26"> NEXT TARGETS
+
+- [x] ~~Deploy flagship portfolio~~ `COMPLETE ✔`
+- [x] ~~Ship full-stack product (MongoDB + JWT)~~ `COMPLETE ✔`
+- [x] ~~365-day operation streak — initiated~~ `IN PROGRESS 🔥`
+- [ ] First open-source infiltration (external PR) `LOCKED ON 🎯`
+- [ ] npm package deployment `QUEUED`
+- [ ] SDE Internship `PRIMARY OBJECTIVE`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ff41,50:22d3ee,100:8b5cf6" width="100%">
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="26"> ESTABLISH UPLINK
 
 ![TypeWriter](https://svg-banners.vercel.app/api?type=typeWriter&text1=I%20ship%20production%20code%20from%20a%20phone%20📱&width=800&height=120)
@@ -190,6 +202,8 @@ timeline
 | 📄 **Dossier (Résumé)** | [Download PDF](https://manashjyoti-bora.vercel.app/resume.pdf) |
 | 📧 **Direct Line** | [manashjyotibora122@gmail.com](mailto:manashjyotibora122@gmail.com) |
 | 💼 **LinkedIn** | [manashjyoti-bora](https://www.linkedin.com/in/manashjyoti-bora-323b97405) |
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Joke](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 
