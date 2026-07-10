@@ -4,12 +4,37 @@
   <img alt="Manashjyoti Bora" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4169E1,100:00CED1&height=220&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Manashjyoti%20Bora&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%7C%20Nagaon%2C%20Assam%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=17">
 </picture>
 
+
+<svg width="52" height="52" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle">
+  <style>@keyframes wave{0%{transform:rotate(0)}15%{transform:rotate(18deg)}30%{transform:rotate(-10deg)}45%{transform:rotate(18deg)}60%{transform:rotate(-6deg)}75%{transform:rotate(12deg)}100%{transform:rotate(0)}}.w{transform-origin:70% 80%;animation:wave 2.4s ease-in-out infinite;display:inline-block}</style>
+  <g class="w"><text x="4" y="46" font-size="46">👋</text></g>
+</svg>
+<br>
+<svg width="620" height="58" viewBox="0 0 620 58" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes gl1{0%,100%{transform:translate(0,0)}20%{transform:translate(-2px,1px)}40%{transform:translate(2px,-1px)}60%{transform:translate(-1px,2px)}80%{transform:translate(1px,-2px)}}
+    @keyframes gl2{0%,100%{transform:translate(0,0);opacity:.75}25%{transform:translate(2px,-1px);opacity:.6}50%{transform:translate(-2px,1px);opacity:.5}75%{transform:translate(1px,2px);opacity:.7}}
+    .a{font:700 34px 'Fira Code',monospace;fill:#ffffff}
+    .b{font:700 34px 'Fira Code',monospace;fill:#ff006e;mix-blend-mode:screen;animation:gl1 2.2s infinite steps(1)}
+    .c{font:700 34px 'Fira Code',monospace;fill:#00f5ff;mix-blend-mode:screen;animation:gl2 2.6s infinite steps(1)}
+  </style>
+  <text x="310" y="42" text-anchor="middle" class="a">Manashjyoti Bora — Full Stack Dev</text>
+  <text x="312" y="42" text-anchor="middle" class="b">Manashjyoti Bora — Full Stack Dev</text>
+  <text x="308" y="42" text-anchor="middle" class="c">Manashjyoti Bora — Full Stack Dev</text>
+</svg>
+<sub style="color:#8A2BE2">from Nagaon, Assam 🇮🇳 • Android → Cloud ☁️</sub>
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&height=50&lines=Welcome+to+my+GitHub+Profile!;Code.+Build.+Ship.+Repeat.;%F0%9F%9A%80+Building+secure%2C+production-style+web+apps;From+Android+to+Cloud+%E2%98%81%EF%B8%8F" alt="Typing" />
 
 <br><br>
 
 <p align="center">
   <a href="https://github.com/Manashjyoti-Bora"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspal&logoColor=white"></a><span style="display:inline-block;position:relative;top:-3px;margin:0 6px">
+  <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#22c55e;box-shadow:0 0 0 0 rgba(34,197,94,.8);animation:pulseDot 1.8s infinite"></span>
+  <style>@keyframes pulseDot{0%{box-shadow:0 0 0 0 rgba(34,197,94,.7)}70%{box-shadow:0 0 0 14px rgba(34,197,94,0)}100%{box-shadow:0 0 0 0 rgba(34,197,94,0)}}</style>
+  <sub style="color:#22c55e;font-weight:700;margin-left:4px">online</sub>
+</span><span style="display:inline-block;position:relative;top:-3px;margin:0 6px">
   <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#22c55e;box-shadow:0 0 0 0 rgba(34,197,94,.8);animation:pulseDot 1.8s infinite"></span>
   <style>@keyframes pulseDot{0%{box-shadow:0 0 0 0 rgba(34,197,94,.7)}70%{box-shadow:0 0 0 14px rgba(34,197,94,0)}100%{box-shadow:0 0 0 0 rgba(34,197,94,0)}}</style>
   <sub style="color:#22c55e;font-weight:700;margin-left:4px">online</sub>
