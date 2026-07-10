@@ -83,7 +83,7 @@ Hi! I'm **Manashjyoti Bora** — a **Full Stack Developer** from **Nagaon, Assam
 - 📅 GitHub member since **February 2025**
 - ⚡ Fun fact: *I code better with Assamese masala chai ☕*
 - 🌐 Portfolio: [**manashjyoti-bora.vercel.app**](https://manashjyoti-bora.vercel.app)
-- 📧 Email: [**manashjyotibora122@gmail.com**](mailto:manashjyotibora122@gmail.com)
+- 📧 Email: [**[email protected]**](mailto:[email protected])
 
 <br clear="right">
 
@@ -505,7 +505,7 @@ Be kind, inclusive, respectful. Harassment of any kind will not be tolerated.
 ## 🔒 Security Policy
 
 **Found a vulnerability?** **Do NOT** open a public issue.
-Email me at **[manashjyotibora122@gmail.com](mailto:manashjyotibora122@gmail.com)** or use GitHub's private advisory feature. I respond within 48 hours.
+Email me at **[[email protected]](mailto:[email protected])** or use GitHub's private advisory feature. I respond within 48 hours.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Secure%20by-Default-success?style=flat-square" alt="Security">
@@ -541,7 +541,7 @@ Email me at **[manashjyotibora122@gmail.com](mailto:manashjyotibora122@gmail.com
 <a href="https://github.com/Manashjyoti-Bora"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://manashjyoti-bora.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/manashjyoti-bora"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:manashjyotibora122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:[email protected]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!-- 🔜 TODO: Uncomment & replace when you create these accounts -->
 <!--
