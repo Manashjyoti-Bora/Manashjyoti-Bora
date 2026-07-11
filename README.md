@@ -118,6 +118,10 @@ Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I lo
 
 ---
 
+<marquee scrollamount="10" direction="right">
+<span style="font-size:22px">✨ 💻 ⚡ 🔥 ☕ 🚀 🎯 🌟 🏆 🎉 ✨ 💻 ⚡ 🔥 ☕ 🚀 🎯 🌟 🏆 🎉 ✨ 💻 ⚡ 🔥 ☕ 🚀</span>
+</marquee>
+
 ## ✨ Features
 
 - ⚡ **Fast & Modern** — Next.js + React + TypeScript, fully optimized
@@ -343,12 +347,31 @@ Portfolio    TS         Blog
 </p>
 </details>
 
-<details>
-<summary>🎵 Music (coming soon)</summary>
+<details open>
+<summary>🎵 Spotify · Now Playing</summary>
 <p align="center">
-  <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/Spotify-Show%20Now%20Playing-1DB954?style=for-the-badge&logo=spotify"></a><br>
-  <sub>Deploy <a href="https://github.com/novatorem/novatorem">novatorem</a> to Vercel with your Spotify API keys for live status.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1DB954,100:1ED760&height=40&text=%F0%9F%8E%B6+Spotify+%C2%B7+Currently+listening+on+repeat+%F0%9F%8E%A7&fontSize=14&fontAlign=50&fontColor=ffffff">
+  <br><br>
+  <a href="https://open.spotify.com/user/spotify"><img src="https://img.shields.io/badge/Spotify-Follow-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"><img src="https://img.shields.io/badge/Today%27s-Top%20Hits-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj"><img src="https://img.shields.io/badge/Daily-Mix-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
+
+<marquee scrollamount="12" direction="left">
+<span style="font-size:26px">🎵 🎧 🎶 🎸 🥁 🎹 🎤 🎷 🎻 🎺 🪕 🎼 ♪ ♫ 🎵 🎧 🎶 🎸 🥁 🎹 🎤 ♩ ♬</span>
+</marquee>
+
+<p align="center"><sub>
+<b>To enable LIVE "Now Playing" card:</b> spotify-github-profile.vercel.app is paused; the official way is:
+<ol style="text-align:left;display:inline-block;font-size:13px">
+  <li>Go to <a href="https://developer.spotify.com/dashboard">Spotify Dashboard</a> → <b>Create app</b></li>
+  <li>Redirect URI: <code>http://localhost:5000/callback</code> → copy Client ID + Secret</li>
+  <li>Fork <a href="https://github.com/novatorem/novatorem">novatorem/novatorem</a></li>
+  <li>Deploy to Vercel with CLIENT_ID, CLIENT_SECRET, REFRESH_TOKEN, REDIRECT_URI env vars</li>
+  <li>Replace the badge above with <code>&lt;img src="https://your-app.vercel.app/api/spotify"&gt;</code></li>
+</ol>
+Tip: phone ta Spotify Developer App tu create korile moi step-by-step loi dim — just Client ID/Secret ane!
+</sub></p>
 </details>
 
 <details>
@@ -438,6 +461,8 @@ You're in a dark repo. A **terminal**, a **README.md**, and a **.env** file sit 
 </details>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:FF69B4&height=34&text=%F0%9F%A4%9D+Contributing+%C2%B7+PRs+welcome+%C2%B7+Conventional+Commits+%E2%9C%A8&fontSize=13&fontAlign=50&fontColor=ffffff">
 
 ## 🤝 Contributing
 
@@ -591,6 +616,10 @@ Distributed under the **MIT License**.
 </table>
 </div>
 
+
+<marquee behavior="alternate" scrollamount="8" direction="left">
+<span style="font-size:20px">☕ 🍵 Masala Chai • Code • Ship • Repeat ☕ 🍵 • Made in Nagaon, Assam 🇮🇳</span>
+</marquee>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%99%8F&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20chai%20%E2%98%95%20in%20Nagaon%2C%20Assam&descAlignY=65&descSize=15">
