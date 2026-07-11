@@ -114,7 +114,7 @@ Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I lo
 - 💬 Ask me about React, Next.js, TypeScript, Node.js, Tailwind
 - 💼 **Available for hire/internships** — just reach out!
 - 📅 GitHub since February 2025
-- ⚡ I code better with Assamese masala chai ☕
+- ⚡ Powered by coffee and clean code ☕
 - 🌐 Portfolio: [manashjyoti-bora.vercel.app](https://manashjyoti-bora.vercel.app)
 - 📧 manashjyotibora122@gmail.com
 
@@ -382,6 +382,36 @@ Portfolio    TS         Blog         SaaS      Mobile
 </p>
 
 <p align="center">
+  <a href="https://github.com/Manashjyoti-Bora">
+    <img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/Manashjyoti-Bora?tab=stars">
+    <img src="https://img.shields.io/github/stars/Manashjyoti-Bora?affiliations=owner&style=social" alt="GitHub User's stars">
+  </a>
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with Markdown">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Manashjyoti-Bora/Manashjyoti-Bora/issues">
+    <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=gray&colorB=brightgreen" alt="Contributions welcome">
+  </a>
+  <a href="https://github.com/Manashjyoti-Bora/Manashjyoti-Bora/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22">
+    <img src="https://img.shields.io/github/issues/Manashjyoti-Bora/Manashjyoti-Bora/help%20wanted?color=0088ff" alt="Help wanted issues">
+  </a>
+  <a href="https://github.com/Manashjyoti-Bora/Manashjyoti-Bora/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">
+    <img src="https://img.shields.io/github/issues/Manashjyoti-Bora/Manashjyoti-Bora/good%20first%20issue?color=0088ff" alt="Good first issues">
+  </a>
+  <img src="https://img.shields.io/badge/Works%20on-My%20Machine-important" alt="Works on my machine">
+  <img src="https://img.shields.io/badge/Powered%20by-Chai%20%E2%98%95-8A2BE2" alt="Powered by chai">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=FF69B4&center=true&vCenter=true&width=860&height=28&lines=Open+Source+%7C+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+MongoDB+%7C+PostgreSQL+%7C+Docker+%7C+PWA+%7C+REST+%7C+GraphQL+%7C+Tailwind;Always+learning+%E2%80%A2+Always+shipping+%E2%80%A2+Always+drinking+chai+%E2%98%95" alt="Tech Stack Typing">
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&color=0:8A2BE2,100:00CED1&height=30&text=%F0%9F%93%8A+Stats+powered+by+Vercel+%C2%B7+No+inline+CSS+%C2%B7+100%25+GitHub-safe&fontSize=11&fontColor=ffffff&animation=fadeIn">
 </p>
 
@@ -479,11 +509,11 @@ jobs:
 </marquee>
 
 <marquee behavior="alternate" scrollamount="7" direction="left">
-<span style="font-size:22px">🪔 🌺 🌸 🪘 🚜 🌾 🌼 🏵 💐 🎊 🌺 🌸 Happy Bihu! 🪔 🌺 🌸 🪘 🚜 🌾 🌼 🏵 💐</span>
+<span style="font-size:22px">🎉 🎊 🥳 🎉 🎊 🥳 🎉 🎊 🥳 🎉 🎊 Open Source! 🎉 🎊 🥳 🎉 🎊 🥳</span>
 </marquee>
 
 <marquee behavior="alternate" scrollamount="9" direction="right">
-<span style="font-size:22px">🥘 🍛 🐟 🍵 ☕ 🥟 🍘 🍚 🍲 🫓 🥮 🍪 🧋 — Masor Tenga · Pitha · Laru · Samosa · Chai! 🥘 🍛 🐟 🍵</span>
+<span style="font-size:22px">🐛 🔍 🚀 ✅ 💾 ☕ 🐛 🔍 🚀 ✅ 💾 ☕ Debug · Build · Deploy · Repeat</span>
 </marquee>
 
 ## 🎬 Widgets & Media
@@ -592,7 +622,7 @@ Once you create the Spotify Developer app and send me your Client ID & Client Se
 <span style="font-size:18px;font-weight:800">✨ NEON GLOW • REACT • NEXT.JS • TYPESCRIPT • NODE.JS • NAGAON • ASSAM • CHAI ☕ • CODE • SHIP • REPEAT ✨</span>
 </marquee>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&text=%E2%9D%A4%EF%B8%8F+Made+with+chai+in+Nagaon%2C+Assam&fontSize=12&fontAlign=50&fontColor=ffffff">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&text=%E2%9D%A4%EF%B8%8F+Made+with+coffee+%E2%98%95+in+Nagaon%2C+Assam&fontSize=12&fontAlign=50&fontColor=ffffff">
 
 ---
 
@@ -604,62 +634,54 @@ Once you create the Spotify Developer app and send me your Client ID & Client Se
 
 <img src="https://capsule-render.vercel.app/api?type=speech&color=0:FF69B4,100:8A2BE2&height=60&text=Did+you+know%3F+%F0%9F%A4%93&fontSize=20&fontColor=ffffff&animation=scaleIn&fontAlign=50">
 
-### 🤓 Fun Facts About Me (100% Real!)
+### 🤓 Fun Facts About Me
 
 <p align="center">
 <table align="center">
 <tr>
-<td align="center" width="80">☕</td>
-<td><b>Chai addict:</b> Code doesn't start without 3–4 cups of masala chai! <i>(Even 2 AM calls for one)</i></td>
-</tr>
-<tr>
-<td align="center">🪘</td>
-<td><b>Bihu lover:</b> Play dhol, pepa and taal during Bohag Bihu! Can do Bihu dance too (though not usually in front of cameras).</td>
-</tr>
-<tr>
-<td align="center">🎶</td>
-<td><b>Assamese music fan:</b> Code along to Assamese music in the background — Zubeen Garg, Neel Akash, Achurjya Borpatra, Sannidhya Bhuyan.</td>
-</tr>
-<tr>
-<td align="center">🏞️</td>
-<td><b>From Nagaon:</b> Born & raised in Nagaon — birthplace of Srimanta Sankardev, beside the Kolong river; home always filled with pitha, laru and masor tenga!</td>
-</tr>
-<tr>
-<td align="center">📱</td>
-<td><b>Android dev journey:</b> Started coding on an Android phone using Termux — I didn't even own a laptop back then! 🤙</td>
+<td align="center" width="80">💻</td>
+<td><b>Started on Android:</b> Wrote my first programs on an Android phone using Termux before I owned a laptop.</td>
 </tr>
 <tr>
 <td align="center">🌙</td>
-<td><b>Night owl:</b> Most productive time is 10 PM – 3 AM. Rice and chai by day, code and GitHub by night.</td>
+<td><b>Night owl:</b> Most productive between 10 PM and 3 AM. Best focus when the world is quiet.</td>
 </tr>
 <tr>
-<td align="center">🍽️</td>
-<td><b>Favorite food:</b> Masor Tenga (sour fish curry), Pitha (Sunga, Til, Narikol), Laru, Aloo Pitika, Parhor Mangxo (pigeon meat), Samosa, Jalebi — and of course chai ☕</td>
-</tr>
-<tr>
-<td align="center">🌧️</td>
-<td><b>Rainy day coder:</b> Coding on a rainy day hits different — raindrops on the window, chai in hand, code on screen. Perfection!</td>
+<td align="center">☕</td>
+<td><b>Coffee powered:</b> Code runs on multiple cups of coffee per day. It's a feature, not a bug.</td>
 </tr>
 <tr>
 <td align="center">📖</td>
-<td><b>Self-taught:</b> Picked everything up from YouTube, docs and Stack Overflow, alongside chai. College + self-study.</td>
+<td><b>Self-taught:</b> Learned web dev through YouTube, docs, Stack Overflow and shipping real projects.</td>
 </tr>
 <tr>
-<td align="center">🏏</td>
-<td><b>Cricket fan:</b> Support CSK in the IPL. Dhoni fan for life. 💛</td>
+<td align="center">🌧️</td>
+<td><b>Rainy-day coder:</b> Best coding weather — rain on the window, coffee in hand, code on screen.</td>
 </tr>
 <tr>
-<td align="center">🎬</td>
-<td><b>Movies:</b> Assamese classics (Dr. Bezbarua, Chameli Memsaab) + Bollywood + Marvel. The iconic character Ramen-da still makes me laugh every time. 😂</td>
+<td align="center">🐛</td>
+<td><b>Debugging philosophy:</b> "If it works, don't touch it." (I touch it anyway.)</td>
 </tr>
 <tr>
-<td align="center">🐶</td>
-<td><b>Animal lover:</b> Love dogs. Also adore cows and myna birds.</td>
+<td align="center">⌨️</td>
+<td><b>Editor:</b> VS Code + Dark+ theme + Fira Code font with ligatures.</td>
+</tr>
+<tr>
+<td align="center">🐙</td>
+<td><b>Open source fan:</b> Love reading other people's code and contributing to OSS.</td>
+</tr>
+<tr>
+<td align="center">📚</td>
+<td><b>Always learning:</b> Currently exploring Rust, Kubernetes, and System Design.</td>
+</tr>
+<tr>
+<td align="center">🧘</td>
+<td><b>Rubber duck debugging:</b> Bugs disappear best when you explain them to something inanimate.</td>
 </tr>
 </table>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:f59e0b,100:ef4444&height=36&text=%E2%98%95+Chai+%E2%98%95+Pitha+%E2%80%A2+Bihu+%F0%9F%AA%98+%E2%80%A2+Code+%F0%9F%92%BB+%E2%80%A2+Assam+%F0%9F%87%AE%F0%9F%87%B3+%E2%80%A2+Repeat&fontSize=14&fontAlign=50&fontColor=ffffff&animation=blinking">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:f59e0b,100:ef4444&height=36&text=%E2%98%95+Chai+fueled+coder+%E2%80%A2+Debug+%E2%80%A2+Build+%E2%80%A2+Ship+%E2%80%A2+Repeat&fontSize=14&fontAlign=50&fontColor=ffffff&animation=blinking">
 
 <marquee behavior="alternate" scrollamount="7" direction="left">
 <span style="font-size:22px">🌧️ ☔ 💧 🌦️ ⛈️ 🌂 🌧️ ☔ 💧 🌦️ ⛈️ 🌂 🌧️ ☔ 💧 🌦️ ⛈️ 🌂 🌧️ ☔ 💧</span>
@@ -691,7 +713,7 @@ Once you create the Spotify Developer app and send me your Client ID & Client Se
 </marquee>
 
 <marquee behavior="alternate" scrollamount="7" direction="right">
-<span style="font-size:24px">🪘 🎺 🪇 🥁 🎵 🎶 🎤 🏮 🪔 🎆 🎇 🌺 🌸 🪘 🎺 Bihu is here! 🚜 🌾</span>
+<span style="font-size:24px">💻 ⚡ 🔥 🚀 ⭐ 🎉 💯 💥 🎊 🎈 💻 ⚡ Code all day! 🚀 ⭐ 🎉 💯 💥</span>
 </marquee>
 
 <p align="center">
@@ -739,14 +761,13 @@ Once you create the Spotify Developer app and send me your Client ID & Client Se
 </marquee>
 
 ```text
-  ███╗   ███╗ █████╗ ███╗  ██╗ █████╗ ███████╗██╗  ██╗     ██╗██╗   ██╗ ██████╗ ████████╗██╗   ██████╗  ██████╗ ██████╗  █████╗
-  ████╗ ████║██╔══██╗████╗ ██║██╔══██╗██╔════╝██║  ██║     ██║██║   ██║██╔═══██╗╚══██╔══╝██║   ██╔══██╗██╔═══██╗██╔══██╗██╔══██╗
-  ██╔████╔██║███████║██╔██╗██║███████║███████╗███████║     ██║╚██╗ ██╔╝██║   ██║   ██║   ██║   ██████╔╝██║   ██║██████╔╝███████║
-  ██║╚██╔╝██║██╔══██║██║╚████║██╔══██║╚════██║██╔══██║██   ██║ ╚████╔╝ ██║   ██║   ██║   ██║   ██╔══██╗██║   ██║██╔══██╗██╔══██║
-  ██║ ╚═╝ ██║██║  ██║██║ ╚███║██║  ██║███████║██║  ██║╚█████╔╝  ╚██╔╝  ╚██████╔╝   ██║   ██║   ██████╔╝╚██████╔╝██║  ██║██║  ██║
-  ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚════╝    ╚═╝    ╚═════╝    ╚═╝   ╚═╝   ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-
-      Full Stack Developer · React · Next.js · TypeScript · Node.js · Nagaon, Assam 🇮🇳 · ☕
+███╗   ███╗ █████╗ ███╗  ██╗ █████╗ ███████╗██╗  ██╗
+████╗ ████║██╔══██╗████╗ ██║██╔══██╗██╔════╝██║  ██║
+██╔████╔██║███████║██╔██╗██║███████║███████╗███████║
+██║╚██╔╝██║██╔══██║██║╚████║██╔══██║╚════██║██╔══██║
+██║ ╚═╝ ██║██║  ██║██║ ╚███║██║  ██║███████║██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+      Manashjyoti Bora · Full Stack Developer · Nagaon, Assam 🇮🇳 · ☕
 ```
 ```
 
@@ -755,7 +776,7 @@ Once you create the Spotify Developer app and send me your Client ID & Client Se
              ) (   )  (  (
              ( )  (    ) )
              _____________
-            |_____________|   <-- my kulhad (chai cup) ☕
+            |_____________|   <-- my coffee cup ☕
              \           /
               `---------'         3 cups + code = happy dev!
 ```
@@ -938,7 +959,7 @@ my-nextjs-app/
 <details><summary><b>💻 Tech stack?</b></summary><br>React • Next.js • TypeScript • Node.js • Tailwind • MongoDB/PostgreSQL.</details>
 <details><summary><b>💼 Hireable?</b></summary><br><b>Yes!</b> Email or LinkedIn DM — open to remote/internship/full-time.</details>
 <details><summary><b>🌐 Languages?</b></summary><br>অসমীয়া • हिन्दी • English.</details>
-<details><summary><b>☕ Chai or coffee?</b></summary><br>Always Assamese masala chai. No debate. 🍵</details>
+<details><summary><b>☕ Chai or coffee?</b></summary><br>Coffee. Lots of it. ☕</details>
 <details><summary><b>📍 Based in?</b></summary><br>Nagaon, Assam, India 🇮🇳 (UTC+5:30 IST).</details>
 <details><summary><b>🎓 Education?</b></summary><br>Always learning. Self-taught + online courses / docs.</details>
 <details><summary><b>⚡ Favorite editor?</b></summary><br>VS Code + Dark+ theme + Fira Code font.</details>
@@ -958,7 +979,7 @@ my-nextjs-app/
 
 Built with ❤️ & ☕ in Nagaon, Assam[^1]. Inspired by the open-source community[^2].
 
-[^1]: Nagaon — a beautiful town in central Assam, birthplace of Srimanta Sankardev.
+[^1]: Based in Nagaon, Assam, India (IST timezone UTC+5:30).
 [^2]: Special thanks to OSS README creators everywhere.
 
 ---
@@ -993,13 +1014,13 @@ Distributed under the **MIT License**.
 <br>
 
 <marquee behavior="alternate" scrollamount="9" direction="left">
-<span style="font-size:20px">☕ 🍵 Masala Chai • Code • Ship • Repeat ☕ 🍵 • Made in Nagaon, Assam 🇮🇳 • Thanks for visiting 🙏</span>
+<span style="font-size:20px">☕ Code • Build • Ship • Repeat ☕ • Nagaon, Assam 🇮🇳 • Thanks for visiting 🙏</span>
 </marquee>
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%99%8F&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20chai%20%E2%98%95%20in%20Nagaon%2C%20Assam&descAlignY=65&descSize=15">
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%99%8F&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20chai%20%E2%98%95%20in%20Nagaon%2C%20Assam&descAlignY=65&descSize=15">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%99%8F&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20coffee%20%E2%98%95%20in%20Nagaon%2C%20Assam&descAlignY=65&descSize=15">
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%99%8F&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20coffee%20%E2%98%95%20in%20Nagaon%2C%20Assam&descAlignY=65&descSize=15">
 </picture>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=32&text=%22First%20solve%20the%20problem.%20Then%20write%20the%20code.%22%20%E2%80%94%20Johnson&fontSize=13&fontAlign=50&fontColor=ffffff">
 </div>
