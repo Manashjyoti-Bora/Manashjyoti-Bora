@@ -199,10 +199,10 @@ Kanban-style productivity suite with dynamic task movement, priority tagging, sp
 ### Repository cards
 
 <div align="center">
-  <a href="https://github.com/Manashjyoti-Bora/portfolio-website"><img height="145" alt="Portfolio website repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=Manashjyoti-Bora&repo=portfolio-website&theme=tokyonight&hide_border=true"></a>
-  <a href="https://github.com/Manashjyoti-Bora/nexusmart"><img height="145" alt="NexusMart repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=Manashjyoti-Bora&repo=nexusmart&theme=tokyonight&hide_border=true"></a>
-  <a href="https://github.com/Manashjyoti-Bora/devhire-pro-ats"><img height="145" alt="DevHire Pro repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=Manashjyoti-Bora&repo=devhire-pro-ats&theme=tokyonight&hide_border=true"></a>
-  <a href="https://github.com/Manashjyoti-Bora/taskflow-enterprise"><img height="145" alt="TaskFlow repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=Manashjyoti-Bora&repo=taskflow-enterprise&theme=tokyonight&hide_border=true"></a>
+  <a href="https://github.com/Manashjyoti-Bora/portfolio-website"><img height="145" alt="Portfolio website repository card" src="https://github-stats-extended.vercel.app/api/pin/?username=Manashjyoti-Bora&repo=portfolio-website&theme=tokyonight&hide_border=true"></a>
+  <a href="https://github.com/Manashjyoti-Bora/nexusmart"><img height="145" alt="NexusMart repository card" src="https://github-stats-extended.vercel.app/api/pin/?username=Manashjyoti-Bora&repo=nexusmart&theme=tokyonight&hide_border=true"></a>
+  <a href="https://github.com/Manashjyoti-Bora/devhire-pro-ats"><img height="145" alt="DevHire Pro repository card" src="https://github-stats-extended.vercel.app/api/pin/?username=Manashjyoti-Bora&repo=devhire-pro-ats&theme=tokyonight&hide_border=true"></a>
+  <a href="https://github.com/Manashjyoti-Bora/taskflow-enterprise"><img height="145" alt="TaskFlow repository card" src="https://github-stats-extended.vercel.app/api/pin/?username=Manashjyoti-Bora&repo=taskflow-enterprise&theme=tokyonight&hide_border=true"></a>
 </div>
 
 > Project descriptions and technologies above were checked against public repository metadata and package manifests on 12 July 2026.
@@ -363,14 +363,14 @@ git commit -m "feat(scope): concise description"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175" alt="Manashjyoti Bora GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-  <img height="175" alt="Most used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manashjyoti-Bora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+  <img height="175" alt="Manashjyoti Bora GitHub stats" src="https://github-stats-extended.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+  <img height="175" alt="Most used public repository languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manashjyoti-Bora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
   <br>
   <img alt="GitHub contribution streak" src="https://streak-stats.demolab.com?user=Manashjyoti-Bora&theme=tokyonight&hide_border=true">
   <br>
   <img width="95%" alt="GitHub activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Manashjyoti-Bora&theme=tokyo-night&hide_border=true&area=true">
   <br>
-  <img width="95%" alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Manashjyoti-Bora&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7">
+  <a href="https://github.com/Manashjyoti-Bora?tab=achievements"><img alt="View Manashjyoti Bora's GitHub achievements" src="https://img.shields.io/badge/GitHub-Achievements-F6C343?style=for-the-badge&logo=github&logoColor=181717"></a>
 </div>
 
 > Third-party cards can experience temporary rate limits or downtime. GitHub itself remains the authoritative source.
@@ -389,8 +389,8 @@ git commit -m "feat(scope): concise description"
 ### Pacman contribution graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/pacman-contribution-graph-dark.svg">
-  <img width="100%" alt="Pacman animation over Manashjyoti Bora's contribution graph" src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/pacman-output/pacman-contribution-graph-dark.svg">
+  <img width="100%" alt="Pacman animation over Manashjyoti Bora's contribution graph" src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ### 3D contribution city
@@ -456,7 +456,7 @@ git push -u origin docs/profile-refresh
 
 ### Workflow notes
 
-- Snake and Pacman assets publish to the `output` branch.
+- Snake assets publish to `output`; Pacman assets publish to `pacman-output` to prevent branch-overwrite races.
 - 3D contribution assets are committed under `profile-3d-contrib/`.
 - Workflow permissions are limited to `contents: write` where generation requires it.
 - Pin third-party actions to immutable commit SHAs for stronger supply-chain security.
