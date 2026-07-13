@@ -2,7 +2,7 @@
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--   THE LEARNING LOG — MY CODING JOURNEY, 100% FROM A PHONE 📱        -->
-<!--   4 hand-coded SMIL animation files · 145+ animation techniques     -->
+<!--   6 hand-coded SMIL animation files · 160+ animation techniques     -->
 <!--   honestly applied · learning in public · one of one                -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
@@ -124,7 +124,7 @@
 
 ## 🤖 Manashjyoti-Bora (this repo) — *"What it taught me: CI/CD automation"*
 
-This profile is itself a project — **3 GitHub Actions pipelines** I set up and debugged myself: snake 🐍 · 3D city 🏙️ · auto-rebuild. Plus **4 hand-coded SMIL animation files** you're watching right now.
+This profile is itself a project — **3 GitHub Actions pipelines** I set up and debugged myself: snake 🐍 · 3D city 🏙️ · auto-rebuild. Plus **6 hand-coded SMIL animation files** you're watching right now.
 
 <!-- ═══ CUSTOM FX 2: HAND-CODED COSMIC DASHBOARD ═══ -->
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-cosmos.svg" width="100%" alt="Cosmic dashboard — hand-coded: twinkling starfield, shooting stars, aurora, fireworks, solar system orbit, DNA helix, radar scan, liquid fill gauge, progress ring, equalizer bars" />
@@ -144,6 +144,12 @@ This profile is itself a project — **3 GitHub Actions pipelines** I set up and
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-lab.svg" width="100%" alt="FX LAB — 30 hand-coded SVG animation panels: glitch, CRT, neon, rainbow, marquee, flip card, cube, pendulum, oscilloscope, odometer, skeleton loader, ripple, bubbles, lava lamp, metaballs, rain, snow, lightning, laser, fire, smoke, confetti, comet, synthwave, halftone, moire, kaleidoscope, checkmark draw, spotlight" />
 
 *Why does a learner build this? Because the best way to learn SVG/animation is to make 30 of them.* 🌱
+
+**...and 24 MORE — including simulated versions of "impossible" effects (cursor trail, mouse-follow, magnetic hover, tooltip, page peel, book flip, flip clock, heartbeat, shatter, parallax, prism, voronoi, lens refraction):**
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-lab2.svg" width="100%" alt="FX LAB 2 — 24 more hand-coded SVG panels: simulated cursor trail, mouse follow, animated tooltip, magnetic hover, page peel, book flip, origami fold, Ken Burns, zoom blur, heartbeat, elastic ball, flip clock, card stack, 3D text, morphing text, shatter explosion, sonic boom, parallax layers, flow field, voronoi, prism dispersion, lens refraction, animated charts, animated emoji" />
+
+*Total: 54 hand-coded animation panels across 2 lab files. GitHub blocks JavaScript — so I simulated the cursor effects in pure SVG. When you can't use the tool, build the illusion.* 😎
 
 </div>
 
