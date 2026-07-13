@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 582" width="1180" height="582" role="img" aria-label="FX LAB 2 — 24 more hand-coded SVG animation panels including simulated cursor and interaction effects">
+<defs>
+<linearGradient id="pillG2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="kbG" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#0c4a6e"/><stop offset="100%" stop-color="#082f49"/></linearGradient>
+<radialGradient id="goldG2"><stop offset="0%" stop-color="#ffd700"/><stop offset="100%" stop-color="#f59e0b"/></radialGradient>
+<filter id="glow2" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="zblur"><feGaussianBlur stdDeviation="0.8"><animate attributeName="stdDeviation" values="3;0.2;3" dur="2.4s" repeatCount="indefinite"/></feGaussianBlur></filter>
+<clipPath id="lensClip"><circle cx="95.5" cy="51.0" r="20"/></clipPath>
+<linearGradient id="rainbowG2" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#ff0044"><animate attributeName="stop-color" values="#ff0044;#ffd700;#10B981;#22D3EE;#7C3AED;#ff0044" dur="4s" repeatCount="indefinite"/></stop>
+<stop offset="100%" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#ff0044;#ffd700;#10B981;#22D3EE;#7C3AED" dur="4s" repeatCount="indefinite"/></stop>
+</linearGradient>
+</defs>
+<rect width="1180" height="582" rx="16" fill="#030712"/>
+<text x="590" y="36" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="22" fill="#F8FAFC">🧪 FX LAB 2 — 24 more techniques (incl. simulated cursor/interaction FX)</text>
+<g transform="translate(5,60)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d0_0"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d0_0)"><path d="M 0 0 L 0 14 L 4 11 L 7 17 L 9 16 L 6 10 L 11 10 Z" fill="#22D3EE" opacity="0.5"><animateMotion path="M 20 20 C 80 90 140 10 170 70 C 140 95 60 40 20 20 Z" dur="4s" begin="0.0s" repeatCount="indefinite"/></path><path d="M 0 0 L 0 14 L 4 11 L 7 17 L 9 16 L 6 10 L 11 10 Z" fill="#22D3EE" opacity="0.38"><animateMotion path="M 20 20 C 80 90 140 10 170 70 C 140 95 60 40 20 20 Z" dur="4s" begin="0.18s" repeatCount="indefinite"/></path><path d="M 0 0 L 0 14 L 4 11 L 7 17 L 9 16 L 6 10 L 11 10 Z" fill="#22D3EE" opacity="0.26"><animateMotion path="M 20 20 C 80 90 140 10 170 70 C 140 95 60 40 20 20 Z" dur="4s" begin="0.36s" repeatCount="indefinite"/></path><path d="M 0 0 L 0 14 L 4 11 L 7 17 L 9 16 L 6 10 L 11 10 Z" fill="#22D3EE" opacity="0.14"><animateMotion path="M 20 20 C 80 90 140 10 170 70 C 140 95 60 40 20 20 Z" dur="4s" begin="0.54s" repeatCount="indefinite"/></path><path d="M 0 0 L 0 14 L 4 11 L 7 17 L 9 16 L 6 10 L 11 10 Z" fill="#F8FAFC"><animateMotion path="M 20 20 C 80 90 140 10 170 70 C 140 95 60 40 20 20 Z" dur="4s" repeatCount="indefinite"/></path></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">CURSOR TRAIL · GHOST (sim)</text>
+</g><g transform="translate(200,60)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d1_0"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d1_0)">
+<path d="M 0 0 L 0 14 L 4 11 L 7 17 L 9 16 L 6 10 L 11 10 Z" fill="#F8FAFC"><animateMotion path="M 30 30 Q 100 90 160 30 Q 100 -10 30 30" dur="3.5s" repeatCount="indefinite"/></path>
+<circle r="7" fill="#ec4899" opacity="0.85"><animateMotion path="M 30 30 Q 100 90 160 30 Q 100 -10 30 30" dur="3.5s" begin="0.35s" repeatCount="indefinite"/></circle></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">MOUSE FOLLOW (sim)</text>
+</g><g transform="translate(395,60)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d2_0"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d2_0)">
+<rect x="60.5" y="59.0" width="70" height="24" rx="6" fill="#7C3AED"/>
+<text x="95.5" y="75.0" text-anchor="middle" font-family="monospace" font-size="11" fill="#fff">HOVER ME</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3;0.4;0.8;1" dur="3s" repeatCount="indefinite"/>
+<rect x="53.5" y="17.0" width="84" height="24" rx="6" fill="#030712" stroke="#22D3EE"/>
+<polygon points="90.5,41.0 100.5,41.0 95.5,48.0" fill="#030712" stroke="#22D3EE" stroke-width="0.7"/>
+<text x="95.5" y="33.0" text-anchor="middle" font-family="monospace" font-size="10" fill="#22D3EE">Hi there! 👋</text></g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">ANIMATED TOOLTIP (sim)</text>
+</g><g transform="translate(590,60)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d3_0"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d3_0)">
+<path d="M 0 0 L 0 14 L 4 11 L 7 17 L 9 16 L 6 10 L 11 10 Z" fill="#F8FAFC"><animateMotion path="M 10 21.0 L 180 21.0" dur="3s" repeatCount="indefinite"/></path>
+<g><animateTransform attributeName="transform" type="translate" values="0,0;0,-9;3,-11;0,0" keyTimes="0;0.4;0.55;1" dur="3s" repeatCount="indefinite"/>
+<rect x="57.5" y="55.0" width="76" height="26" rx="13" fill="none" stroke="url(#pillG2)" stroke-width="1.5"/>
+<text x="95.5" y="72.0" text-anchor="middle" font-family="monospace" font-size="11" fill="#F8FAFC">magnetic</text></g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">MAGNETIC HOVER (sim)</text>
+</g><g transform="translate(785,60)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d4_0"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d4_0)">
+<rect x="40" y="14" width="110" height="76" rx="4" fill="#F8FAFC"/>
+<text x="95" y="55" text-anchor="middle" font-family="monospace" font-size="10" fill="#0F172A">README.md</text>
+<path d="M 150 90 L 150 90 L 150 90 Z" fill="#94A3B8">
+<animate attributeName="d" values="M 150 90 L 150 90 L 150 90 Z;M 150 90 L 116 90 L 150 56 Z;M 150 90 L 150 90 L 150 90 Z" dur="3.4s" repeatCount="indefinite"/></path></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">PAGE PEEL (corner fold)</text>
+</g><g transform="translate(980,60)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d5_0"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d5_0)">
+<rect x="40" y="20" width="55" height="70" fill="#1e293b" stroke="#94A3B8" stroke-width="0.6"/>
+<rect x="95" y="20" width="55" height="70" fill="#F8FAFC"/>
+<g transform="translate(95,0)"><rect x="0" y="20" width="55" height="70" fill="#cbd5e1">
+<animateTransform attributeName="transform" type="scale" values="1,1;-1,1;1,1" keyTimes="0;0.5;1" dur="2.8s" repeatCount="indefinite"/></rect></g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">BOOK PAGE FLIP</text>
+</g><g transform="translate(5,188)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d0_1"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d0_1)">
+<g transform="translate(95.5,51.0)">
+<polygon points="-35,-30 35,-30 35,30 -35,30" fill="#22D3EE" opacity="0.25"/>
+<polygon points="-35,-30 35,-30 35,30 -35,30" fill="#22D3EE">
+<animateTransform attributeName="transform" type="scale" values="1,1;1,0.05;1,-1;1,0.05;1,1" keyTimes="0;0.25;0.5;0.75;1" dur="4s" repeatCount="indefinite"/></polygon></g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">ORIGAMI · PAPER FOLD</text>
+</g><g transform="translate(200,188)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d1_1"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d1_1)">
+<g><animateTransform attributeName="transform" type="scale" values="1;1.3" dur="5s" repeatCount="indefinite" additive="sum"/>
+<animateTransform attributeName="transform" type="translate" values="0,0;-30,-14" dur="5s" repeatCount="indefinite" additive="sum"/>
+<rect x="2" y="2" width="195" height="128" fill="url(#kbG)"/>
+<circle cx="140" cy="30" r="14" fill="#ffd700"/>
+<polygon points="20,98 70,40 120,98" fill="#0f4d3d"/>
+<polygon points="90,98 150,55 195,98" fill="#14532d"/></g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">KEN BURNS (zoom+pan)</text>
+</g><g transform="translate(395,188)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d2_1"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d2_1)">
+<text x="95.5" y="58.0" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="20" fill="#22D3EE" filter="url(#zblur)">ZOOM
+<animateTransform attributeName="transform" type="scale" values="0.6;1.6;0.6" dur="2.4s" repeatCount="indefinite" additive="sum"/>
+<animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></text></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">ZOOM BLUR</text>
+</g><g transform="translate(590,188)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d3_1"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d3_1)">
+<g transform="translate(95.5,51.0)"><path d="M 0 12 C -22 -6 -14 -26 0 -12 C 14 -26 22 -6 0 12 Z" fill="#ff0044" filter="url(#glow2)">
+<animateTransform attributeName="transform" type="scale" values="1;1.25;1;1.12;1;1" keyTimes="0;0.12;0.24;0.36;0.5;1" dur="1.3s" repeatCount="indefinite"/></path></g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">HEARTBEAT ♥</text>
+</g><g transform="translate(785,188)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d4_1"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d4_1)">
+<circle cx="95.5" cy="30" r="13" fill="url(#goldG2)">
+<animate attributeName="cy" values="24;84;24" dur="1.4s" repeatCount="indefinite" calcMode="spline" keySplines="0.35 0 0.9 0.6;0.1 0.4 0.65 1"/>
+</circle>
+<ellipse cx="95.5" cy="92" rx="13" ry="4" fill="url(#goldG2)" opacity="0">
+<animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.45;0.5;0.58;1" dur="1.4s" repeatCount="indefinite"/></ellipse></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">ELASTIC · SQUASH-STRETCH</text>
+</g><g transform="translate(980,188)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d5_1"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d5_1)">
+<g font-family="monospace" font-weight="bold" font-size="24" fill="#F8FAFC">
+<rect x="61.5" y="25.0" width="30" height="24" rx="3" fill="#1e293b"/>
+<rect x="61.5" y="51.0" width="30" height="24" rx="3" fill="#111827"/>
+<text x="76.5" y="60.0" text-anchor="middle">2</text>
+<rect x="99.5" y="25.0" width="30" height="24" rx="3" fill="#1e293b"/>
+<rect x="99.5" y="51.0" width="30" height="24" rx="3" fill="#111827"/>
+<text x="114.5" y="60.0" text-anchor="middle">6</text>
+<rect x="99.5" y="25.0" width="30" height="26" rx="3" fill="#0b1220">
+<animateTransform attributeName="transform" type="scale" values="1,1;1,0;1,1" keyTimes="0;0.5;1" dur="2s" repeatCount="indefinite"/></rect>
+<line x1="59.5" y1="51.0" x2="131.5" y2="51.0" stroke="#030712" stroke-width="2"/></g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">FLIP CLOCK</text>
+</g><g transform="translate(5,316)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d0_2"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d0_2)">
+<g transform="translate(95.5,51.0)">
+<rect x="-34" y="-20" width="68" height="44" rx="7" fill="#10B981" opacity="0.5" transform="translate(8,8)"/>
+<rect x="-34" y="-20" width="68" height="44" rx="7" fill="#22D3EE" opacity="0.7" transform="translate(4,4)"/>
+<rect x="-34" y="-20" width="68" height="44" rx="7" fill="#7C3AED">
+<animateTransform attributeName="transform" type="translate" values="0,0;70,-10;0,0" keyTimes="0;0.5;1" dur="2.6s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" dur="2.6s" repeatCount="indefinite"/></rect>
+<text y="6" text-anchor="middle" font-family="monospace" font-size="10" fill="#fff" opacity="0.9">CARDS</text></g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">CARD STACK CYCLE</text>
+</g><g transform="translate(200,316)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d1_2"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d1_2)"><g><animateTransform attributeName="transform" type="rotate" values="-6 95.5 51.0;6 95.5 51.0;-6 95.5 51.0" dur="3.4s" repeatCount="indefinite"/><text x="92.5" y="58.0" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="24" fill="#7C3AED" opacity="0.25">3D</text><text x="93.7" y="56.8" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="24" fill="#7C3AED" opacity="0.35">3D</text><text x="94.9" y="55.6" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="24" fill="#7C3AED" opacity="0.45">3D</text><text x="96.1" y="54.4" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="24" fill="#7C3AED" opacity="0.55">3D</text><text x="97.3" y="53.2" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="24" fill="#7C3AED" opacity="0.65">3D</text><text x="98.5" y="52.0" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="24" fill="#F8FAFC">3D</text></g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">3D LAYERED TEXT</text>
+</g><g transform="translate(395,316)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d2_2"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d2_2)">
+<text x="95.5" y="57.0" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="17" fill="#22D3EE">LEARN<animate attributeName="opacity" values="1;0;0;1" keyTimes="0;0.45;0.55;1" dur="3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="1;1.4;1" dur="3s" repeatCount="indefinite" additive="sum"/></text>
+<text x="95.5" y="57.0" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="17" fill="#10B981" opacity="0">SHIP<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.45;0.55;1" dur="3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="scale" values="1.4;1;1.4" dur="3s" repeatCount="indefinite" additive="sum"/></text></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">MORPHING TEXT</text>
+</g><g transform="translate(590,316)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d3_2"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d3_2)"><polygon points="-5,-4 6,-2 2,6" fill="#94A3B8"><animateTransform attributeName="transform" type="translate" values="95.5,51.0;43.3,67.1" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/><animateTransform attributeName="transform" type="rotate" values="0;319" dur="1.5s" begin="0s;2.6s;5.2s" additive="sum"/><animate attributeName="opacity" values="1;0" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/></polygon><polygon points="-5,-4 6,-2 2,6" fill="#94A3B8"><animateTransform attributeName="transform" type="translate" values="95.5,51.0;43.9,62.3" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/><animateTransform attributeName="transform" type="rotate" values="0;270" dur="1.5s" begin="0s;2.6s;5.2s" additive="sum"/><animate attributeName="opacity" values="1;0" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/></polygon><polygon points="-5,-4 6,-2 2,6" fill="#94A3B8"><animateTransform attributeName="transform" type="translate" values="95.5,51.0;118.8,109.7" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/><animateTransform attributeName="transform" type="rotate" values="0;241" dur="1.5s" begin="0s;2.6s;5.2s" additive="sum"/><animate attributeName="opacity" values="1;0" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/></polygon><polygon points="-5,-4 6,-2 2,6" fill="#94A3B8"><animateTransform attributeName="transform" type="translate" values="95.5,51.0;52.5,5.299999999999997" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/><animateTransform attributeName="transform" type="rotate" values="0;144" dur="1.5s" begin="0s;2.6s;5.2s" additive="sum"/><animate attributeName="opacity" values="1;0" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/></polygon><polygon points="-5,-4 6,-2 2,6" fill="#94A3B8"><animateTransform attributeName="transform" type="translate" values="95.5,51.0;57.8,64.2" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/><animateTransform attributeName="transform" type="rotate" values="0;257" dur="1.5s" begin="0s;2.6s;5.2s" additive="sum"/><animate attributeName="opacity" values="1;0" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/></polygon><polygon points="-5,-4 6,-2 2,6" fill="#94A3B8"><animateTransform attributeName="transform" type="translate" values="95.5,51.0;117.2,-4.200000000000003" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/><animateTransform attributeName="transform" type="rotate" values="0;130" dur="1.5s" begin="0s;2.6s;5.2s" additive="sum"/><animate attributeName="opacity" values="1;0" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/></polygon><polygon points="-5,-4 6,-2 2,6" fill="#94A3B8"><animateTransform attributeName="transform" type="translate" values="95.5,51.0;55.2,23.4" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/><animateTransform attributeName="transform" type="rotate" values="0;235" dur="1.5s" begin="0s;2.6s;5.2s" additive="sum"/><animate attributeName="opacity" values="1;0" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/></polygon><polygon points="-5,-4 6,-2 2,6" fill="#94A3B8"><animateTransform attributeName="transform" type="translate" values="95.5,51.0;63.4,4.399999999999999" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/><animateTransform attributeName="transform" type="rotate" values="0;160" dur="1.5s" begin="0s;2.6s;5.2s" additive="sum"/><animate attributeName="opacity" values="1;0" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/></polygon><polygon points="-5,-4 6,-2 2,6" fill="#94A3B8"><animateTransform attributeName="transform" type="translate" values="95.5,51.0;49.6,6.200000000000003" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/><animateTransform attributeName="transform" type="rotate" values="0;136" dur="1.5s" begin="0s;2.6s;5.2s" additive="sum"/><animate attributeName="opacity" values="1;0" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/></polygon><polygon points="-5,-4 6,-2 2,6" fill="#94A3B8"><animateTransform attributeName="transform" type="translate" values="95.5,51.0;134.3,66.2" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/><animateTransform attributeName="transform" type="rotate" values="0;181" dur="1.5s" begin="0s;2.6s;5.2s" additive="sum"/><animate attributeName="opacity" values="1;0" dur="1.5s" begin="0s;2.6s;5.2s" fill="freeze"/></polygon><circle cx="95.5" cy="51.0" r="9" fill="#ffd700"><animate attributeName="r" values="9;0;0;9" keyTimes="0;0.05;0.95;1" dur="2.6s" repeatCount="indefinite"/></circle></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">SHATTER · EXPLOSION</text>
+</g><g transform="translate(785,316)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d4_2"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d4_2)">
+<circle r="5" fill="#22D3EE" filter="url(#glow2)"><animateMotion path="M -10 51.0 L 200 51.0" dur="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="60" cy="51.0" r="4" fill="none" stroke="#22D3EE" stroke-width="1.5"><animate attributeName="r" values="4;30" dur="1.2s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="1.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="120" cy="51.0" r="4" fill="none" stroke="#7C3AED" stroke-width="1.5"><animate attributeName="r" values="4;30" dur="1.2s" begin="0.85s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="1.2s" begin="0.85s" repeatCount="indefinite"/></circle></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">SONIC BOOM</text>
+</g><g transform="translate(980,316)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d5_2"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d5_2)">
+<g opacity="0.35"><animateTransform attributeName="transform" type="translate" values="0,0;-16,0;0,0" dur="7s" repeatCount="indefinite"/><polygon points="10,98 55,44 100,98" fill="#334155"/><polygon points="80,98 130,52 180,98" fill="#334155"/></g>
+<g opacity="0.6"><animateTransform attributeName="transform" type="translate" values="0,0;-34,0;0,0" dur="7s" repeatCount="indefinite"/><polygon points="30,98 85,58 140,98" fill="#475569"/></g>
+<g><animateTransform attributeName="transform" type="translate" values="0,0;-60,0;0,0" dur="7s" repeatCount="indefinite"/><polygon points="60,98 125,72 190,98" fill="#64748b"/><polygon points="140,98 190,80 240,98" fill="#64748b"/></g>
+<circle cx="160" cy="26" r="9" fill="#ffd700" opacity="0.9"/></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">PARALLAX DEPTH (sim)</text>
+</g><g transform="translate(5,444)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d0_3"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d0_3)"><circle r="2.2" fill="#22D3EE" opacity="0.8"><animateMotion path="M -5 18 C 45 -2 85 38 125 -2 S 200 38 210 18" dur="4.4s" begin="1.8s" repeatCount="indefinite"/></circle><circle r="2.2" fill="#10B981" opacity="0.8"><animateMotion path="M -5 81 C 45 70 85 92 125 70 S 200 92 210 81" dur="4.9s" begin="2.0s" repeatCount="indefinite"/></circle><circle r="2.2" fill="#10B981" opacity="0.8"><animateMotion path="M -5 25 C 45 10 85 40 125 10 S 200 40 210 25" dur="5.0s" begin="1.6s" repeatCount="indefinite"/></circle><circle r="2.2" fill="#10B981" opacity="0.8"><animateMotion path="M -5 25 C 45 6 85 44 125 6 S 200 44 210 25" dur="3.8s" begin="3.0s" repeatCount="indefinite"/></circle><circle r="2.2" fill="#7C3AED" opacity="0.8"><animateMotion path="M -5 51 C 45 43 85 59 125 43 S 200 59 210 51" dur="3.2s" begin="3.1s" repeatCount="indefinite"/></circle><circle r="2.2" fill="#10B981" opacity="0.8"><animateMotion path="M -5 28 C 45 16 85 40 125 16 S 200 40 210 28" dur="4.2s" begin="3.8s" repeatCount="indefinite"/></circle><circle r="2.2" fill="#7C3AED" opacity="0.8"><animateMotion path="M -5 15 C 45 4 85 26 125 4 S 200 26 210 15" dur="3.6s" begin="3.6s" repeatCount="indefinite"/></circle><circle r="2.2" fill="#10B981" opacity="0.8"><animateMotion path="M -5 63 C 45 44 85 82 125 44 S 200 82 210 63" dur="4.2s" begin="0.3s" repeatCount="indefinite"/></circle></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">FLOW FIELD · PERLIN (sim)</text>
+</g><g transform="translate(200,444)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d1_3"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d1_3)">
+<g stroke="#22D3EE" stroke-width="1" fill="#22D3EE" fill-opacity="0.07">
+<polygon points="10,10 80,4 95,52 40,80 6,55"><animate attributeName="fill-opacity" values="0.07;0.3;0.07" dur="2.4s" repeatCount="indefinite"/></polygon>
+<polygon points="80,4 170,12 160,48 95,52"><animate attributeName="fill-opacity" values="0.07;0.3;0.07" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></polygon>
+<polygon points="95,52 160,48 178,92 40,80"><animate attributeName="fill-opacity" values="0.07;0.3;0.07" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></polygon>
+</g>
+<circle cx="60" cy="40" r="2.5" fill="#F8FAFC"/><circle cx="125" cy="28" r="2.5" fill="#F8FAFC"/><circle cx="110" cy="70" r="2.5" fill="#F8FAFC"/></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">VORONOI CELLS</text>
+</g><g transform="translate(395,444)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d2_3"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d2_3)">
+<line x1="0" y1="51.0" x2="79.5" y2="51.0" stroke="#F8FAFC" stroke-width="2.5"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></line>
+<polygon points="77.5,69.0 95.5,31.0 113.5,69.0" fill="none" stroke="#94A3B8" stroke-width="1.5"/>
+<g stroke-width="2.5"><line x1="105.5" y1="51.0" x2="187" y2="25.0" stroke="#ff0044"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.0s" repeatCount="indefinite"/></line><line x1="105.5" y1="51.0" x2="187" y2="36.0" stroke="#f59e0b"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.1s" repeatCount="indefinite"/></line><line x1="105.5" y1="51.0" x2="187" y2="47.0" stroke="#ffd700"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.2s" repeatCount="indefinite"/></line><line x1="105.5" y1="51.0" x2="187" y2="58.0" stroke="#10B981"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.30000000000000004s" repeatCount="indefinite"/></line><line x1="105.5" y1="51.0" x2="187" y2="69.0" stroke="#22D3EE"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.4s" repeatCount="indefinite"/></line><line x1="105.5" y1="51.0" x2="187" y2="80.0" stroke="#7C3AED"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="0.5s" repeatCount="indefinite"/></line></g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">PRISM DISPERSION 🌈</text>
+</g><g transform="translate(590,444)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d3_3"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d3_3)">
+<text x="95.5" y="56.0" text-anchor="middle" font-family="monospace" font-size="13" fill="#94A3B8">const dev = "you";</text>
+<g><animateTransform attributeName="transform" type="translate" values="-46,0;46,0;-46,0" dur="4s" repeatCount="indefinite"/>
+<circle cx="95.5" cy="51.0" r="22" fill="#030712" stroke="#22D3EE" stroke-width="2"/>
+<g clip-path="url(#lensClip)"><text x="95.5" y="59.0" text-anchor="middle" font-family="monospace" font-size="21" fill="#F8FAFC">dev</text></g>
+</g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">LENS · REFRACTION (sim)</text>
+</g><g transform="translate(785,444)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d4_3"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d4_3)">
+<circle cx="40" cy="51.0" r="20" fill="none" stroke="#7C3AED" stroke-width="14" stroke-dasharray="126" stroke-dashoffset="126" transform="rotate(-90 40 51.0)"><animate attributeName="stroke-dashoffset" values="126;32;126" dur="3.4s" repeatCount="indefinite"/></circle>
+<g><rect x="80" width="9" rx="2" y="0" height="20" fill="#22D3EE" transform="translate(0,77.0) scale(1,-1)"><animate attributeName="height" values="8;18;8" dur="1.8s" begin="0.0s" repeatCount="indefinite"/></rect><rect x="93" width="9" rx="2" y="0" height="20" fill="#22D3EE" transform="translate(0,77.0) scale(1,-1)"><animate attributeName="height" values="8;27;8" dur="1.8s" begin="0.2s" repeatCount="indefinite"/></rect><rect x="106" width="9" rx="2" y="0" height="20" fill="#22D3EE" transform="translate(0,77.0) scale(1,-1)"><animate attributeName="height" values="8;36;8" dur="1.8s" begin="0.4s" repeatCount="indefinite"/></rect><rect x="119" width="9" rx="2" y="0" height="20" fill="#22D3EE" transform="translate(0,77.0) scale(1,-1)"><animate attributeName="height" values="8;45;8" dur="1.8s" begin="0.6000000000000001s" repeatCount="indefinite"/></rect></g>
+<polyline points="140,71.0 152,53.0 164,63.0 178,37.0" fill="none" stroke="#10B981" stroke-width="2.5" stroke-dasharray="70" stroke-dashoffset="70"><animate attributeName="stroke-dashoffset" values="70;0;0;70" keyTimes="0;0.4;0.8;1" dur="3.4s" repeatCount="indefinite"/></polyline>
+<g><animateTransform attributeName="transform" type="translate" values="0,-40;0,0;0,0" keyTimes="0;0.25;1" dur="3s" repeatCount="indefinite"/><path d="M 170 22 c -6 0 -9 5 -9 9 c 0 6 9 15 9 15 c 0 0 9 -9 9 -15 c 0 -4 -3 -9 -9 -9 z" fill="#ff0044"/><circle cx="170" cy="31" r="3.5" fill="#fff"/></g></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">CHARTS: PIE·BAR·LINE·PIN</text>
+</g><g transform="translate(980,444)">
+<rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
+<clipPath id="d5_3"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
+<g clip-path="url(#d5_3)">
+<text x="65.5" y="63.0" font-size="34"><animateTransform attributeName="transform" type="rotate" values="0 81.5 57.0;22 81.5 57.0;0 81.5 57.0;22 81.5 57.0;0 81.5 57.0" dur="1.6s" repeatCount="indefinite"/>👋</text>
+<text x="109.5" y="63.0" font-size="30"><animate attributeName="y" values="63.0;53.0;63.0" dur="0.9s" repeatCount="indefinite"/>🚀</text></g>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">ANIMATED EMOJI 👋</text>
+</g>
+<rect x="1" y="1" width="1178" height="580" rx="16" fill="none" stroke="url(#rainbowG2)" stroke-width="1.5" opacity="0.5"/>
+</svg>
