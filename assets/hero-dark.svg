@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610" role="img" aria-label="Manashjyoti Bora — animated hero banner with photo and live terminal">
 <defs>
+<pattern id="dotgrid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="rgba(255,255,255,0.05)"/></pattern>
 <linearGradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
   <stop offset="0%" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="7s" repeatCount="indefinite"/></stop>
   <stop offset="100%" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="7s" repeatCount="indefinite"/></stop>
@@ -23,6 +24,7 @@
 </defs>
 <rect x="2" y="2" width="1176" height="606" rx="24" fill="#030712"/>
 <g clip-path="url(#canvasClip)">
+  <rect x="2" y="2" width="1176" height="606" fill="url(#dotgrid)"/>
   <circle cx="200" cy="120" r="260" fill="url(#orb1)"><animateTransform attributeName="transform" type="translate" values="0,0;60,40;0,0" dur="12s" repeatCount="indefinite"/></circle>
   <circle cx="980" cy="500" r="300" fill="url(#orb2)"><animateTransform attributeName="transform" type="translate" values="0,0;-50,-60;0,0" dur="14s" repeatCount="indefinite"/></circle>
   <circle cx="640" cy="80" r="200" fill="url(#orb3)"><animateTransform attributeName="transform" type="translate" values="0,0;30,50;0,0" dur="16s" repeatCount="indefinite"/></circle>
@@ -37,12 +39,20 @@
   <g>
     <rect x="40" y="60" width="410" height="500" rx="18" fill="#0F172A" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
     <rect x="40" y="60" width="410" height="500" rx="18" fill="url(#glass)"/>
+<g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.3s" dur="0.5s" fill="freeze"/>
+  <rect x="164" y="76" width="162" height="30" rx="15" fill="none" stroke="#10B981" stroke-width="1.4"/>
+  <circle cx="184" cy="91" r="5" fill="#10B981"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="199" y="96" font-family="'Segoe UI',Arial" font-weight="700" font-size="13" fill="#10B981">OPEN TO WORK</text>
+</g>
     
 <g>
   <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="6s" repeatCount="indefinite"/>
   <!-- pulsing glow ring -->
   <circle cx="245" cy="200" r="100" fill="none" stroke="url(#asciiGrad)" stroke-width="3" filter="url(#softGlow)">
     <animate attributeName="r" values="100;104;100" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="245" cy="200" r="122" fill="none" stroke="url(#asciiGrad)" stroke-width="3" stroke-linecap="round" stroke-dasharray="150 616" opacity="0.9">
+    <animateTransform attributeName="transform" type="rotate" values="0 245 200;360 245 200" dur="6s" repeatCount="indefinite"/>
   </circle>
   <!-- rotating dashed orbit -->
   <circle cx="245" cy="200" r="112" fill="none" stroke="#22D3EE" stroke-width="1.2" stroke-dasharray="6 10" opacity="0.55">
@@ -55,7 +65,7 @@
 </g>
 
 <!-- ID card lines (typed reveal) -->
-<text x="245" y="352" text-anchor="middle" font-family="'Courier New',monospace" font-size="21" font-weight="bold" fill="url(#asciiGrad)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="1.4s" fill="freeze"/>MANASHJYOTI BORA</text>
+<text x="245" y="352" text-anchor="middle" font-family="'Courier New',monospace" font-size="21" font-weight="bold" fill="url(#asciiGrad)" filter="url(#softGlow)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="1.4s" fill="freeze"/>MANASHJYOTI BORA</text>
 <text x="245" y="388" text-anchor="middle" font-family="'Courier New',monospace" font-size="15" font-weight="normal" fill="#F8FAFC" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="1.75s" fill="freeze"/>Full-Stack Development Student</text>
 <text x="245" y="426" text-anchor="middle" font-family="'Courier New',monospace" font-size="14" font-weight="normal" fill="#94A3B8" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="2.4499999999999997s" fill="freeze"/>$ whoami</text>
 <text x="245" y="456" text-anchor="middle" font-family="'Courier New',monospace" font-size="16" font-weight="bold" fill="#22D3EE" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="2.8s" fill="freeze"/>phone-only developer</text>
@@ -137,6 +147,13 @@
   <text x="845" y="548" font-family="'Courier New',monospace" font-size="13" fill="#94A3B8">github.com/Manashjyoti-Bora</text>
 </g>
   </g>
+  
+<g stroke="url(#borderShimmer)" stroke-width="2.5" fill="none" opacity="0.9">
+  <path d="M 26 54 L 26 30 L 50 30"/>
+  <path d="M 1130 30 L 1154 30 L 1154 54"/>
+  <path d="M 1154 556 L 1154 580 L 1130 580"/>
+  <path d="M 50 580 L 26 580 L 26 556"/>
+</g>
   <rect x="4" y="4" width="1172" height="602" rx="22" fill="none" stroke="url(#borderShimmer)" stroke-width="2" opacity="0.85"/>
 </g>
 </svg>
