@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 170" width="1180" height="170" role="img" aria-label="Thank you for visiting">
+<defs>
+<linearGradient id="fg1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="fg2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#0369a1"/><stop offset="100%" stop-color="#10B981"/></linearGradient>
+<clipPath id="fc"><rect width="1180" height="170" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#fc)">
+<rect width="1180" height="170" fill="#030712"/>
+<path d="M 0 96 Q 148 66 295 96 T 590 96 T 885 96 T 1180 96 T 1475 96 T 1770 96 L 1770 170 L 0 170 Z" fill="url(#fg1)" opacity="0.35">
+<animateTransform attributeName="transform" type="translate" values="0,0;-590,0" dur="9s" repeatCount="indefinite"/></path>
+<path d="M 0 116 Q 148 88 295 116 T 590 116 T 885 116 T 1180 116 T 1475 116 T 1770 116 L 1770 170 L 0 170 Z" fill="url(#fg2)" opacity="0.55">
+<animateTransform attributeName="transform" type="translate" values="0,0;-590,0" dur="6s" repeatCount="indefinite"/></path>
+<path d="M 0 136 Q 148 112 295 136 T 590 136 T 885 136 T 1180 136 T 1475 136 T 1770 136 L 1770 170 L 0 170 Z" fill="url(#fg1)" opacity="0.85">
+<animateTransform attributeName="transform" type="translate" values="0,0;-590,0" dur="4s" repeatCount="indefinite"/></path>
+<text x="590" y="58" text-anchor="middle" font-family="'Segoe UI',Arial" font-weight="bold" font-size="26" fill="#F8FAFC" opacity="0">THANK YOU FOR VISITING<animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.3s" fill="freeze"/></text>
+<text x="590" y="84" text-anchor="middle" font-family="monospace" font-size="13" fill="#94A3B8" opacity="0">— every wave here is hand-coded SVG too —<animate attributeName="opacity" values="0;1" dur="1s" begin="1s" fill="freeze"/></text>
+</g>
+</svg>
