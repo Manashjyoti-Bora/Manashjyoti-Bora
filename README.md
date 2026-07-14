@@ -15,11 +15,13 @@
 
 <sub>Hand-coded SVG banner — adapts to your GitHub light/dark theme.</sub>
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&height=140&text=LEARNING%20IN%20PUBLIC&fontSize=38&color=0:030712,50:7C3AED,100:10B981&fontColor=ffffff&animation=fadeIn&desc=a%20development%20journey%20built%20entirely%20on%20mobile&descSize=16&descAlignY=80)
-
-![Banner](https://svg-banners.vercel.app/api?type=luminance&text1=SHIPPING%20WHILE%20LEARNING&width=830&height=110)
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&duration=1900&pause=400&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=130&lines=%3E+STATUS+..............+LEARNING+IN+PUBLIC;%3E+ENVIRONMENT+.........+ANDROID+%C2%B7+TERMUX+%C2%B7+VERCEL;%3E+DEPLOYED+............+2+PRODUCTION+APPLICATIONS;%3E+CURRENT+FOCUS+.......+TYPESCRIPT+%C2%B7+TESTING+%C2%B7+OSS;%3E+OBJECTIVE+...........+SDE+INTERNSHIP" alt="typing animation" />
+```ansi
+[38;5;51m> STATUS ............. [38;5;46mLEARNING IN PUBLIC[0m
+[38;5;51m> ENVIRONMENT ........ [0mANDROID · TERMUX · VERCEL[0m
+[38;5;51m> DEPLOYED ........... [38;5;46m2 PRODUCTION APPLICATIONS[0m
+[38;5;51m> CURRENT FOCUS ...... [0mTYPESCRIPT · TESTING · OSS[0m
+[38;5;51m> OBJECTIVE .......... [38;5;213mSDE INTERNSHIP[0m
+```
 
 <img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VIEWS&color=10B981&style=for-the-badge" alt="profile views" />&nbsp;
 <a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=030712" alt="followers" /></a>&nbsp;
@@ -68,7 +70,7 @@
 [38;5;46m[ TODAY   ][0m Still learning. Still shipping. ........... [38;5;46min progress[0m
 ```
 
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="" />
 
 # 🗂️ 02 · Projects — What Each One Taught Me
 
@@ -126,7 +128,7 @@ This profile is itself a project: **three GitHub Actions pipelines** (contributi
 
 <!-- ═══ CUSTOM FX 3: FX LAB — 30 techniques in one hand-coded file ═══ -->
 
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="" />
 
 # 🧪 03 · The FX Lab — Hand-Coded SVG Animation Study
 
@@ -178,7 +180,7 @@ TESTING      ██████░░░░░░░░░░░░░░░░�
 CONSISTENCY  █████████████████████████  daily commits
 ```
 
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="" />
 
 # 🛠️ 05 · Development Environment
 
@@ -209,7 +211,7 @@ CONSISTENCY  ██████████████████████�
 
 </div>
 
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="" />
 
 # 📊 06 · Live Metrics
 
@@ -250,7 +252,7 @@ CONSISTENCY  ██████████████████████�
 
 </div>
 
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="" />
 
 # 🧭 07 · Roadmap
 
@@ -278,7 +280,7 @@ flowchart LR
 - [ ] First published npm package
 - [ ] SDE internship — **primary objective**
 
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="" />
 
 # 📬 08 · Contact
 
@@ -324,6 +326,6 @@ flowchart LR
 <samp>Updated continuously — one commit at a time.</samp><br/>
 <sub>© 2026 Manashjyoti Bora · Nagaon, Assam, India</sub>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:7C3AED,100:10B981&height=150&section=footer&text=THANK%20YOU%20FOR%20VISITING&fontSize=26&fontColor=ffffff&animation=fadeIn)
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/footer.svg" width="100%" alt="Thank you for visiting — hand-coded animated waves" />
 
 </div>
