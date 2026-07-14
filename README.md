@@ -168,17 +168,9 @@ timeline
             : DSA consistency
 ```
 
-**Self-assessment:**
+**Self-assessment — animated, honestly calibrated:**
 
-```text
-HTML/CSS     ██████████████████░░░░░░░  foundation
-JAVASCRIPT   ████████████████░░░░░░░░░  applied in production
-REACT/NEXT   ██████████████████░░░░░░░  two deployed apps
-TYPESCRIPT   ██████████████░░░░░░░░░░░  strict mode, no any
-BACKEND/DB   ██████████████░░░░░░░░░░░  JWT auth, MongoDB
-TESTING      ██████░░░░░░░░░░░░░░░░░░░  actively learning
-CONSISTENCY  █████████████████████████  daily commits
-```
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/skills.svg" width="100%" alt="Animated skill bars: HTML/CSS 72%, JavaScript 64%, React/Next.js 72%, TypeScript 56%, Backend/MongoDB 56%, Testing 24% (actively learning), Consistency 100%" />
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="" />
 
@@ -271,18 +263,13 @@ flowchart LR
     style G fill:#030712,stroke:#7C3AED,color:#7C3AED
 ```
 
-- [x] First line of code — written on a phone
-- [x] First production deployment
-- [x] First full-stack application with a live database
-- [x] First CI/CD pipelines
-- [x] First hand-coded SMIL animation files (this page)
-- [ ] First external open-source contribution — **in progress**
-- [ ] First published npm package
-- [ ] SDE internship — **primary objective**
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/roadmap.svg" width="100%" alt="Animated milestone path: five completed milestones (phone-first code, production deploy, full-stack app, CI/CD, SVG animation system) and three upcoming (external PR, npm package, SDE internship)" />
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="" />
 
 # 📬 08 · Contact
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/contact.svg" width="100%" alt="Animated contact card — email, LinkedIn, GitHub and portfolio with live status marquee: open to SDE internships, remote-ready, IST timezone" />
 
 <div align="center">
 
