@@ -13,7 +13,7 @@
 <rect width="1180" height="180" fill="url(#fadeTop)"/>
 <rect width="1180" height="4" fill="#00ff41" opacity="0.15"><animateTransform attributeName="transform" type="translate" values="0,-10;0,190" dur="4s" repeatCount="indefinite"/></rect>
 <text x="590" y="97" text-anchor="middle" font-family="monospace" font-size="26" font-weight="bold" fill="#00ff41" filter="url(#mglow)">
-<animate attributeName="opacity" values="1;1;0.2;1;1;0.5;1" keyTimes="0;0.4;0.45;0.5;0.8;0.85;1" dur="4s" repeatCount="indefinite"/>&gt; LOADING NEXT CHAPTER_</text>
+<animate attributeName="opacity" values="1;1;0.2;1;1;0.5;1" keyTimes="0;0.4;0.45;0.5;0.8;0.85;1" dur="4s" repeatCount="indefinite"/>&gt; INITIALIZING NEXT SECTION_</text>
 </g>
 <rect x="1" y="1" width="1178" height="178" rx="14" fill="none" stroke="#00ff41" stroke-width="1" opacity="0.35"/>
 </svg>
