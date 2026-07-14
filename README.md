@@ -17,7 +17,7 @@
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&height=140&text=LEARNING%20IN%20PUBLIC&fontSize=38&color=0:030712,50:7C3AED,100:10B981&fontColor=ffffff&animation=fadeIn&desc=a%20development%20journey%20built%20entirely%20on%20mobile&descSize=16&descAlignY=80)
 
-![Glitch](https://svg-banners.vercel.app/api?type=luminance&text1=STUDENT%20DEVELOPER%20%E2%80%94%20SHIPPING%20WHILE%20LEARNING&width=830&height=110)
+![Glitch](https://svg-banners.vercel.app/api?type=luminance&text1=SHIPPING%20WHILE%20LEARNING&width=830&height=110)
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&duration=1900&pause=400&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=130&lines=%3E+STATUS+..............+LEARNING+IN+PUBLIC;%3E+ENVIRONMENT+.........+ANDROID+%C2%B7+TERMUX+%C2%B7+VERCEL;%3E+DEPLOYED+............+2+PRODUCTION+APPLICATIONS;%3E+CURRENT+FOCUS+.......+TYPESCRIPT+%C2%B7+TESTING+%C2%B7+OSS;%3E+OBJECTIVE+...........+SDE+INTERNSHIP" alt="typing animation" />
 
