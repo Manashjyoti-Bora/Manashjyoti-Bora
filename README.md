@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg" width="100%" alt="Manashjyoti Bora — hand-coded animated hero: ASCII portrait reveal, typing terminal, glowing skill pills, floating particles, scanline, glassmorphism, shimmer border" />
 </picture>
 
-*↑ I hand-coded this banner in pure SVG — ASCII line-reveal · typing terminal · cycling roles · glowing pills · floating orbs · particles · scanline sweep · glass panels · shimmer border · auto dark/light switch 🪄*
+*Hand-coded in pure SVG — typing terminal, ASCII reveal, glowing pills, particles, and auto dark/light switching. 🪄*
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&height=140&text=THE%20LEARNING%20LOG&fontSize=38&color=0:030712,50:7C3AED,100:10B981&fontColor=ffffff&animation=fadeIn&desc=learning%20to%20code%20%E2%80%94%20one%20phone%2C%20zero%20excuses&descSize=16&descAlignY=80)
 
@@ -37,7 +37,7 @@
 </div>
 
 > [!IMPORTANT]
-> **🌱 HONEST HEADER:** I'm a student who is **still learning to code** — HTML, CSS, JavaScript, React, and beyond. I don't claim to be an expert. But while learning, I've already **shipped 2 real apps to production**, and the entire journey runs on **one Android phone**. Everything below is clickable, verifiable proof. **Learning in public. Shipping in public.** 📱
+> **🌱 THE SHORT VERSION:** I'm a student still learning to code — and while learning, I've already **shipped 2 real apps to production**, entirely from **one Android phone**. No expert claims. Just clickable, verifiable proof. **Learning in public. Shipping in public.** 📱
 
 <!-- ═══ CUSTOM FX 1: HAND-CODED MATRIX RAIN DIVIDER ═══ -->
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-matrix.svg" width="100%" alt="Matrix rain divider — hand-coded SMIL animation with falling glyph columns, glow, scanline and flickering neon text" />
@@ -48,17 +48,17 @@
 
 > No laptop. No excuses either.
 >
-> I'm from Nagaon, Assam — a 1st-year B.Voc IT student.
-> My entire "computer lab" is **one Android phone**:
+> I'm a 1st-year B.Voc IT student from Nagaon, Assam.
+> My entire computer lab is **one Android phone**:
 >
-> - ⌨️ **Termux** — my terminal (git, node, npm live here)
+> - ⌨️ **Termux** — my terminal (git, node, npm)
 > - 🌐 **GitHub web editor** — my IDE
-> - ☁️ **Vercel** — my build machine (the cloud lifts the heavy stuff)
+> - ☁️ **Vercel** — my build machine
 > - 👍 **Two thumbs** — my keyboard
 >
-> Every day I learn a little, and immediately **apply it to a real
-> project** — that's why my repos aren't tutorials.
-> **They're live products.**
+> Every day I learn something and immediately apply it
+> to a real project. That's why my repos aren't tutorials —
+> **they're live products.**
 
 <br clear="right"/>
 
@@ -139,17 +139,17 @@ This profile is itself a project — **3 GitHub Actions pipelines** I set up and
 
 <div align="center">
 
-**30 animation techniques — glitch · CRT noise · neon flicker · rainbow · marquee · 3D flip · cube · pendulum · oscilloscope · odometer · skeleton · ripple · bubbles · lava lamp · metaballs · rain · snow · lightning · laser · fire · smoke · confetti · comet · synthwave grid · halftone · moiré · kaleidoscope · path-draw ✓✗ · spotlight blinds — every panel hand-coded by me in pure SVG. No libraries. No JavaScript. Just code.**
+**30 animation techniques in one file — every panel hand-coded in pure SVG. No libraries. No JavaScript. Just code.**
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-lab.svg" width="100%" alt="FX LAB — 30 hand-coded SVG animation panels: glitch, CRT, neon, rainbow, marquee, flip card, cube, pendulum, oscilloscope, odometer, skeleton loader, ripple, bubbles, lava lamp, metaballs, rain, snow, lightning, laser, fire, smoke, confetti, comet, synthwave, halftone, moire, kaleidoscope, checkmark draw, spotlight" />
 
-*Why does a learner build this? Because the best way to learn SVG/animation is to make 30 of them.* 🌱
+*Why would a learner build this? Because the best way to learn animation is to make 30 of them.* 🌱
 
-**...and 24 MORE — including simulated versions of "impossible" effects (cursor trail, mouse-follow, magnetic hover, tooltip, page peel, book flip, flip clock, heartbeat, shatter, parallax, prism, voronoi, lens refraction):**
+**...and 24 more — including simulated versions of "impossible" effects like cursor trails, mouse-follow and magnetic hover:**
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-lab2.svg" width="100%" alt="FX LAB 2 — 24 more hand-coded SVG panels: simulated cursor trail, mouse follow, animated tooltip, magnetic hover, page peel, book flip, origami fold, Ken Burns, zoom blur, heartbeat, elastic ball, flip clock, card stack, 3D text, morphing text, shatter explosion, sonic boom, parallax layers, flow field, voronoi, prism dispersion, lens refraction, animated charts, animated emoji" />
 
-*Total: 54 hand-coded animation panels across 2 lab files. GitHub blocks JavaScript — so I simulated the cursor effects in pure SVG. When you can't use the tool, build the illusion.* 😎
+*54 hand-coded panels in total. GitHub blocks JavaScript — so I simulated the cursor effects frame by frame in pure SVG. When you can't use the tool, build the illusion.* 😎
 
 </div>
 
@@ -224,7 +224,7 @@ CONSISTENCY  ██████████████████████�
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" alt="animated chart" />
 
-**Every widget below pulls real data on every page load — no screenshots:**
+**Live widgets — real data on every load, no screenshots:**
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=10B981&text_color=F8FAFC&ring_color=7C3AED" alt="github stats" />
 
@@ -291,7 +291,7 @@ flowchart LR
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" alt="handshake" />
 
-**Looking for a junior who learns fast and ships real things? I'm ready.** 🌱
+**Looking for a junior who learns fast and ships real things? Let's talk.** 🌱
 
 [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL-manashjyotibora122%40gmail.com-D14836?style=for-the-badge&labelColor=030712&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com?subject=Hello%20Manashjyoti)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=030712&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
