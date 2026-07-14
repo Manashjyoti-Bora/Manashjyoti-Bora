@@ -124,11 +124,6 @@
 
 This profile is itself a project: **three GitHub Actions pipelines** (contribution snake, 3D city, automated rebuilds) that I configured and debugged independently, plus **six hand-coded SMIL animation files** rendered on this page.
 
-<!-- ═══ CUSTOM FX 2: HAND-CODED COSMIC DASHBOARD ═══ -->
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-cosmos.svg" width="100%" alt="Cosmic dashboard — hand-coded: twinkling starfield, shooting stars, aurora, fireworks, solar system orbit, DNA helix, radar scan, liquid fill gauge, progress ring, equalizer bars" />
-
-*↑ also hand-coded: starfield · shooting stars · aurora · fireworks · orbiting planets · DNA helix · radar scan · liquid gauge · progress ring · equalizer — all pure SVG, zero JavaScript*
-
 <!-- ═══ CUSTOM FX 3: FX LAB — 30 techniques in one hand-coded file ═══ -->
 
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
@@ -137,7 +132,7 @@ This profile is itself a project: **three GitHub Actions pipelines** (contributi
 
 <div align="center">
 
-**A self-directed study in SVG animation: 30 techniques in a single file — no libraries, no JavaScript, pure SMIL.**
+**A self-directed study in SVG animation. These files are not decorations pulled from a library — every element on this page (hero banner, matrix divider, metrics dashboard, and the two panels below) is written by hand in declarative SVG.**
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-lab.svg" width="100%" alt="FX LAB — 30 hand-coded SVG animation panels: glitch, CRT, neon, rainbow, marquee, flip card, cube, pendulum, oscilloscope, odometer, skeleton loader, ripple, bubbles, lava lamp, metaballs, rain, snow, lightning, laser, fire, smoke, confetti, comet, synthwave, halftone, moire, kaleidoscope, checkmark draw, spotlight" />
 
@@ -217,6 +212,9 @@ CONSISTENCY  ██████████████████████�
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
 
 # 📊 06 · Live Metrics
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-cosmos.svg" width="100%" alt="Animation dashboard — starfield, shooting stars, aurora, fireworks, solar orbit, DNA helix, radar scan, liquid fill gauge, progress ring and equalizer, all hand-coded SVG" />
+
 
 <div align="center">
 
