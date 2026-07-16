@@ -15,13 +15,7 @@
 
 <sub>Hand-coded SVG banner — adapts to your GitHub light/dark theme.</sub>
 
-```text
-> STATUS ............. LEARNING IN PUBLIC
-> ENVIRONMENT ........ ANDROID · TERMUX · VERCEL
-> DEPLOYED ........... 2 PRODUCTION APPLICATIONS
-> CURRENT FOCUS ...... TYPESCRIPT · TESTING · OSS
-> OBJECTIVE .......... SDE INTERNSHIP
-```
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/status.svg" width="100%" alt="Animated status terminal: learning in public · Android/Termux/Vercel · 2 production applications · TypeScript, testing, OSS · objective SDE internship" />
 
 <img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VIEWS&color=10B981&style=for-the-badge" alt="profile views" />&nbsp;
 <a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=030712" alt="followers" /></a>&nbsp;
@@ -124,7 +118,7 @@
 
 ## 🤖 Manashjyoti-Bora (this repository) — CI/CD & Automation
 
-This profile is itself a project: **three GitHub Actions pipelines** (contribution snake, 3D city, automated rebuilds) that I configured and debugged independently, plus **six hand-coded SMIL animation files** rendered on this page.
+This profile is itself a project: **three GitHub Actions pipelines** (contribution snake, 3D city, automated rebuilds) that I configured and debugged independently, plus **twelve hand-coded SMIL animation files** rendered on this page.
 
 <!-- ═══ CUSTOM FX 3: FX LAB — 30 techniques in one hand-coded file ═══ -->
 
@@ -230,6 +224,10 @@ timeline
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D seasons animated" />
+
+**Pac-Man — eating through the contribution graph:**
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man contribution graph animation" />
 
 **Contribution snake — regenerated daily at 00:00 UTC:**
 
