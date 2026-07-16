@@ -37,7 +37,7 @@
   </g>
 </g>
 <!-- status marquee -->
-<text y="30" font-family="monospace" font-size="13" fill="#10B981" opacity="0.9">OPEN TO SDE INTERNSHIPS · REMOTE-READY · IST TIMEZONE · IMMEDIATE AVAILABILITY · OPEN TO SDE INTERNSHIPS · REMOTE-READY · IST TIMEZONE ·
+<text y="30" font-family="monospace" font-size="13" fill="#10B981" opacity="0.9">LEARNING IN PUBLIC · BUILDING DAILY · IST TIMEZONE · ALWAYS OPEN TO A CONVERSATION · LEARNING IN PUBLIC · BUILDING DAILY ·
 <animateTransform attributeName="transform" type="translate" values="1180,0;-1400,0" dur="18s" repeatCount="indefinite"/></text>
 </g>
 </svg>
