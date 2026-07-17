@@ -161,41 +161,7 @@ This profile is itself a project: **three GitHub Actions pipelines** (contributi
 
 <div align="center">
 
-# 🧪 03 · The FX Lab — Hand-Coded SVG Animation Study
-
-</div>
-
-<div align="center">
-
-**A self-directed study in SVG animation. These files are not decorations pulled from a library — every element on this page (hero banner, matrix divider, metrics dashboard, and the two panels below) is written by hand in declarative SVG.**
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-lab.svg" width="100%" alt="FX LAB — 30 hand-coded SVG animation panels: glitch, CRT, neon, rainbow, marquee, flip card, cube, pendulum, oscilloscope, odometer, skeleton loader, ripple, bubbles, lava lamp, metaballs, rain, snow, lightning, laser, fire, smoke, confetti, comet, synthwave, halftone, moire, kaleidoscope, checkmark draw, spotlight" />
-
-<div align="center">
-
-*Built as a deliberate practice exercise — the fastest way to learn a technique is to implement it thirty times.*
-
-</div>
-
-<div align="center">
-
-**A second set of 24 techniques, including SVG-simulated versions of effects that normally require JavaScript (cursor trails, hover interactions):**
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-lab2.svg" width="100%" alt="FX LAB 2 — 24 more hand-coded SVG panels: simulated cursor trail, mouse follow, animated tooltip, magnetic hover, page peel, book flip, origami fold, Ken Burns, zoom blur, heartbeat, elastic ball, flip clock, card stack, 3D text, morphing text, shatter explosion, sonic boom, parallax layers, flow field, voronoi, prism dispersion, lens refraction, animated charts, animated emoji" />
-
-<div align="center">
-
-*54 hand-coded panels in total. GitHub does not execute JavaScript in READMEs, so interactive effects were reproduced frame-by-frame in declarative SVG.*
-
-</div>
-
-<div align="center">
-
-# 📚 04 · Current Learning
+# 📚 03 · Current Learning
 
 </div>
 
@@ -229,7 +195,7 @@ timeline
 
 <div align="center">
 
-# 🛠️ 05 · Development Environment
+# 🛠️ 04 · Development Environment
 
 </div>
 
@@ -264,7 +230,7 @@ timeline
 
 <div align="center">
 
-# 📊 06 · Live Metrics
+# 📊 05 · Live Metrics
 
 </div>
 
@@ -314,7 +280,7 @@ timeline
 
 <div align="center">
 
-# 🧭 07 · Roadmap
+# 🧭 06 · Roadmap
 
 </div>
 
@@ -339,7 +305,7 @@ flowchart LR
 
 <div align="center">
 
-# 📬 08 · Contact
+# 📬 07 · Contact
 
 </div>
 
