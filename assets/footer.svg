@@ -12,7 +12,8 @@
 <animateTransform attributeName="transform" type="translate" values="0,0;-590,0" dur="6s" repeatCount="indefinite"/></path>
 <path d="M 0 136 Q 148 112 295 136 T 590 136 T 885 136 T 1180 136 T 1475 136 T 1770 136 L 1770 170 L 0 170 Z" fill="url(#fg1)" opacity="0.85">
 <animateTransform attributeName="transform" type="translate" values="0,0;-590,0" dur="4s" repeatCount="indefinite"/></path>
-<text x="590" y="58" text-anchor="middle" font-family="'Segoe UI',Arial" font-weight="bold" font-size="26" fill="#F8FAFC" opacity="0">THANK YOU FOR VISITING<animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.3s" fill="freeze"/></text>
+<g fill="#F8FAFC"><circle cx="410" cy="40" r="1.6" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="1s" repeatCount="indefinite"/></circle><circle cx="780" cy="36" r="1.9" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="2s" repeatCount="indefinite"/></circle><circle cx="600" cy="24" r="1.4" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.4s" repeatCount="indefinite"/></circle></g>
+<text x="590" y="58" text-anchor="middle" font-family="'Segoe UI',Arial" font-weight="bold" font-size="26" fill="#F8FAFC" opacity="0">THANK YOU FOR VISITING<animate attributeName="opacity" values="0;1" dur="1.2s" begin="0.3s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="3s" begin="1.6s" repeatCount="indefinite"/></text>
 <text x="590" y="84" text-anchor="middle" font-family="monospace" font-size="13" fill="#94A3B8" opacity="0">— every wave here is hand-coded SVG too —<animate attributeName="opacity" values="0;1" dur="1s" begin="1s" fill="freeze"/></text>
 </g>
 </svg>
