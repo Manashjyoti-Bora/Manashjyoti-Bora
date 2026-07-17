@@ -39,5 +39,8 @@
 <!-- status marquee -->
 <text y="30" font-family="monospace" font-size="13" fill="#10B981" opacity="0.9">LEARNING IN PUBLIC · BUILDING DAILY · IST TIMEZONE · ALWAYS OPEN TO A CONVERSATION · LEARNING IN PUBLIC · BUILDING DAILY ·
 <animateTransform attributeName="transform" type="translate" values="1180,0;-1400,0" dur="18s" repeatCount="indefinite"/></text>
-</g>
+<g><circle cx="1076" cy="75" r="4" fill="#22D3EE"><animate attributeName="cy" values="75;68;75" dur="0.8s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="1092" cy="75" r="4" fill="#7C3AED"><animate attributeName="cy" values="75;68;75" dur="0.8s" begin="0.15s" repeatCount="indefinite"/></circle>
+<circle cx="1108" cy="75" r="4" fill="#10B981"><animate attributeName="cy" values="75;68;75" dur="0.8s" begin="0.3s" repeatCount="indefinite"/></circle>
+<text x="1092" y="102" text-anchor="middle" font-family="monospace" font-size="10" fill="#94A3B8">typing...</text></g></g>
 </svg>
