@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 150" width="1180" height="150" role="img" aria-label="Contact — email, LinkedIn, GitHub, portfolio">
+<defs>
+<linearGradient id="cg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="8s" repeatCount="indefinite"/></stop>
+  <stop offset="100%" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="8s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<filter id="cgl"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="cc"><rect width="1180" height="150" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#cc)">
+<rect width="1180" height="150" fill="#0F172A"/>
+<rect x="2" y="2" width="1176" height="146" rx="15" fill="none" stroke="url(#cg)" stroke-width="1.6" opacity="0.7"/>
+<!-- heartbeat 24h reply -->
+<g transform="translate(105,75)">
+  <path d="M 0 10 C -18 -5 -12 -22 0 -10 C 12 -22 18 -5 0 10 Z" fill="#EF4444" filter="url(#cgl)">
+    <animateTransform attributeName="transform" type="scale" values="1;1.22;1;1.1;1;1" keyTimes="0;0.12;0.24;0.36;0.5;1" dur="1.3s" repeatCount="indefinite"/>
+  </path>
+  <text y="38" text-anchor="middle" font-family="monospace" font-size="12" fill="#94A3B8">replies &lt; 24h</text>
+</g>
+<!-- pulsing contact rings -->
+<g font-family="monospace" font-size="14">
+  <g transform="translate(300,65)">
+    <circle r="6" fill="#D14836"/><circle r="6" fill="none" stroke="#D14836" stroke-width="1.5"><animate attributeName="r" values="6;18" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="20" y="5" fill="#e2e8f0">manashjyotibora122@gmail.com</text>
+  </g>
+  <g transform="translate(300,102)">
+    <circle r="6" fill="#0A66C2"/><circle r="6" fill="none" stroke="#0A66C2" stroke-width="1.5"><animate attributeName="r" values="6;18" dur="2s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <text x="20" y="5" fill="#e2e8f0">linkedin.com/in/manashjyoti-bora-323b97405</text>
+  </g>
+  <g transform="translate(720,65)">
+    <circle r="6" fill="#a78bfa"/><circle r="6" fill="none" stroke="#a78bfa" stroke-width="1.5"><animate attributeName="r" values="6;18" dur="2s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+    <text x="20" y="5" fill="#e2e8f0">github.com/Manashjyoti-Bora</text>
+  </g>
+  <g transform="translate(720,102)">
+    <circle r="6" fill="#22D3EE"/><circle r="6" fill="none" stroke="#22D3EE" stroke-width="1.5"><animate attributeName="r" values="6;18" dur="2s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle>
+    <text x="20" y="5" fill="#e2e8f0">manashjyoti-bora.vercel.app</text>
+  </g>
+</g>
+<!-- status marquee -->
+<text y="30" font-family="monospace" font-size="13" fill="#10B981" opacity="0.9">LEARNING IN PUBLIC · BUILDING DAILY · IST TIMEZONE · ALWAYS OPEN TO A CONVERSATION · LEARNING IN PUBLIC · BUILDING DAILY ·
+<animateTransform attributeName="transform" type="translate" values="1180,0;-1400,0" dur="18s" repeatCount="indefinite"/></text>
+<g><circle cx="1076" cy="75" r="4" fill="#22D3EE"><animate attributeName="cy" values="75;68;75" dur="0.8s" begin="0s" repeatCount="indefinite"/></circle>
+<circle cx="1092" cy="75" r="4" fill="#7C3AED"><animate attributeName="cy" values="75;68;75" dur="0.8s" begin="0.15s" repeatCount="indefinite"/></circle>
+<circle cx="1108" cy="75" r="4" fill="#10B981"><animate attributeName="cy" values="75;68;75" dur="0.8s" begin="0.3s" repeatCount="indefinite"/></circle>
+<text x="1092" y="102" text-anchor="middle" font-family="monospace" font-size="10" fill="#94A3B8">typing...</text></g></g>
+</svg>
