@@ -33,7 +33,7 @@
   </g>
   <g transform="translate(720,102)">
     <circle r="6" fill="#22D3EE"/><circle r="6" fill="none" stroke="#22D3EE" stroke-width="1.5"><animate attributeName="r" values="6;18" dur="2s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle>
-    <text x="20" y="5" fill="#e2e8f0">manashjyoti-bora.vercel.app</text>
+    <text x="20" y="5" fill="#e2e8f0">portfolio-manashjyoti-bora.vercel.app</text>
   </g>
 </g>
 <!-- status marquee -->

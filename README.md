@@ -90,15 +90,15 @@
 
 ```text
 ┌─ OVERVIEW ──────────────────────────────┐
-│ AUREA — interactive developer portfolio │
-│ · 3D particle hero (Three.js / R3F)     │
-│ · AI chatbot with intent matching       │
-│ · Ctrl+K palette · hidden terminal      │
-│ · Live GitHub dashboard (real API)      │
+│ Personal portfolio — 100% real data     │
+│ · GSAP animations + AOS reveals         │
+│ · custom cursor · offcanvas menu        │
+│ · validated contact form · ATS resume   │
+│ · full SEO · sitemap · mobile-first     │
 ├─ SKILLS APPLIED ────────────────────────┤
-│ Next.js 14 · TypeScript · Tailwind      │
-│ GSAP · Framer Motion · API routes       │
-│ SEO · security headers                  │
+│ HTML5 · CSS3 · JavaScript ES6+ · Vite   │
+│ GSAP · AOS · responsive design          │
+│ SEO · clean code · Vercel deploy        │
 └─────────────────────────────────────────┘
 ```
 
