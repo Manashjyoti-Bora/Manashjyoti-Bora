@@ -19,13 +19,13 @@
 <a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=030712" alt="followers" /></a>&nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%8C%B1_STATUS-BUILDING_%26_LEARNING-10B981?style=for-the-badge&labelColor=030712" alt="building and learning" />
 
-[![Portfolio](https://img.shields.io/badge/%E2%9A%A1_PORTFOLIO-Live-22D3EE?style=for-the-badge&labelColor=030712)](https://manashjyoti-bora.vercel.app)&nbsp;
+[![Portfolio](https://img.shields.io/badge/%E2%9A%A1_PORTFOLIO-Live-22D3EE?style=for-the-badge&labelColor=030712)](https://portfolio-manashjyoti-bora.vercel.app)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=030712&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)&nbsp;
 [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL-24h_reply-D14836?style=for-the-badge&labelColor=030712&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com)&nbsp;
-[![Resume](https://img.shields.io/badge/%F0%9F%93%84_RESUME-PDF-7C3AED?style=for-the-badge&labelColor=030712)](https://manashjyoti-bora.vercel.app/resume.pdf)
+[![Resume](https://img.shields.io/badge/%F0%9F%93%84_RESUME-PDF-7C3AED?style=for-the-badge&labelColor=030712)](https://raw.githubusercontent.com/Manashjyoti-Bora/portfolio/main/assets/resume/Manashjyoti_Bora_Resume.pdf)
 
 <!-- Live uptime — real monitors -->
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fmanashjyoti-bora.vercel.app&style=for-the-badge&label=PORTFOLIO%20UPTIME&labelColor=030712&up_color=10B981" alt="portfolio uptime" />&nbsp;
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fportfolio-manashjyoti-bora.vercel.app&style=for-the-badge&label=PORTFOLIO%20UPTIME&labelColor=030712&up_color=10B981" alt="portfolio uptime" />&nbsp;
 <img src="https://img.shields.io/website?url=https%3A%2F%2Fnexusmart-dusky.vercel.app&style=for-the-badge&label=NEXUSMART%20UPTIME&labelColor=030712&up_color=10B981" alt="nexusmart uptime" />
 
 </div>
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-## ⚡ portfolio-website — Frontend Engineering
+## ⚡ portfolio — Frontend Engineering
 
 </div>
 
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/%F0%9F%94%B4_LIVE-manashjyoti--bora.vercel.app-22D3EE?style=for-the-badge&labelColor=030712)](https://manashjyoti-bora.vercel.app)&nbsp;[![Code](https://img.shields.io/badge/%F0%9F%93%82_CODE-GitHub-7C3AED?style=for-the-badge&labelColor=030712)](https://github.com/Manashjyoti-Bora/portfolio-website)
+[![Live](https://img.shields.io/badge/%F0%9F%94%B4_LIVE-portfolio--manashjyoti--bora.vercel.app-22D3EE?style=for-the-badge&labelColor=030712)](https://portfolio-manashjyoti-bora.vercel.app)&nbsp;[![Code](https://img.shields.io/badge/%F0%9F%93%82_CODE-GitHub-7C3AED?style=for-the-badge&labelColor=030712)](https://github.com/Manashjyoti-Bora/portfolio)
 
 </div>
 
