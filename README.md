@@ -135,38 +135,37 @@ where $s_i$ is the status code of check $i$, $t_i$ its latency in milliseconds a
 Drawings get marked up on site. This is the real log, written into this file by the Action that clones each repository and reads its history. If I stop committing, this block goes stale in public.
 
 <!-- ASBUILT:START -->
-
 ```text
-2026-08-23  Manashjyoti-Bora      chore: update 3D contribution graph
-2026-08-23  Manashjyoti-Bora      feat(profile): mjb.os - hand-coded SMIL boot
-2026-08-23  Manashjyoti-Bora      fix: sync README with real portfolio site data
-2026-08-23  Manashjyoti-Bora      fix: update portfolio links to new domain
-2026-08-23  Manashjyoti-Bora      restore: assets, workflows and README
-2026-08-23  Manashjyoti-Bora      docs: update profile README
-2026-08-15  portfolio             fix: polish hero spacing and section reveals
-2026-08-04  portfolio             feat: first commit of the portfolio site
-2026-07-28  nexusmart             feat: role-gated admin routes
-2026-07-28  devhire-pro-ats       feat: multi-attribute candidate filtering
-2026-07-28  taskflow-enterprise   feat: optimistic drag and drop
-2026-07-02  taskflow-enterprise   init: first repository
+2026-08-29  Manashjyoti-Bora      chore(sheet): redraw signature margin
+2026-08-29  Manashjyoti-Bora      chore: refresh live telemetry
+2026-08-29  Manashjyoti-Bora      chore: update 3D contribution graph
+2026-08-29  Manashjyoti-Bora      feat(profile): drawing no. MJB-001
+2026-08-29  Manashjyoti-Bora      chore: update 3D contribution graph
+2026-08-29  Manashjyoti-Bora      Update README.md
+2026-08-29  Manashjyoti-Bora      chore: refresh live telemetry
+2026-08-28  Manashjyoti-Bora      chore: refresh live telemetry
+2026-08-28  Manashjyoti-Bora      chore: update 3D contribution graph
+2026-08-28  Manashjyoti-Bora      chore: refresh live telemetry
+2026-08-27  Manashjyoti-Bora      chore: refresh live telemetry
+2026-08-27  Manashjyoti-Bora      chore: update 3D contribution graph
+2026-08-27  Manashjyoti-Bora      chore: refresh live telemetry
+2026-08-26  Manashjyoti-Bora      chore: refresh live telemetry
+2026-08-26  Manashjyoti-Bora      chore: refresh live telemetry
+2026-08-26  Manashjyoti-Bora      chore: refresh live telemetry
+2026-08-26  Manashjyoti-Bora      chore: update 3D contribution graph
+2026-08-26  Manashjyoti-Bora      chore: refresh live telemetry
 ```
-
-<sub>Seeded from a real clone on 2026-08-23. The Action replaces this block with the 18 most recent commits across all repositories.</sub>
-
 <!-- ASBUILT:END -->
 
 Commits per week, plotted from the same clone:
 
 <!-- WEEKLY:START -->
-
 ```mermaid
 xychart-beta
-    title "Commits per week, measured not estimated"
-    x-axis ["06-29", "07-06", "07-13", "07-20", "07-27", "08-03", "08-10", "08-17"]
-    y-axis "commits" 0 --> 24
-    bar [22, 7, 12, 0, 5, 15, 12, 8]
+    x-axis ["2026-06-29", "2026-07-06", "2026-07-13", "2026-07-27", "2026-08-03", "2026-08-10", "2026-08-17", "2026-08-24"]
+    y-axis "commits" 0 --> 28
+    bar [22, 7, 12, 5, 15, 12, 9, 28]
 ```
-
 <!-- WEEKLY:END -->
 
 > [!TIP]
