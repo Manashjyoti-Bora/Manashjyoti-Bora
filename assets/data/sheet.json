@@ -1,0 +1,16 @@
+{
+ "drawing": "MJB-001",
+ "cycle_seconds": 24.0,
+ "barcode": "MANASHBORA.VERCEL.APP",
+ "barcode_symbology": "Code 39",
+ "parts": [
+  "SURFACE  \u00b7  HTML + CSS",
+  "BEHAVIOUR  \u00b7  JAVASCRIPT",
+  "COMPONENTS  \u00b7  REACT 19",
+  "ROUTING  \u00b7  NEXT.JS APP ROUTER",
+  "CONTRACTS  \u00b7  ZOD SCHEMAS",
+  "ACCESS  \u00b7  JWT + BCRYPT",
+  "STORAGE  \u00b7  MONGODB ATLAS",
+  "DELIVERY  \u00b7  ACTIONS + VERCEL"
+ ]
+}
