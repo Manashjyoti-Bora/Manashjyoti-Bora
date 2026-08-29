@@ -288,7 +288,7 @@ Real drawings carry signatures in the margin. So does this one, and the margin i
 
 <!-- SIGN:START -->
 
-The margin is blank and waiting. Be the first line.
+No signatures yet. The margin is blank and waiting.
 
 Total signatures: **0**
 
