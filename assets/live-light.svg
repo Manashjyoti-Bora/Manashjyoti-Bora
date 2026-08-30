@@ -3,14 +3,14 @@
 <path d="M16 0h1168a16 16 0 0 1 16 16v24H0V16A16 16 0 0 1 16 0Z" fill="#e9eef5"/>
 <circle cx="26" cy="20" r="5.5" fill="#f43f5e"/><circle cx="46" cy="20" r="5.5" fill="#f59e0b"/><circle cx="66" cy="20" r="5.5" fill="#059669"/>
 <text x="600" y="24" text-anchor="middle" fill="#7b8798" font-family="ui-monospace,SFMono-Regular,Menlo,DejaVu Sans Mono,Consolas,monospace" font-size="12">mjb.os — /var/live/telemetry.json</text>
-<text x="976" y="24" fill="#7b8798" font-family="ui-monospace,SFMono-Regular,Menlo,DejaVu Sans Mono,Consolas,monospace" font-size="12">synced 2026-08-30 05:21Z</text>
+<text x="976" y="24" fill="#7b8798" font-family="ui-monospace,SFMono-Regular,Menlo,DejaVu Sans Mono,Consolas,monospace" font-size="12">synced 2026-08-30 11:51Z</text>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,DejaVu Sans Mono,Consolas,monospace">
   <rect x="24" y="56" width="370" height="212" rx="12" fill="#ffffff" fill-opacity=".55" stroke="#d7e0ea"/>
   <rect x="415" y="56" width="370" height="212" rx="12" fill="#ffffff" fill-opacity=".55" stroke="#d7e0ea"/>
   <rect x="806" y="56" width="370" height="212" rx="12" fill="#ffffff" fill-opacity=".55" stroke="#d7e0ea"/>
 
   <text x="43" y="80" fill="#0b1220" font-size="12">COMMITS · LAST 30 DAYS</text>
-  <text x="43" y="100" fill="#7b8798" font-size="11">MAX 10 · TOTAL 23</text>
+  <text x="43" y="100" fill="#7b8798" font-size="11">MAX 10 · TOTAL 24</text>
   <line x1="43" y1="119" x2="373" y2="119" stroke="#e4ebf3" stroke-width="1"/>
 <line x1="43" y1="151" x2="373" y2="151" stroke="#e4ebf3" stroke-width="1"/>
 <line x1="43" y1="183" x2="373" y2="183" stroke="#e4ebf3" stroke-width="1"/>
@@ -45,7 +45,7 @@
 <rect x="329" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.78s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.78s" dur="1.4s" fill="freeze"/></rect>
 <rect x="340" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.81s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.81s" dur="1.4s" fill="freeze"/></rect>
 <rect x="351" y="220" width="7" height="26" rx="2" fill="#059669"><animate attributeName="height" from="0" to="26" begin="0.84s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="220" begin="0.84s" dur="1.4s" fill="freeze"/></rect>
-<rect x="362" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.87s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.87s" dur="1.4s" fill="freeze"/></rect>
+<rect x="362" y="233" width="7" height="13" rx="2" fill="#059669"><animate attributeName="height" from="0" to="13" begin="0.87s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="233" begin="0.87s" dur="1.4s" fill="freeze"/></rect>
 
   <text x="434" y="80" fill="#0b1220" font-size="12">LANGUAGE MIX</text>
   <defs><clipPath id="lang-clip-light"><rect x="434" y="100" width="332" height="14" rx="7"/></clipPath></defs>
@@ -75,7 +75,7 @@
 
   <text x="825" y="80" fill="#0b1220" font-size="12">SIGNAL</text>
   <text x="825" y="108" fill="#243040" font-size="12">repos</text>
-  <text x="1157" y="108" text-anchor="end" fill="#0b1220" font-size="14">5</text>
+  <text x="1157" y="108" text-anchor="end" fill="#0b1220" font-size="14">6</text>
   <line x1="825" y1="119" x2="1157" y2="119" stroke="#e4ebf3"/>
   <text x="825" y="139" fill="#243040" font-size="12">stars</text>
   <text x="1157" y="139" text-anchor="end" fill="#0b1220" font-size="14">3</text>
@@ -85,6 +85,6 @@
   <line x1="825" y1="182" x2="1157" y2="182" stroke="#e4ebf3"/>
   <text x="825" y="202" fill="#7b8798" font-size="11">LATEST COMMIT</text>
   <circle cx="830" cy="217" r="4" fill="#059669"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
-  <text x="842" y="221" fill="#243040" font-size="9.5">Manashjy... · af2d177 · chore: update bl... · 8h ago</text>
+  <text x="842" y="221" fill="#243040" font-size="9.5">Manashjy... · 3fe7f12 · chore: update 3D... · 2h ago</text>
 </g>
 </svg>
