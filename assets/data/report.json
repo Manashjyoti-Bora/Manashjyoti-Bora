@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T16:56:49Z",
+  "generated_at": "2026-08-30T21:31:37Z",
   "mode": "live",
   "repositories": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "name": "Manashjyoti-Bora",
-      "commits": 48,
+      "commits": 50,
       "source": "api"
     }
   ],
@@ -35,15 +35,15 @@
       "samples": [
         {
           "status_code": 200,
-          "latency_ms": 315
+          "latency_ms": 260
         },
         {
           "status_code": 200,
-          "latency_ms": 223
+          "latency_ms": 205
         }
       ],
       "status_code": 200,
-      "latency_ms": 223,
+      "latency_ms": 205,
       "ok": true
     },
     {
@@ -52,15 +52,15 @@
       "samples": [
         {
           "status_code": 200,
-          "latency_ms": 389
+          "latency_ms": 257
         },
         {
           "status_code": 200,
-          "latency_ms": 248
+          "latency_ms": 88
         }
       ],
       "status_code": 200,
-      "latency_ms": 248,
+      "latency_ms": 88,
       "ok": true
     },
     {
@@ -69,15 +69,15 @@
       "samples": [
         {
           "status_code": 200,
-          "latency_ms": 247
+          "latency_ms": 115
         },
         {
           "status_code": 200,
-          "latency_ms": 230
+          "latency_ms": 116
         }
       ],
       "status_code": 200,
-      "latency_ms": 230,
+      "latency_ms": 116,
       "ok": true
     }
   ],
@@ -205,6 +205,20 @@
       {
         "t": "2026-08-30T16:56:49Z",
         "ms": 223,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-08-30T21:31:37Z",
+        "ms": 260,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-08-30T21:31:37Z",
+        "ms": 205,
         "status_code": 200,
         "ok": true,
         "source": "real"
@@ -336,6 +350,20 @@
         "status_code": 200,
         "ok": true,
         "source": "real"
+      },
+      {
+        "t": "2026-08-30T21:31:37Z",
+        "ms": 257,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-08-30T21:31:37Z",
+        "ms": 88,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
       }
     ],
     "devhire-pro-ats": [
@@ -461,6 +489,20 @@
       {
         "t": "2026-08-30T16:56:49Z",
         "ms": 230,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-08-30T21:31:37Z",
+        "ms": 115,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-08-30T21:31:37Z",
+        "ms": 116,
         "status_code": 200,
         "ok": true,
         "source": "real"
