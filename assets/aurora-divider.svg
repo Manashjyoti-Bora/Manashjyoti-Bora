@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="70" viewBox="0 0 1000 70" role="img" aria-label="Aurora divider — animated hand-coded SMIL ribbon">
+<defs>
+<linearGradient id="a1" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="8s" repeatCount="indefinite"/></stop>
+  <stop offset="0.5" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="8s" repeatCount="indefinite"/></stop>
+  <stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="8s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="a2" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#22D3EE" stop-opacity="0.5"/>
+  <stop offset="1" stop-color="#7C3AED" stop-opacity="0.5"/>
+</linearGradient>
+</defs>
+<rect width="1000" height="70" fill="#030712"/>
+<path fill="none" stroke="url(#a1)" stroke-width="2.5" stroke-linecap="round"
+  d="M0,42 C120,18 240,60 360,38 S600,14 720,40 S940,62 1000,30">
+  <animate attributeName="d" dur="7s" repeatCount="indefinite" values="
+    M0,42 C120,18 240,60 360,38 S600,14 720,40 S940,62 1000,30;
+    M0,30 C120,58 240,16 360,44 S600,60 720,26 S940,18 1000,44;
+    M0,42 C120,18 240,60 360,38 S600,14 720,40 S940,62 1000,30"/>
+</path>
+<path fill="none" stroke="url(#a2)" stroke-width="1.2" stroke-linecap="round" opacity="0.7"
+  d="M0,50 C150,30 300,55 450,35 S750,20 1000,48">
+  <animate attributeName="d" dur="9s" repeatCount="indefinite" values="
+    M0,50 C150,30 300,55 450,35 S750,20 1000,48;
+    M0,26 C150,52 300,24 450,50 S750,58 1000,24;
+    M0,50 C150,30 300,55 450,35 S750,20 1000,48"/>
+</path>
+<circle r="3" fill="#F0FDFA">
+  <animateMotion dur="6s" repeatCount="indefinite" path="M0,42 C120,18 240,60 360,38 S600,14 720,40 S940,62 1000,30"/>
+  <animate attributeName="opacity" values="1;0.4;1" dur="1.2s" repeatCount="indefinite"/>
+</circle>
+<circle r="1.6" fill="#67E8F9" opacity="0.8">
+  <animateMotion dur="6s" begin="1.4s" repeatCount="indefinite" path="M0,42 C120,18 240,60 360,38 S600,14 720,40 S940,62 1000,30"/>
+</circle>
+</svg>

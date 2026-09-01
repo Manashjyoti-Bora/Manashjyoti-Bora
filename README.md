@@ -1,9 +1,9 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  MANASHJYOTI BORA · PROFILE README · RARE EDITION                   -->
-<!--  Manashjyoti Bora · Full-Stack Development Student                  -->
+<!--  MANASHJYOTI BORA · PROFILE README · ULTRA-RARE EDITION             -->
 <!--  Hand-built on an Android phone. Every claim links to live work.    -->
-<!--  Rare tech inside: STL 3D viewer · GeoJSON map · LaTeX · Mermaid    -->
-<!--  timeline & mindmap · 5 alert types · footnotes · theme-aware SVG   -->
+<!--  Inside: STL 3D · GeoJSON map · colored LaTeX · Assamese ruby       -->
+<!--  gitGraph · XY chart · quadrant chart · timeline · mindmap          -->
+<!--  5 alert types · footnotes · nested details · theme-aware SVG       -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -11,10 +11,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-light.svg">
-  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg" width="100%" alt="Animated terminal-style hero banner — ASCII-art portrait, typing system info, scanning effects. Hand-coded SVG + SMIL, zero JavaScript.">
+  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg" width="100%" alt="Animated terminal-style hero banner — ASCII-art portrait, typing system info. Hand-coded SVG + SMIL, zero JavaScript.">
 </picture>
 
-<sub>Hand-coded SVG banner — adapts to your GitHub light/dark theme.</sub>
+<sub><ruby>মনজ্যোতি বৰা<rt>Manashjyoti Bora</rt></ruby> · Nagaon, Assam 🇮🇳 — hand-coded banner, adapts to your GitHub theme</sub>
 
 <br><br>
 
@@ -30,21 +30,18 @@
 <img src="https://img.shields.io/website?url=https%3A%2F%2Fportfolio-manashjyoti-bora.vercel.app&style=for-the-badge&label=PORTFOLIO%20UPTIME&labelColor=030712&up_color=10B981" alt="portfolio uptime" />&nbsp;
 <img src="https://img.shields.io/website?url=https%3A%2F%2Fnexusmart-dusky.vercel.app&style=for-the-badge&label=NEXUSMART%20UPTIME&labelColor=030712&up_color=10B981" alt="nexusmart uptime" />
 
+$${\color{#22D3EE}\textsf{Learning in public}} \cdot {\color{#7C3AED}\textsf{Building daily}} \cdot {\color{#10B981}\textsf{the work will decide}}$$
+
 </div>
 
 > [!IMPORTANT]
-> **Summary:** First-year IT student, learning full-stack development in public. While studying, I have **designed, built, and deployed two production applications** — using only an Android phone as my development machine.[^1] Every claim on this page links to live, verifiable work. Where this journey leads next — the work will decide.
+> **Summary:** First-year IT student, learning full-stack development in public. While studying, I have **designed, built, and deployed two production applications** — using only an Android phone as my development machine.[^1] Every claim on this page links to live, verifiable work.
 
-<!-- ═══ CUSTOM FX: HAND-CODED MATRIX RAIN DIVIDER ═══ -->
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-matrix.svg" width="100%" alt="Matrix rain divider — hand-coded SMIL animation" />
 
 <div align="center">
 
 # 📖 01 · The Story — Why a Phone?
-
-</div>
-
-<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120" alt="coding gif">
 
@@ -60,9 +57,9 @@ for cloud builds. The constraint was never a wall — it became the brand.[^2]
 ```
 
 > [!NOTE]
-> Everything on this page — the animated banner, the dividers, the
-> dashboards — was hand-typed in SVG + SMIL on this same phone.
-> Zero JavaScript. Zero libraries. Zero design tools.
+> Everything on this page — the banner, dividers, dashboards — was
+> hand-typed in SVG + SMIL on this same phone. Zero JavaScript.
+> Zero libraries. Zero design tools.
 
 ### ⏳ The timeline (real events only)
 
@@ -76,10 +73,36 @@ timeline
     2026 Jul : NexusMart ships — full-stack, live
              : 12-file SVG animation system
     2026 Aug : Portfolio v2 redesign ships
-             : First real security lesson — fixed in hours
+             : First security disclosure — fixed in hours
 ```
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="divider" />
+### 🌿 The journey as a git graph
+
+```mermaid
+gitGraph
+    commit id: "first line of code"
+    commit id: "HTML/CSS/JS"
+    branch taskflow
+    commit id: "kanban boards"
+    checkout main
+    merge taskflow
+    branch devhire
+    commit id: "react 19 + filters"
+    checkout main
+    merge devhire
+    branch nexusmart
+    commit id: "jwt + mongodb"
+    commit id: "security hardening"
+    checkout main
+    merge nexusmart tag: "LIVE"
+    branch portfolio-v2
+    commit id: "gsap + seo"
+    checkout main
+    merge portfolio-v2 tag: "LIVE"
+    commit id: "HEAD → next?" type: HIGHLIGHT
+```
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/aurora-divider.svg" width="100%" alt="Aurora divider — animated hand-coded SMIL ribbon" />
 
 <div align="center">
 
@@ -169,12 +192,28 @@ timeline
 
 </div>
 
+### 📈 Where my repo energy goes
+
+```mermaid
+quadrantChart
+    title Effort vs. Learning — my four repos
+    x-axis Low Effort --> High Effort
+    y-axis Shallow Learning --> Deep Learning
+    quadrant-1 Ship it
+    quadrant-2 Hidden gems
+    quadrant-3 Warm-ups
+    quadrant-4 Grind zone
+    nexusmart: [0.85, 0.9]
+    portfolio: [0.7, 0.65]
+    devhire-pro-ats: [0.45, 0.55]
+    taskflow-enterprise: [0.35, 0.45]
+```
+
 > [!TIP]
 > This profile is itself a project: **three GitHub Actions pipelines**
-> (snake, Pac-Man, 3D city — all rebuilding daily) plus **twelve
+> (snake, Pac-Man, 3D city — rebuilding daily) plus **thirteen
 > hand-coded SMIL animation files** rendered on this page.
 
-<!-- ═══ CUSTOM FX: FX LAB ═══ -->
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-cosmos.svg" width="100%" alt="Animation dashboard — nine hand-coded SMIL techniques" />
 
 <div align="center">
@@ -187,8 +226,8 @@ timeline
 
 ### 🗺️ Where I build from — a real interactive map
 
-This is not a screenshot. GitHub renders GeoJSON as a **zoomable map**
-— tap it. That marker is Nagaon, Assam, India. 🇮🇳
+Not a screenshot — GitHub renders GeoJSON as a **zoomable map**. That
+marker is Nagaon, Assam, India. 🇮🇳
 
 ```geojson
 {
@@ -205,8 +244,8 @@ This is not a screenshot. GitHub renders GeoJSON as a **zoomable map**
 
 ### 🧊 A 3D model, rendered live in Markdown
 
-GitHub renders STL files as an **interactive 3D viewer** — drag to
-rotate. One octahedron, hand-typed. Consider it my logo in 3D.
+GitHub renders STL as an **interactive 3D viewer** — drag to rotate.
+One octahedron, hand-typed. My logo in 3D.
 
 ```stl
 solid gem
@@ -269,13 +308,23 @@ endfacet
 endsolid gem
 ```
 
-### 🧮 The consistency equation (yes, GitHub renders LaTeX)
+### 📊 Commits per project — charted by GitHub itself
 
-$$\text{Skill}(t)=\int_{0}^{t}\text{commits}(\tau)\,d\tau \quad\Longrightarrow\quad \lim_{t\to\infty}\text{Skill}(t)=\text{mastery}$$
+```mermaid
+xychart-beta
+    title "Where the commits went (2026)"
+    x-axis [taskflow, devhire, nexusmart, portfolio, profile]
+    y-axis "Relative effort" 0 --> 10
+    bar [3, 4, 9, 7, 8]
+```
+
+### 🧮 The consistency equation
+
+$$\text{Skill}(t)=\int_{0}^{t}\text{commits}(\tau)\,d\tau \quad\Longrightarrow\quad \lim_{t\to\infty}\text{Skill}(t)={\color{#10B981}\text{mastery}}$$
 
 <sub>Translation: show up every day, let the integral do its work.</sub>
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/aurora-divider.svg" width="100%" alt="Aurora divider" />
 
 <div align="center">
 
@@ -337,7 +386,7 @@ mindmap
 
 # 📊 05 · Live Metrics
 
-<sub>All numbers below are pulled live from the GitHub API — nothing is typed by hand.</sub>
+<sub>All numbers pulled live from the GitHub API — nothing typed by hand.</sub>
 
 <br><br>
 
@@ -376,11 +425,11 @@ mindmap
 </div>
 
 > [!CAUTION]
-> I haven't locked a career path, and that is deliberate. No fake
-> titles here. The plan below is real, small, and checked off in public.
+> I haven't locked a career path — deliberately. No fake titles here.
+> The plan below is real, small, and checked off in public.
 
 - [x] Ship a full-stack app with real auth (NexusMart)
-- [x] Hand-code an SVG/SMIL animation system (12 files)
+- [x] Hand-code an SVG/SMIL animation system (13 files)
 - [x] Rebuild portfolio with 100% real data
 - [x] Survive a real security disclosure — and fix it fast
 - [ ] First open-source pull request
@@ -417,14 +466,28 @@ mindmap
 | Layer | Detail |
 |-------|--------|
 | Banner | Hand-coded SVG + SMIL, ASCII portrait, theme-aware |
-| Dividers & cards | 12 hand-typed animation files, zero JS |
+| Dividers & cards | 13 hand-typed animation files, zero JS |
 | Map | Native GitHub GeoJSON rendering |
 | 3D gem | Native GitHub STL viewer |
-| Math | Native GitHub LaTeX |
-| Diagrams | Mermaid `timeline` + `mindmap` |
+| Math | Native GitHub LaTeX (with colors!) |
+| Diagrams | Mermaid timeline · gitGraph · mindmap · quadrant · xychart |
 | Pipelines | 3 GitHub Actions (snake · Pac-Man · 3D city) |
 | Hardware | One Android phone 📱 |
 
+<details>
+<summary>🥚 <b>One level deeper? (a nested easter egg)</b></summary>
+
+<br>
+
+You found it. 🎉 Fun facts nobody scrolls far enough to read:
+
+- The ASCII portrait in the banner is **thousands of characters**, generated by a Python pipeline I run in Termux.
+- The aurora divider above is **2.2 KB of hand-typed SMIL** — the ribbon colors cycle through my three brand colors every 8 seconds.
+- My name in Assamese is <ruby>মনজ্যোতি<rt>Monojyoti</rt></ruby> — the <code>&lt;ruby&gt;</code> tag you just saw render is also rare on GitHub. 😄
+
+<sub>If you read this far — say hi. I reply within 24h.</sub>
+
+</details>
 </details>
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/footer.svg" width="100%" alt="Animated footer — waves, sparkles, THANK YOU FOR VISITING" />
