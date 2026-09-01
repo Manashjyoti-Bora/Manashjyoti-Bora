@@ -43,8 +43,6 @@ $${\color{#22D3EE}\textsf{Learning in public}} \cdot {\color{#7C3AED}\textsf{Bui
 
 # 📖 01 · The Story — Why a Phone?
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120" alt="coding gif">
-
 </div>
 
 I don't own a laptop. My entire development environment is an Android phone:
@@ -192,7 +190,7 @@ gitGraph
 
 </div>
 
-### 📈 Where my repo energy goes
+### 📈 Where my repo energy went <sub>(self-assessment)</sub>
 
 ```mermaid
 quadrantChart
@@ -308,21 +306,32 @@ endfacet
 endsolid gem
 ```
 
-### 📊 Commits per project — charted by GitHub itself
-
-```mermaid
-xychart-beta
-    title "Where the commits went (2026)"
-    x-axis [taskflow, devhire, nexusmart, portfolio, profile]
-    y-axis "Relative effort" 0 --> 10
-    bar [3, 4, 9, 7, 8]
-```
-
 ### 🧮 The consistency equation
 
 $$\text{Skill}(t)=\int_{0}^{t}\text{commits}(\tau)\,d\tau \quad\Longrightarrow\quad \lim_{t\to\infty}\text{Skill}(t)={\color{#10B981}\text{mastery}}$$
 
 <sub>Translation: show up every day, let the integral do its work.</sub>
+
+### 🎢 The emotional journey (every developer knows this curve)
+
+```mermaid
+journey
+    title One year of learning to code — honestly rated
+    section Starting out
+      First "Hello World": 5: Me
+      CSS refuses to center: 2: Me
+      First deploy works: 5: Me
+    section Building real things
+      MongoDB connects: 4: Me
+      JWT auth finally clicks: 4: Me
+      NexusMart goes live: 5: Me
+    section Getting humbled
+      Headphones sold for Re.1: 1: Me
+      Fix shipped in hours: 5: Me
+    section Now
+      13 hand-coded animations: 5: Me
+      The next build: 4: Me
+```
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/aurora-divider.svg" width="100%" alt="Aurora divider" />
 
@@ -396,12 +405,6 @@ mindmap
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manashjyoti-Bora&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=F8FAFC" width="100%" alt="top languages" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manashjyoti-Bora&theme=tokyonight&utcOffset=5.5" width="49.5%" alt="productive time" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manashjyoti-Bora&theme=tokyonight" width="49.5%" alt="most commit language" />
-
-<img src="https://ghchart.rshah.org/10B981/Manashjyoti-Bora" width="100%" alt="contribution heatmap" />
-
-<br><br>
-
 **🐍 The snake — regenerated daily at 00:00 UTC:**
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions" />
@@ -452,10 +455,6 @@ mindmap
 [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL-manashjyotibora122%40gmail.com-D14836?style=for-the-badge&labelColor=030712&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com?subject=Hello%20Manashjyoti)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=030712&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
 
-<br>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="random dev quote" />
-
 </div>
 
 <details>
@@ -470,7 +469,7 @@ mindmap
 | Map | Native GitHub GeoJSON rendering |
 | 3D gem | Native GitHub STL viewer |
 | Math | Native GitHub LaTeX (with colors!) |
-| Diagrams | Mermaid timeline · gitGraph · mindmap · quadrant · xychart |
+| Diagrams | Mermaid timeline · gitGraph · journey · mindmap · quadrant |
 | Pipelines | 3 GitHub Actions (snake · Pac-Man · 3D city) |
 | Hardware | One Android phone 📱 |
 
@@ -494,7 +493,7 @@ You found it. 🎉 Fun facts nobody scrolls far enough to read:
 
 <div align="center">
 
-<sub>Where this journey leads next — the work will decide. 🌱</sub>
+<samp>manashjyoti@android:~$ echo "the work will decide" 🌱</samp>
 
 </div>
 
