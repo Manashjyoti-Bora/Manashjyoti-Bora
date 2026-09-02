@@ -190,6 +190,20 @@ gitGraph
 
 </div>
 
+### 🥧 Real code on my GitHub — measured, not guessed
+
+<sub>Language bytes pulled from the GitHub API across all 5 repos (Aug 2026).</sub>
+
+```mermaid
+pie showData
+    title Code by language (KB, all repos)
+    "JavaScript" : 350.9
+    "CSS" : 246.8
+    "HTML" : 88.2
+    "Python" : 63.4
+    "TypeScript" : 62.5
+```
+
 ### 📈 Where my repo energy went — honest self-assessment
 
 ```mermaid
@@ -399,11 +413,11 @@ mindmap
 
 <br><br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=10B981&text_color=F8FAFC&ring_color=7C3AED" width="100%" alt="GitHub stats" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=10B981&text_color=F8FAFC&ring_color=7C3AED" width="100%" alt="GitHub stats" />
 
 <img src="https://streak-stats.vercel.app/?user=Manashjyoti-Bora&theme=tokyonight&hide_border=true&background=030712&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&stroke=7C3AED&sideLabels=F8FAFC" width="100%" alt="contribution streak" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manashjyoti-Bora&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=F8FAFC" width="100%" alt="top languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manashjyoti-Bora&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=F8FAFC" width="100%" alt="top languages" />
 
 **🐍 The snake — regenerated daily at 00:00 UTC:**
 
@@ -478,7 +492,7 @@ mindmap
 | QR code | Generated + styled by hand — scannable |
 | 3D gem | Native GitHub STL viewer |
 | Math | Native GitHub LaTeX (with colors!) |
-| Diagrams | Mermaid timeline · gitGraph · journey · mindmap · quadrant |
+| Diagrams | Mermaid timeline · gitGraph · journey · mindmap · quadrant · pie (real API data) |
 | Pipelines | 3 GitHub Actions (snake · Pac-Man · 3D city) |
 | Hardware | One Android phone 📱 |
 
@@ -503,6 +517,10 @@ You found it. 🎉 Fun facts nobody scrolls far enough to read:
 <div align="center">
 
 <samp>manashjyoti@android:~$ echo "the work will decide" 🌱</samp>
+
+<br><br>
+
+<sub><kbd>↑</kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>B</kbd> <kbd>A</kbd> — you know the code. There's an easter egg above. 🥚</sub>
 
 </div>
 
