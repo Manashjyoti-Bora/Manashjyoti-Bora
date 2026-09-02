@@ -190,7 +190,7 @@ gitGraph
 
 </div>
 
-### 📈 Where my repo energy went <sub>(self-assessment)</sub>
+### 📈 Where my repo energy went — honest self-assessment
 
 ```mermaid
 quadrantChart
@@ -209,8 +209,8 @@ quadrantChart
 
 > [!TIP]
 > This profile is itself a project: **three GitHub Actions pipelines**
-> (snake, Pac-Man, 3D city — rebuilding daily) plus **thirteen
-> hand-coded SMIL animation files** rendered on this page.
+> (snake, Pac-Man, 3D city — rebuilding daily) plus **fourteen
+> hand-coded SVG files** rendered on this page.
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-cosmos.svg" width="100%" alt="Animation dashboard — nine hand-coded SMIL techniques" />
 
@@ -432,7 +432,7 @@ mindmap
 > The plan below is real, small, and checked off in public.
 
 - [x] Ship a full-stack app with real auth (NexusMart)
-- [x] Hand-code an SVG/SMIL animation system (13 files)
+- [x] Hand-code an SVG/SMIL animation system (14 files)
 - [x] Rebuild portfolio with 100% real data
 - [x] Survive a real security disclosure — and fix it fast
 - [ ] First open-source pull request
@@ -452,6 +452,14 @@ mindmap
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/qr-portfolio.svg" width="230" alt="Scannable QR code — points to portfolio-manashjyoti-bora.vercel.app. Hand-generated, brand-styled." />
+
+<sub>📱 Real scannable QR — point your camera at it. Meta: you're probably already on a phone, like this whole profile.</sub>
+
+</div>
+
+<div align="center">
+
 [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL-manashjyotibora122%40gmail.com-D14836?style=for-the-badge&labelColor=030712&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com?subject=Hello%20Manashjyoti)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=030712&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
 
@@ -465,8 +473,9 @@ mindmap
 | Layer | Detail |
 |-------|--------|
 | Banner | Hand-coded SVG + SMIL, ASCII portrait, theme-aware |
-| Dividers & cards | 13 hand-typed animation files, zero JS |
+| Dividers & cards | 14 hand-typed SVG files, zero JS |
 | Map | Native GitHub GeoJSON rendering |
+| QR code | Generated + styled by hand — scannable |
 | 3D gem | Native GitHub STL viewer |
 | Math | Native GitHub LaTeX (with colors!) |
 | Diagrams | Mermaid timeline · gitGraph · journey · mindmap · quadrant |
