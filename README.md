@@ -411,6 +411,17 @@ mindmap
 
 <sub>All numbers pulled live from the GitHub API — nothing typed by hand.</sub>
 
+<br>
+
+<!--AUTO-UPDATE:START-->
+```text
+┌─ DAILY SNAPSHOT ────────────────────────┐
+│ Auto-updated by GitHub Actions          │
+│ First run pending…                      │
+└─────────────────────────────────────────┘
+```
+<!--AUTO-UPDATE:END-->
+
 <br><br>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=10B981&text_color=F8FAFC&ring_color=7C3AED" width="100%" alt="GitHub stats" />
@@ -437,32 +448,7 @@ mindmap
 
 <div align="center">
 
-# 🤖 06 · Live Repo Index — Self-Updating
-
-<sub>This table rewrites itself. A GitHub Actions bot refreshes it daily and on every push — I never touch it by hand.</sub>
-
-</div>
-
-<!-- REPO-INDEX:START -->
-**6 public repos · 12 followers** — table refreshed automatically by GitHub Actions.
-
-| Repository | Language | Stars | Last push |
-|------------|----------|-------|-----------|
-| [Manashjyoti-Bora](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora) | Python | 0 ⭐ | 2026-09-02 |
-| [prism-atlas-readme](https://github.com/Manashjyoti-Bora/prism-atlas-readme) | — | 0 ⭐ | 2026-08-30 |
-| [portfolio](https://github.com/Manashjyoti-Bora/portfolio) | JavaScript | 0 ⭐ | 2026-08-15 |
-| [taskflow-enterprise](https://github.com/Manashjyoti-Bora/taskflow-enterprise) | JavaScript | 1 ⭐ | 2026-07-28 |
-| [devhire-pro-ats](https://github.com/Manashjyoti-Bora/devhire-pro-ats) | JavaScript | 1 ⭐ | 2026-07-28 |
-| [nexusmart](https://github.com/Manashjyoti-Bora/nexusmart) | TypeScript | 1 ⭐ | 2026-07-28 |
-
-<sub>🤖 Auto-updated: 02 Sep 2026, 04:16 UTC — [see the workflow](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora/blob/main/.github/workflows/update-readme.yml)</sub>
-<!-- REPO-INDEX:END -->
-
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="divider" />
-
-<div align="center">
-
-# 🧭 07 · Roadmap
+# 🧭 06 · Roadmap
 
 </div>
 
@@ -483,7 +469,7 @@ mindmap
 
 <div align="center">
 
-# 📬 08 · Contact
+# 📬 07 · Contact
 
 </div>
 
@@ -518,7 +504,7 @@ mindmap
 | 3D gem | Native GitHub STL viewer |
 | Math | Native GitHub LaTeX (with colors!) |
 | Diagrams | Mermaid timeline · gitGraph · journey · mindmap · quadrant · pie (real API data) |
-| Pipelines | 3 GitHub Actions (snake · Pac-Man · 3D city) |
+| Pipelines | 4 GitHub Actions (snake · Pac-Man · 3D city · daily self-update) |
 | Hardware | One Android phone 📱 |
 
 <details>
