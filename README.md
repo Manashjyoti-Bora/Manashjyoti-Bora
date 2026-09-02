@@ -437,7 +437,32 @@ mindmap
 
 <div align="center">
 
-# 🧭 06 · Roadmap
+# 🤖 06 · Live Repo Index — Self-Updating
+
+<sub>This table rewrites itself. A GitHub Actions bot refreshes it daily and on every push — I never touch it by hand.</sub>
+
+</div>
+
+<!-- REPO-INDEX:START -->
+**6 public repos · 12 followers** — table refreshed automatically by GitHub Actions.
+
+| Repository | Language | Stars | Last push |
+|------------|----------|-------|-----------|
+| [Manashjyoti-Bora](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora) | Python | 0 ⭐ | 2026-09-02 |
+| [prism-atlas-readme](https://github.com/Manashjyoti-Bora/prism-atlas-readme) | — | 0 ⭐ | 2026-08-30 |
+| [portfolio](https://github.com/Manashjyoti-Bora/portfolio) | JavaScript | 0 ⭐ | 2026-08-15 |
+| [taskflow-enterprise](https://github.com/Manashjyoti-Bora/taskflow-enterprise) | JavaScript | 1 ⭐ | 2026-07-28 |
+| [devhire-pro-ats](https://github.com/Manashjyoti-Bora/devhire-pro-ats) | JavaScript | 1 ⭐ | 2026-07-28 |
+| [nexusmart](https://github.com/Manashjyoti-Bora/nexusmart) | TypeScript | 1 ⭐ | 2026-07-28 |
+
+<sub>🤖 Auto-updated: 02 Sep 2026, 04:12 UTC — [see the workflow](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora/blob/main/.github/workflows/update-readme.yml)</sub>
+<!-- REPO-INDEX:END -->
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="divider" />
+
+<div align="center">
+
+# 🧭 07 · Roadmap
 
 </div>
 
@@ -458,7 +483,7 @@ mindmap
 
 <div align="center">
 
-# 📬 07 · Contact
+# 📬 08 · Contact
 
 </div>
 
