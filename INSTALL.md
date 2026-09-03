@@ -1,68 +1,44 @@
-# DRAWING No. MJB-001 — installation notes
+# Install — new README + photo banner
 
-Everything here is standard-library Python 3 and GitHub Actions. No packages to install, no API keys, no third-party services.
+You do this **once**. After that everything is automatic.
 
-## What is in this package
+## 1. Add the photo (original size)
 
-```
-README.md                          the drawing set (this is your profile README)
-build_sheet.py                     draws assets/sheet-dark.svg and sheet-light.svg
-code39.py                          hand-written Code 39 barcode encoder used by the sheet
-INSTALL.md                         this file
-assets/sheet-dark.svg              hero sheet, dark cyanotype
-assets/sheet-light.svg             hero sheet, light vellum
-assets/testreport-dark.svg         availability and latency strip
-assets/testreport-light.svg
-assets/signatures-dark.svg         signature margin
-assets/signatures-light.svg
-assets/data/*.json                 measured data: sheet, report, as-built, guestbook
-.github/scripts/testreport.py      real HTTPS checks + rolling history + strip
-.github/scripts/asbuilt.py         clones the repos, writes the log + weekly chart
-.github/scripts/guestbook.py       reads `sign:` issues, draws the margin
-.github/workflows/sheet.yml        every 6 h: report -> as-built -> sheet -> commit
-.github/workflows/guestbook.yml    on new issue: redraw signature margin
-```
+Upload `assets/photo.jpg` (this folder) into your repo at `assets/photo.jpg`.
+It is your original photo, **720 × 718, untouched** — the README shows it at exactly
+that size as the banner. Do not rename it.
 
-## Push it from a phone (Termux)
+## 2. Replace the README
+
+Replace the repo's `README.md` with the new `README.md` from this folder.
+(The old `assets/hero-dark.svg` / `hero-light.svg` banner files can stay or be deleted —
+the new README no longer references them.)
+
+## 3. (Recommended) Clean the junk
+
+The repo currently has committed `__pycache__/` folders and `*.pyc` files.
+Copy this folder's `.gitignore` into the repo root, then:
 
 ```bash
-pkg install -y git python unzip
-cd ~ && rm -rf bp-deploy bp_x
-git clone --branch main https://github.com/Manashjyoti-Bora/Manashjyoti-Bora.git bp-deploy
-cd ~/bp-deploy
-mkdir -p .mjbos-backup
-if [ -f README.md ] && [ ! -f .mjbos-backup/README-drawing-previous.md ]; then cp README.md .mjbos-backup/README-drawing-previous.md; fi
-unzip -q -o /sdcard/Download/blueprint-profile-readme.zip -d ~/bp_x
-cp -a ~/bp_x/blueprint/. .
-python build_sheet.py
-git add -A && git commit -m "feat(profile): drawing no. MJB-001"
-git push origin main
+git rm -r --cached __pycache__ .github/scripts/__pycache__ 2>/dev/null
+git commit -m "chore: stop tracking pycache"
 ```
 
-When git asks: username `Manashjyoti-Bora`, password = a classic personal access token with the `repo` scope.
+## What runs automatically (nothing to do daily)
 
-## After the first push
+| Workflow | File | Schedule | What it updates |
+|----------|------|----------|-----------------|
+| Daily self-update | `.github/workflows/daily-update.yml` | 02:30 UTC daily | `README.md` snapshot block (repos, followers, stars, commits, top language) |
+| Live telemetry | `.github/workflows/live-stats.yml` | every 6 h | `assets/live-dark.svg` / `live-light.svg` card |
+| Snake | `.github/workflows/snake.yml` | 00:00 UTC daily | snake contribution animation |
+| Pac-Man | `.github/workflows/pacman.yml` | daily | pac-man contribution animation |
+| 3D city | `.github/workflows/profile-3d.yml` | daily | `profile-3d-contrib/*.svg` |
 
-1. Open **Actions** and run **drawing sheet** once manually. It measures the three live sites, rewrites the as-built log and the weekly chart, and redraws the sheet.
-2. Run **signature margin** once so `assets/signatures-*.svg` matches the live issue list.
-3. Check that `Settings → Actions → Workflow permissions` is set to **Read and write**, otherwise the workflows cannot commit their own output.
+⚠ The README keeps the `<!--AUTO-UPDATE:START-->` / `<!--AUTO-UPDATE:END-->` markers,
+so `scripts/update_readme.py` keeps working unchanged. Never hand-edit between them.
 
-## Testing locally without the network
+## Verified
 
-```bash
-python build_sheet.py                                  # redraw the hero sheet
-REPORT_MOCK=1 python .github/scripts/testreport.py     # strip with mock readings
-GUESTBOOK_MOCK=1 python .github/scripts/guestbook.py   # margin with mock signatures
-```
-
-`GUESTBOOK_MOCK=1` also rewrites the `SIGN` block in `README.md`; run the real script or `git checkout README.md` afterwards.
-
-## Verifying the barcode is real
-
-The bars in the title block are Code 39, encoded by `code39.py`, and they decode to `MANASHBORA.VERCEL.APP`. `code39.py` contains its own independent `decode()` so you can check the encoder against itself:
-
-```bash
-python -c "import code39; print(code39.decode(code39.elements('MANASHBORA.VERCEL.APP')))"
-```
-
-Or scan the rendered sheet with any phone barcode app — the barcode sits on a white label in both themes so it scans in dark mode too.
+- All 10 external asset URLs used in the README return HTTP 200.
+- `scripts/update_readme.py` was run against this exact `README.md` and replaced the
+  snapshot block successfully (live GitHub API data).
