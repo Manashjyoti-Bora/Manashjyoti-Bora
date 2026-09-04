@@ -11,10 +11,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-light.svg">
-  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg" width="100%" alt="Animated terminal-style hero banner — ASCII-art portrait, typing system info. Hand-coded SVG + SMIL, zero JavaScript.">
+  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg" width="1180" height="610" alt="Animated terminal-style hero banner — ASCII-art portrait, typing system info. Hand-coded SVG + SMIL, zero JavaScript.">
 </picture>
 
 <sub><ruby>মনজ্যোতি বৰা<rt>Manashjyoti Bora</rt></ruby> · Nagaon, Assam 🇮🇳 — hand-coded banner, adapts to your GitHub theme</sub>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/photo.jpg" width="720" height="718" alt="Manashjyoti Bora — real photo, original 720×718 pixels, shown at full size and never scaled" />
 
 <br><br>
 
@@ -482,7 +486,91 @@ mindmap
 
 <div align="center">
 
-# 🧭 06 · Roadmap
+# 📐 06 · The Instruments — Sheets That Redraw Themselves
+
+**No screenshots on this page.** The drawing, the test report, the commit log,
+the chart and the signature margin below are all rebuilt by GitHub Actions
+every 6 hours from live data.
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/sheet-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/sheet-light.svg">
+  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/sheet-dark.svg" width="100%" alt="Engineering drawing MJB-001 — animated blueprint sheet redrawn by GitHub Actions">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/testreport-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/testreport-light.svg">
+  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/testreport-dark.svg" width="100%" alt="Instrument test report — live deployment availability and latency history">
+</picture>
+
+### 🧾 The as-built log — real commits, all five repos
+
+Cloned from the live repositories, newest first — rewritten on every sheet run.
+
+<!-- ASBUILT:START -->
+```text
+2026-09-04  Manashjyoti-Bora      chore: daily self-update 2026-09-04
+2026-09-04  Manashjyoti-Bora      feat: hands-free daily profile automation + live REA
+2026-09-04  Manashjyoti-Bora      chore: update 3D contribution graph
+2026-09-04  Manashjyoti-Bora      feat: own-photo banner + daily self-update automatio
+2026-09-04  Manashjyoti-Bora      chore: update blueprint sheets
+2026-09-04  Manashjyoti-Bora      chore(sheet): redraw signature margin
+2026-09-04  Manashjyoti-Bora      chore: refresh live telemetry
+2026-09-03  Manashjyoti-Bora      chore: update blueprint sheets
+2026-09-03  Manashjyoti-Bora      chore: refresh live telemetry
+2026-09-03  Manashjyoti-Bora      chore: update blueprint sheets
+2026-09-03  Manashjyoti-Bora      chore(sheet): redraw signature margin
+2026-09-03  Manashjyoti-Bora      chore: refresh live telemetry
+2026-09-03  Manashjyoti-Bora      chore: update blueprint sheets
+2026-09-03  Manashjyoti-Bora      feat: clean profile README + photo banner (original 
+2026-09-03  Manashjyoti-Bora      chore: update blueprint sheets
+2026-09-03  Manashjyoti-Bora      chore: refresh live telemetry
+2026-09-03  Manashjyoti-Bora      chore: update 3D contribution graph
+2026-09-03  Manashjyoti-Bora      chore: daily self-update 2026-09-03
+```
+<!-- ASBUILT:END -->
+
+### 📈 Commits per week — counted, not estimated
+
+<!-- WEEKLY:START -->
+```mermaid
+xychart-beta
+    x-axis ["2026-06-29", "2026-07-06", "2026-07-13", "2026-07-27", "2026-08-03", "2026-08-10", "2026-08-17", "2026-08-24", "2026-08-31"]
+    y-axis "commits" 0 --> 65
+    bar [22, 7, 12, 5, 15, 12, 9, 42, 65]
+```
+<!-- WEEKLY:END -->
+
+### ✍️ Signature margin — sign the drawing
+
+Open an issue on this repository titled `sign: your note` and the next run
+(every 12 hours — or immediately on the issue) redraws the sheet and the table
+below. Logins and notes are sanitised before they are drawn.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/signatures-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/signatures-light.svg">
+  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/signatures-dark.svg" width="100%" alt="Signature margin of drawing MJB-001 — visitors sign by opening issues">
+</picture>
+
+</div>
+
+<!-- SIGN:START -->
+No signatures yet. The margin is blank and waiting.
+
+Total signatures: **0**
+<!-- SIGN:END -->
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="divider" />
+
+<div align="center">
+
+# 🧭 07 · Roadmap
 
 </div>
 
@@ -503,7 +591,7 @@ mindmap
 
 <div align="center">
 
-# 📬 07 · Contact
+# 📬 08 · Contact
 
 </div>
 
@@ -532,12 +620,14 @@ mindmap
 | Layer | Detail |
 |-------|--------|
 | Banner | Hand-coded SVG + SMIL, ASCII portrait, theme-aware |
+| Photo | Real 720×718 portrait — shown at original size, never scaled |
 | Dividers & cards | 14 hand-typed SVG files, zero JS |
+| Instruments | Blueprint sheet · test report · as-built log · weekly chart · signature margin — auto-redrawn every 6 h |
 | Map | Native GitHub GeoJSON rendering |
 | QR code | Generated + styled by hand — scannable |
 | 3D gem | Native GitHub STL viewer |
 | Math | Native GitHub LaTeX (with colors!) |
-| Diagrams | Mermaid timeline · gitGraph · journey · mindmap · quadrant · pie (real API data) |
+| Diagrams | Mermaid timeline · gitGraph · journey · mindmap · quadrant · pie · xychart (real API data) |
 | Pipelines | 7 GitHub Actions — all self-running, all conflict-safe |
 | Hardware | One Android phone 📱 |
 

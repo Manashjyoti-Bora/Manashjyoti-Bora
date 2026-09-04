@@ -35,9 +35,10 @@ The repo previously tracked `__pycache__` build artifacts. This repo's
 ## Why it never breaks (even when bots race)
 
 - Every push goes through `.github/scripts/push-safe.sh`, which commits,
-  **rebases onto the latest `main` and retries up to 5 times**. Concurrency
-  groups serialize same-family workflows, so a push can never be rejected as
-  "non-fast-forward".
+  **fetches the latest `main`, rebases on top of it and retries up to 8
+  times** (aborting any half-finished rebase between attempts). Concurrency
+  groups serialize same-family workflows, so even when all seven pipelines
+  fire on the same push, no push stays rejected as "non-fast-forward".
 - `scripts/update_readme.py` falls back to the last cached snapshot if the
   GitHub API is unreachable — the daily heartbeat still beats.
 - The README keeps the marker blocks (`AUTO-UPDATE`, `REPO-INDEX`, `LANG-PIE`).
