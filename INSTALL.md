@@ -1,44 +1,59 @@
-# Install — new README + photo banner
+# Install — one-time setup, then fully automatic
 
-You do this **once**. After that everything is automatic.
+You do this **once**. After that the profile updates itself every single day.
+No laptop, no manual merge, no remembering anything — GitHub Actions is the
+only worker, and it never sleeps.
 
-## 1. Add the photo (original size)
+## 1. Make sure the repo is on `main`
 
-Upload `assets/photo.jpg` (this folder) into your repo at `assets/photo.jpg`.
-It is your original photo, **720 × 718, untouched** — the README shows it at exactly
-that size as the banner. Do not rename it.
+The workflows only run on `main`. Push this commit there (a normal PR merge
+is fine — everything below is already wired).
 
-## 2. Replace the README
+## 2. Grant the workflow write permission
 
-Replace the repo's `README.md` with the new `README.md` from this folder.
-(The old `assets/hero-dark.svg` / `hero-light.svg` banner files can stay or be deleted —
-the new README no longer references them.)
+Nothing to do manually: `.github/workflows/daily-update.yml` declares
+`permissions: contents: write`, so GitHub automatically grants it a token
+that can commit and push. Other workflows do the same.
 
 ## 3. (Recommended) Clean the junk
 
-The repo currently has committed `__pycache__/` folders and `*.pyc` files.
-Copy this folder's `.gitignore` into the repo root, then:
-
-```bash
-git rm -r --cached __pycache__ .github/scripts/__pycache__ 2>/dev/null
-git commit -m "chore: stop tracking pycache"
-```
+The repo previously tracked `__pycache__` build artifacts. This repo's
+`.gitignore` already excludes them; the `.pyc` files have been removed.
 
 ## What runs automatically (nothing to do daily)
 
 | Workflow | File | Schedule | What it updates |
 |----------|------|----------|-----------------|
-| Daily self-update | `.github/workflows/daily-update.yml` | 02:30 UTC daily | `README.md` snapshot block (repos, followers, stars, commits, top language) |
-| Live telemetry | `.github/workflows/live-stats.yml` | every 6 h | `assets/live-dark.svg` / `live-light.svg` card |
-| Snake | `.github/workflows/snake.yml` | 00:00 UTC daily | snake contribution animation |
-| Pac-Man | `.github/workflows/pacman.yml` | daily | pac-man contribution animation |
-| 3D city | `.github/workflows/profile-3d.yml` | daily | `profile-3d-contrib/*.svg` |
+| **Daily self-update** | `.github/workflows/daily-update.yml` | 02:30 UTC daily | README snapshot, repo index, language pie, `assets/data/snapshot*.json` |
+| Live telemetry | `.github/workflows/live-stats.yml` | every 6 h | `assets/live-dark.svg` / `live-light.svg` terminal card |
+| Blueprint sheets | `.github/workflows/sheet.yml` | every 6 h | `assets/data/asbuilt.json`, report, sheet SVGs |
+| Signature margin | `.github/workflows/guestbook.yml` | every 12 h + on issues | visitor signatures in the sheet |
+| Snake | `.github/workflows/snake.yml` | 00:05 UTC daily | snake contribution animation (`output` branch) |
+| Pac-Man | `.github/workflows/pacman.yml` | 00:10 UTC daily | pac-man contribution animation (`output` branch) |
+| 3D city | `.github/workflows/profile-3d.yml` | 03:00 UTC daily | `profile-3d-contrib/*.svg` |
 
-⚠ The README keeps the `<!--AUTO-UPDATE:START-->` / `<!--AUTO-UPDATE:END-->` markers,
-so `scripts/update_readme.py` keeps working unchanged. Never hand-edit between them.
+## Why it never breaks (even when bots race)
 
-## Verified
+- Every push goes through `.github/scripts/push-safe.sh`, which commits,
+  **rebases onto the latest `main` and retries up to 5 times**. Concurrency
+  groups serialize same-family workflows, so a push can never be rejected as
+  "non-fast-forward".
+- `scripts/update_readme.py` falls back to the last cached snapshot if the
+  GitHub API is unreachable — the daily heartbeat still beats.
+- The README keeps the marker blocks (`AUTO-UPDATE`, `REPO-INDEX`, `LANG-PIE`).
+  **Never hand-edit between the markers** — the bot owns those regions and
+  regenerates them from live data.
 
-- All 10 external asset URLs used in the README return HTTP 200.
-- `scripts/update_readme.py` was run against this exact `README.md` and replaced the
-  snapshot block successfully (live GitHub API data).
+## The honest streak
+
+`assets/data/snapshot-history.json` records one entry per successful daily
+run. If the pipeline ever stops, the `Auto-update` counter stops too. That is
+intentional: the profile only claims what its own automation proves.
+
+## Verify
+
+1. `Actions → Daily README Self-Update → Run workflow` (or just wait a day).
+2. Open the profile: the DAILY SNAPSHOT box, repository table and language
+   pie are now all real, generated numbers.
+3. Check `https://github.com/<user>?tab=contributions` — the bot's own
+   commits keep the graph green every day.

@@ -2,7 +2,7 @@ name: Generate Pacman Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "10 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -10,6 +10,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: output-branch
+  cancel-in-progress: false
 
 jobs:
   generate:
