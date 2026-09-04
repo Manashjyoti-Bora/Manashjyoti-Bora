@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-09-04T06:43:24Z",
+  "source": "live",
+  "dates": [
+    "2026-09-04"
+  ],
+  "summary": {
+    "repos": 5,
+    "followers": 12,
+    "stars": 3,
+    "commits_total": 187,
+    "last_push": "2026-09-04",
+    "top_lang": "JavaScript",
+    "streak": 1,
+    "source": "live",
+    "generated_at": "2026-09-04T06:43:24Z"
+  },
+  "repos": [
+    {
+      "name": "Manashjyoti-Bora",
+      "description": "",
+      "language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-09-04",
+      "fork": false
+    },
+    {
+      "name": "portfolio",
+      "description": "",
+      "language": "JavaScript",
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-08-15",
+      "fork": false
+    },
+    {
+      "name": "taskflow-enterprise",
+      "description": "Kanban productivity app \u2014 dynamic boards, live priority tagging and sprint tracking. React with modern state management. A learning project in state handling and CRUD patterns.",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "pushed_at": "2026-07-28",
+      "fork": false
+    },
+    {
+      "name": "devhire-pro-ats",
+      "description": "Job portal & applicant tracking UI \u2014 real-time multi-attribute filtering, glassmorphic light/dark themes and an application pipeline tracker. React 19 + Vite. A learning project in complex UI patterns.",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "pushed_at": "2026-07-28",
+      "fork": false
+    },
+    {
+      "name": "nexusmart",
+      "description": "Full-stack e-commerce \u2014 Next.js App Router, TypeScript, MongoDB Atlas, JWT auth (bcrypt + HTTP-only cookies), cart & checkout, role-gated admin panel, Zod validation on every mutation. Live demo \u2197",
+      "language": "TypeScript",
+      "stars": 1,
+      "forks": 0,
+      "pushed_at": "2026-07-28",
+      "fork": false
+    }
+  ]
+}
