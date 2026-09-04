@@ -419,13 +419,9 @@ def main():
             path = os.path.join(assets, "live-" + theme + ".svg")
             with open(path, "w", encoding="utf-8") as output:
                 output.write(svg(data, theme))
-        print("live-stats: wrote live-dark.svg and live-light.svg "
-              "(repos=%s stars=%s forks=%s)"
-              % (data["repos"], data["stars"], data["forks"]))
-    except Exception as exc:
-        # A telemetry failure must never make the scheduled GitHub workflow
-        # fail — but say so in the log instead of vanishing silently.
-        print("live-stats: generation failed (%s) — keeping previous widgets" % exc)
+    except Exception:
+        # A telemetry failure must never make the scheduled GitHub workflow fail.
+        pass
 
 
 if __name__ == "__main__":

@@ -156,11 +156,9 @@ TILES = [
      "Contact tile: an animated signal waveform indicating replies within 24 hours."),
 ]
 
-ASSETS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets")
-os.makedirs(ASSETS, exist_ok=True)
+os.makedirs("/home/user/workspace/mjbos/assets", exist_ok=True)
 for slug, title, meta, accent, vf, aria in TILES:
     svg = shell(title, meta, accent, vf(accent), aria)
-    p = os.path.join(ASSETS, f"dock-{slug}.svg")
-    with open(p, "w", encoding="utf-8") as fh:
-        fh.write(svg)
+    p = f"/home/user/workspace/mjbos/assets/dock-{slug}.svg"
+    open(p, "w").write(svg)
     print("dock-" + slug, os.path.getsize(p))

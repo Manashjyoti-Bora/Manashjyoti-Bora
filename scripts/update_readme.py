@@ -316,13 +316,9 @@ def main() -> int:
 
     if raw["source"] == "live":
         dates = update_history(load_history(), today)
-        shown_streak = streak(dates, today)
     else:
         dates = load_history()
-        # A cached run never EXTENDS the streak (today is not in `dates`),
-        # but it must not show 0d when yesterday's live run kept it alive.
-        yesterday = (now - timedelta(days=1)).strftime("%Y-%m-%d")
-        shown_streak = streak(dates, today) or streak(dates, yesterday)
+        today = None  # cached runs never extend the streak
 
     summary: Dict[str, Any] = {
         "repos": raw["user"].get("public_repos", 0),
@@ -332,7 +328,7 @@ def main() -> int:
         "last_push": raw["events"]["last_push"],
         "top_lang": max(raw.get("lang_bytes", {}), key=raw["lang_bytes"].get)
         if raw.get("lang_bytes") else "n/a",
-        "streak": shown_streak,
+        "streak": streak(dates, today) if today else (raw.get("streak") or 0),
         "repo_rows": [r for r in raw["repos"] if not r.get("fork")],
         "source": raw["source"],
         "generated_at": iso_utc(now),
