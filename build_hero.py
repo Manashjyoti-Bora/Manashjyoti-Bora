@@ -237,14 +237,7 @@ def act3(c):
     import random
     random.seed(7)
     rows = 26
-    # Proper SMIL transform animation (type= belongs to <animateTransform>,
-    # not <animate>) -- built outside the f-string so no backslashes are
-    # needed inside the expression part.
-    scroll = (f'<animateTransform attributeName="transform" type="translate" '
-              f'additive="sum" dur="{T}s" repeatCount="indefinite" '
-              f'calcMode="linear" keyTimes="0;{11.35/T:.4f};{17.3/T:.4f};1" '
-              f'values="0 0;0 0;0 -150;0 -150"/>')
-    out.append(f'<g>{scroll}')
+    out.append(f'<g>{anim("transform", [(0,"translate(0 0)"),(11.35,"translate(0 0)"),(17.3,"translate(0 -150)"),(T,"translate(0 -150)")], extra="type=\'translate\' additive=\'sum\'")}')
     for i in range(rows):
         ry = fy + 26 + i * 13
         wdt = random.choice([30, 46, 58, 70, 84, 40])
@@ -338,10 +331,8 @@ def build(c):
     return "".join(s)
 
 
-ASSETS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets")
-os.makedirs(ASSETS, exist_ok=True)
+os.makedirs("/home/user/workspace/mjbos/assets", exist_ok=True)
 for name, pal in (("boot-dark", DARK), ("boot-light", LIGHT)):
-    p = os.path.join(ASSETS, f"{name}.svg")
-    with open(p, "w", encoding="utf-8") as fh:
-        fh.write(build(pal))
+    p = f"/home/user/workspace/mjbos/assets/{name}.svg"
+    open(p, "w").write(build(pal))
     print(name, os.path.getsize(p), "bytes")
