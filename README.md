@@ -9,9 +9,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-light.svg">
-  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg" width="1180" height="610" alt="Animated terminal-style hero banner — ASCII-art portrait, typing system info. Hand-coded SVG + SMIL, zero JavaScript.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg?v=c52e9b6d">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-light.svg?v=c52e9b6d">
+  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg?v=c52e9b6d" width="1180" height="610" alt="Animated terminal-style hero banner — ASCII-art portrait, typing system info. Hand-coded SVG + SMIL, zero JavaScript.">
 </picture>
 
 <sub><ruby>মনজ্যোতি বৰা<rt>Manashjyoti Bora</rt></ruby> · Nagaon, Assam 🇮🇳 — hand-coded banner, adapts to your GitHub theme</sub>
