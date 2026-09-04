@@ -123,8 +123,10 @@ def build(c):
     return "".join(s)
 
 
-os.makedirs("/home/user/workspace/mjbos/assets", exist_ok=True)
+ASSETS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets")
+os.makedirs(ASSETS, exist_ok=True)
 for n, pal in (("footer-dark", DARK), ("footer-light", LIGHT)):
-    p = f"/home/user/workspace/mjbos/assets/{n}.svg"
-    open(p, "w").write(build(pal))
+    p = os.path.join(ASSETS, f"{n}.svg")
+    with open(p, "w", encoding="utf-8") as fh:
+        fh.write(build(pal))
     print(n, os.path.getsize(p))
