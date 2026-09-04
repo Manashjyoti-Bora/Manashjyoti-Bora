@@ -3,14 +3,14 @@
 <path d="M16 0h1168a16 16 0 0 1 16 16v24H0V16A16 16 0 0 1 16 0Z" fill="#e9eef5"/>
 <circle cx="26" cy="20" r="5.5" fill="#f43f5e"/><circle cx="46" cy="20" r="5.5" fill="#f59e0b"/><circle cx="66" cy="20" r="5.5" fill="#059669"/>
 <text x="600" y="24" text-anchor="middle" fill="#7b8798" font-family="ui-monospace,SFMono-Regular,Menlo,DejaVu Sans Mono,Consolas,monospace" font-size="12">mjb.os — /var/live/telemetry.json</text>
-<text x="976" y="24" fill="#7b8798" font-family="ui-monospace,SFMono-Regular,Menlo,DejaVu Sans Mono,Consolas,monospace" font-size="12">synced 2026-09-04 16:19Z</text>
+<text x="976" y="24" fill="#7b8798" font-family="ui-monospace,SFMono-Regular,Menlo,DejaVu Sans Mono,Consolas,monospace" font-size="12">synced 2026-09-04 17:15Z</text>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,DejaVu Sans Mono,Consolas,monospace">
   <rect x="24" y="56" width="370" height="212" rx="12" fill="#ffffff" fill-opacity=".55" stroke="#d7e0ea"/>
   <rect x="415" y="56" width="370" height="212" rx="12" fill="#ffffff" fill-opacity=".55" stroke="#d7e0ea"/>
   <rect x="806" y="56" width="370" height="212" rx="12" fill="#ffffff" fill-opacity=".55" stroke="#d7e0ea"/>
 
   <text x="43" y="80" fill="#0b1220" font-size="12">COMMITS · LAST 30 DAYS</text>
-  <text x="43" y="100" fill="#7b8798" font-size="11">MAX 05 · TOTAL 23</text>
+  <text x="43" y="100" fill="#7b8798" font-size="11">MAX 06 · TOTAL 24</text>
   <line x1="43" y1="119" x2="373" y2="119" stroke="#e4ebf3" stroke-width="1"/>
 <line x1="43" y1="151" x2="373" y2="151" stroke="#e4ebf3" stroke-width="1"/>
 <line x1="43" y1="183" x2="373" y2="183" stroke="#e4ebf3" stroke-width="1"/>
@@ -18,9 +18,9 @@
 <line x1="43" y1="246" x2="373" y2="246" stroke="#e4ebf3" stroke-width="1"/>
 <rect x="43" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.00s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.00s" dur="1.4s" fill="freeze"/></rect>
 <rect x="54" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.03s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.03s" dur="1.4s" fill="freeze"/></rect>
-<rect x="65" y="220" width="7" height="26" rx="2" fill="#059669"><animate attributeName="height" from="0" to="26" begin="0.06s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="220" begin="0.06s" dur="1.4s" fill="freeze"/></rect>
+<rect x="65" y="224" width="7" height="22" rx="2" fill="#059669"><animate attributeName="height" from="0" to="22" begin="0.06s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="224" begin="0.06s" dur="1.4s" fill="freeze"/></rect>
 <rect x="76" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.09s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.09s" dur="1.4s" fill="freeze"/></rect>
-<rect x="87" y="220" width="7" height="26" rx="2" fill="#059669"><animate attributeName="height" from="0" to="26" begin="0.12s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="220" begin="0.12s" dur="1.4s" fill="freeze"/></rect>
+<rect x="87" y="224" width="7" height="22" rx="2" fill="#059669"><animate attributeName="height" from="0" to="22" begin="0.12s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="224" begin="0.12s" dur="1.4s" fill="freeze"/></rect>
 <rect x="98" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.15s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.15s" dur="1.4s" fill="freeze"/></rect>
 <rect x="109" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.18s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.18s" dur="1.4s" fill="freeze"/></rect>
 <rect x="120" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.21s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.21s" dur="1.4s" fill="freeze"/></rect>
@@ -33,18 +33,18 @@
 <rect x="197" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.42s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.42s" dur="1.4s" fill="freeze"/></rect>
 <rect x="208" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.45s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.45s" dur="1.4s" fill="freeze"/></rect>
 <rect x="219" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.48s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.48s" dur="1.4s" fill="freeze"/></rect>
-<rect x="230" y="119" width="7" height="127" rx="2" fill="#059669"><animate attributeName="height" from="0" to="127" begin="0.51s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="119" begin="0.51s" dur="1.4s" fill="freeze"/></rect>
+<rect x="230" y="140" width="7" height="106" rx="2" fill="#059669"><animate attributeName="height" from="0" to="106" begin="0.51s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="140" begin="0.51s" dur="1.4s" fill="freeze"/></rect>
 <rect x="241" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.54s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.54s" dur="1.4s" fill="freeze"/></rect>
 <rect x="252" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.57s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.57s" dur="1.4s" fill="freeze"/></rect>
 <rect x="263" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.60s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.60s" dur="1.4s" fill="freeze"/></rect>
 <rect x="274" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.63s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.63s" dur="1.4s" fill="freeze"/></rect>
 <rect x="285" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.66s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.66s" dur="1.4s" fill="freeze"/></rect>
-<rect x="296" y="195" width="7" height="51" rx="2" fill="#059669"><animate attributeName="height" from="0" to="51" begin="0.69s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="195" begin="0.69s" dur="1.4s" fill="freeze"/></rect>
+<rect x="296" y="203" width="7" height="43" rx="2" fill="#059669"><animate attributeName="height" from="0" to="43" begin="0.69s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="203" begin="0.69s" dur="1.4s" fill="freeze"/></rect>
 <rect x="307" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.72s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.72s" dur="1.4s" fill="freeze"/></rect>
 <rect x="318" y="246" width="7" height="0" rx="2" fill="#059669"><animate attributeName="height" from="0" to="0" begin="0.75s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="246" begin="0.75s" dur="1.4s" fill="freeze"/></rect>
-<rect x="329" y="169" width="7" height="77" rx="2" fill="#059669"><animate attributeName="height" from="0" to="77" begin="0.78s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="169" begin="0.78s" dur="1.4s" fill="freeze"/></rect>
-<rect x="340" y="144" width="7" height="102" rx="2" fill="#059669"><animate attributeName="height" from="0" to="102" begin="0.81s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="144" begin="0.81s" dur="1.4s" fill="freeze"/></rect>
-<rect x="351" y="195" width="7" height="51" rx="2" fill="#059669"><animate attributeName="height" from="0" to="51" begin="0.84s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="195" begin="0.84s" dur="1.4s" fill="freeze"/></rect>
+<rect x="329" y="182" width="7" height="64" rx="2" fill="#059669"><animate attributeName="height" from="0" to="64" begin="0.78s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="182" begin="0.78s" dur="1.4s" fill="freeze"/></rect>
+<rect x="340" y="161" width="7" height="85" rx="2" fill="#059669"><animate attributeName="height" from="0" to="85" begin="0.81s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="161" begin="0.81s" dur="1.4s" fill="freeze"/></rect>
+<rect x="351" y="203" width="7" height="43" rx="2" fill="#059669"><animate attributeName="height" from="0" to="43" begin="0.84s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="203" begin="0.84s" dur="1.4s" fill="freeze"/></rect>
 <rect x="362" y="119" width="7" height="127" rx="2" fill="#059669"><animate attributeName="height" from="0" to="127" begin="0.87s" dur="1.4s" fill="freeze"/><animate attributeName="y" from="246" to="119" begin="0.87s" dur="1.4s" fill="freeze"/></rect>
 
   <text x="434" y="80" fill="#0b1220" font-size="12">LANGUAGE MIX</text>
@@ -85,6 +85,6 @@
   <line x1="825" y1="182" x2="1157" y2="182" stroke="#e4ebf3"/>
   <text x="825" y="202" fill="#7b8798" font-size="11">LATEST COMMIT</text>
   <circle cx="830" cy="217" r="4" fill="#059669"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
-  <text x="842" y="221" fill="#243040" font-size="9.5">Manashjy... · a216e49 · chore: update 3D... · 1h ago</text>
+  <text x="842" y="221" fill="#243040" font-size="9.5">Manashjy... · e56ab3f · center ASCII por... · 1m ago</text>
 </g>
 </svg>
