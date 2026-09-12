@@ -6,6 +6,9 @@
 # "non-fast-forward". This helper fixes that: commit, rebase onto the latest
 # main, then push with retries. No manual work, ever.
 #
+# IMPORTANT: commits are authored as the account owner (linked email),
+# so they count on the contribution graph. Bot-authored commits do NOT.
+#
 # Usage:  bash .github/scripts/push-safe.sh "commit message"
 set -euo pipefail
 
@@ -14,8 +17,8 @@ ATTEMPTS="${PUSH_ATTEMPTS:-5}"
 BRANCH="${PUSH_BRANCH:-main}"
 REMOTE="${PUSH_REMOTE:-origin}"
 
-git config user.name "${PUSH_USER:-github-actions[bot]}"
-git config user.email "${PUSH_EMAIL:-41898282+github-actions[bot]@users.noreply.github.com}"
+git config user.name "${PUSH_USER:-Manashjyoti-Bora}"
+git config user.email "${PUSH_EMAIL:-manashjyotibora122@gmail.com}"
 
 git add -A
 if git diff --cached --quiet; then
