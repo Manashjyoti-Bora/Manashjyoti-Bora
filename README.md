@@ -196,9 +196,9 @@ gitGraph
 ```mermaid
 pie showData
     title Code by language (KB, all repos) — auto-updated
-    "TypeScript" : 1443.7
+    "TypeScript" : 1464.8
     "JavaScript" : 355.3
-    "CSS" : 251.0
+    "CSS" : 253.7
     "HTML" : 88.2
     "Python" : 76.8
 ```
@@ -418,12 +418,12 @@ mindmap
 <!--AUTO-UPDATE:START-->
 ```text
 ┌─ DAILY SNAPSHOT · LIVE DATA ──────────────────┐
-│ 12 Sep 2026 · 12:49 IST                       │
-│ 12 Sep 2026 · 07:19 UTC                       │
+│ 13 Sep 2026 · 03:51 IST                       │
+│ 12 Sep 2026 · 22:21 UTC                       │
 │ Public repos ..... 6                          │
 │ Followers ........ 12                         │
 │ Total stars ...... 3                          │
-│ Commits (all) ... 322                         │
+│ Commits (all) ... 337                         │
 │ Top language ..... TypeScript                 │
 │ Last push ........ 2026-09-12                 │
 │ Auto-update ...... 9d                         │
@@ -448,13 +448,13 @@ mindmap
 | Repository | Language | Stars | Last push |
 |------------|----------|-------|-----------|
 | [Manashjyoti-Bora](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora) | Python | 0 ⭐ | 2026-09-12 |
-| [zenvora-store](https://github.com/Manashjyoti-Bora/zenvora-store) | TypeScript | 0 ⭐ | 2026-09-11 |
+| [zenvora-store](https://github.com/Manashjyoti-Bora/zenvora-store) | TypeScript | 0 ⭐ | 2026-09-12 |
 | [portfolio](https://github.com/Manashjyoti-Bora/portfolio) | JavaScript | 0 ⭐ | 2026-08-15 |
 | [taskflow-enterprise](https://github.com/Manashjyoti-Bora/taskflow-enterprise) | JavaScript | 1 ⭐ | 2026-07-28 |
 | [devhire-pro-ats](https://github.com/Manashjyoti-Bora/devhire-pro-ats) | JavaScript | 1 ⭐ | 2026-07-28 |
 | [nexusmart](https://github.com/Manashjyoti-Bora/nexusmart) | TypeScript | 1 ⭐ | 2026-07-28 |
 
-<sub>🤖 Auto-updated 12 Sep 2026 07:19 UTC — [workflow](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora/blob/main/.github/workflows/daily-update.yml)</sub>
+<sub>🤖 Auto-updated 12 Sep 2026 22:21 UTC — [workflow](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora/blob/main/.github/workflows/daily-update.yml)</sub>
 <!--REPO-INDEX:END-->
 
 <br><br>
