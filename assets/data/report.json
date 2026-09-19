@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:02:30Z",
+  "generated_at": "2026-09-19T20:58:33Z",
   "mode": "live",
   "repositories": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "name": "Manashjyoti-Bora",
-      "commits": 340,
+      "commits": 342,
       "source": "api"
     }
   ],
@@ -35,7 +35,41 @@
       "samples": [
         {
           "status_code": 200,
-          "latency_ms": 134
+          "latency_ms": 261
+        },
+        {
+          "status_code": 200,
+          "latency_ms": 54
+        }
+      ],
+      "status_code": 200,
+      "latency_ms": 54,
+      "ok": true
+    },
+    {
+      "label": "nexusmart",
+      "url": "https://nexusmart-dusky.vercel.app",
+      "samples": [
+        {
+          "status_code": 200,
+          "latency_ms": 211
+        },
+        {
+          "status_code": 200,
+          "latency_ms": 46
+        }
+      ],
+      "status_code": 200,
+      "latency_ms": 46,
+      "ok": true
+    },
+    {
+      "label": "devhire-pro-ats",
+      "url": "https://devhire-pro-ats.vercel.app",
+      "samples": [
+        {
+          "status_code": 200,
+          "latency_ms": 159
         },
         {
           "status_code": 200,
@@ -45,58 +79,10 @@
       "status_code": 200,
       "latency_ms": 50,
       "ok": true
-    },
-    {
-      "label": "nexusmart",
-      "url": "https://nexusmart-dusky.vercel.app",
-      "samples": [
-        {
-          "status_code": 200,
-          "latency_ms": 128
-        },
-        {
-          "status_code": 200,
-          "latency_ms": 80
-        }
-      ],
-      "status_code": 200,
-      "latency_ms": 80,
-      "ok": true
-    },
-    {
-      "label": "devhire-pro-ats",
-      "url": "https://devhire-pro-ats.vercel.app",
-      "samples": [
-        {
-          "status_code": 200,
-          "latency_ms": 135
-        },
-        {
-          "status_code": 200,
-          "latency_ms": 44
-        }
-      ],
-      "status_code": 200,
-      "latency_ms": 44,
-      "ok": true
     }
   ],
   "history": {
     "portfolio": [
-      {
-        "t": "2026-09-16T21:40:59Z",
-        "ms": 99,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
-      {
-        "t": "2026-09-16T21:40:59Z",
-        "ms": 119,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
       {
         "t": "2026-09-17T05:19:48Z",
         "ms": 197,
@@ -250,23 +236,23 @@
         "status_code": 200,
         "ok": true,
         "source": "real"
+      },
+      {
+        "t": "2026-09-19T20:58:33Z",
+        "ms": 261,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-09-19T20:58:33Z",
+        "ms": 54,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
       }
     ],
     "nexusmart": [
-      {
-        "t": "2026-09-16T21:40:59Z",
-        "ms": 383,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
-      {
-        "t": "2026-09-16T21:40:59Z",
-        "ms": 105,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
       {
         "t": "2026-09-17T05:19:48Z",
         "ms": 326,
@@ -420,23 +406,23 @@
         "status_code": 200,
         "ok": true,
         "source": "real"
+      },
+      {
+        "t": "2026-09-19T20:58:33Z",
+        "ms": 211,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-09-19T20:58:33Z",
+        "ms": 46,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
       }
     ],
     "devhire-pro-ats": [
-      {
-        "t": "2026-09-16T21:40:59Z",
-        "ms": 233,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
-      {
-        "t": "2026-09-16T21:40:59Z",
-        "ms": 96,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
       {
         "t": "2026-09-17T05:19:48Z",
         "ms": 47,
@@ -587,6 +573,20 @@
       {
         "t": "2026-09-19T16:02:30Z",
         "ms": 44,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-09-19T20:58:33Z",
+        "ms": 159,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-09-19T20:58:33Z",
+        "ms": 50,
         "status_code": 200,
         "ok": true,
         "source": "real"
