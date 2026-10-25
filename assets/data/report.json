@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:57:59Z",
+  "generated_at": "2026-10-25T16:47:46Z",
   "mode": "live",
   "repositories": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "name": "Manashjyoti-Bora",
-      "commits": 733,
+      "commits": 736,
       "source": "api"
     }
   ],
@@ -35,15 +35,15 @@
       "samples": [
         {
           "status_code": 200,
-          "latency_ms": 122
+          "latency_ms": 473
         },
         {
           "status_code": 200,
-          "latency_ms": 116
+          "latency_ms": 232
         }
       ],
       "status_code": 200,
-      "latency_ms": 116,
+      "latency_ms": 232,
       "ok": true
     },
     {
@@ -52,24 +52,7 @@
       "samples": [
         {
           "status_code": 200,
-          "latency_ms": 287
-        },
-        {
-          "status_code": 200,
-          "latency_ms": 255
-        }
-      ],
-      "status_code": 200,
-      "latency_ms": 255,
-      "ok": true
-    },
-    {
-      "label": "devhire-pro-ats",
-      "url": "https://devhire-pro-ats.vercel.app",
-      "samples": [
-        {
-          "status_code": 200,
-          "latency_ms": 260
+          "latency_ms": 478
         },
         {
           "status_code": 200,
@@ -79,24 +62,27 @@
       "status_code": 200,
       "latency_ms": 218,
       "ok": true
+    },
+    {
+      "label": "devhire-pro-ats",
+      "url": "https://devhire-pro-ats.vercel.app",
+      "samples": [
+        {
+          "status_code": 200,
+          "latency_ms": 345
+        },
+        {
+          "status_code": 200,
+          "latency_ms": 233
+        }
+      ],
+      "status_code": 200,
+      "latency_ms": 233,
+      "ok": true
     }
   ],
   "history": {
     "portfolio": [
-      {
-        "t": "2026-10-22T17:36:21Z",
-        "ms": 170,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
-      {
-        "t": "2026-10-22T17:36:21Z",
-        "ms": 152,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
       {
         "t": "2026-10-22T21:54:28Z",
         "ms": 206,
@@ -250,23 +236,23 @@
         "status_code": 200,
         "ok": true,
         "source": "real"
+      },
+      {
+        "t": "2026-10-25T16:47:46Z",
+        "ms": 473,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-10-25T16:47:46Z",
+        "ms": 232,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
       }
     ],
     "nexusmart": [
-      {
-        "t": "2026-10-22T17:36:21Z",
-        "ms": 199,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
-      {
-        "t": "2026-10-22T17:36:21Z",
-        "ms": 66,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
       {
         "t": "2026-10-22T21:54:28Z",
         "ms": 252,
@@ -420,23 +406,23 @@
         "status_code": 200,
         "ok": true,
         "source": "real"
+      },
+      {
+        "t": "2026-10-25T16:47:46Z",
+        "ms": 478,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-10-25T16:47:46Z",
+        "ms": 218,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
       }
     ],
     "devhire-pro-ats": [
-      {
-        "t": "2026-10-22T17:36:21Z",
-        "ms": 168,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
-      {
-        "t": "2026-10-22T17:36:21Z",
-        "ms": 78,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
       {
         "t": "2026-10-22T21:54:28Z",
         "ms": 251,
@@ -587,6 +573,20 @@
       {
         "t": "2026-10-25T11:57:59Z",
         "ms": 218,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-10-25T16:47:46Z",
+        "ms": 345,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-10-25T16:47:46Z",
+        "ms": 233,
         "status_code": 200,
         "ok": true,
         "source": "real"
