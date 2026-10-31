@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T13:01:40Z",
+  "generated_at": "2026-10-31T21:51:04Z",
   "mode": "live",
   "repositories": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "name": "Manashjyoti-Bora",
-      "commits": 797,
+      "commits": 800,
       "source": "api"
     }
   ],
@@ -35,7 +35,41 @@
       "samples": [
         {
           "status_code": 200,
-          "latency_ms": 438
+          "latency_ms": 237
+        },
+        {
+          "status_code": 200,
+          "latency_ms": 184
+        }
+      ],
+      "status_code": 200,
+      "latency_ms": 184,
+      "ok": true
+    },
+    {
+      "label": "nexusmart",
+      "url": "https://nexusmart-dusky.vercel.app",
+      "samples": [
+        {
+          "status_code": 200,
+          "latency_ms": 425
+        },
+        {
+          "status_code": 200,
+          "latency_ms": 127
+        }
+      ],
+      "status_code": 200,
+      "latency_ms": 127,
+      "ok": true
+    },
+    {
+      "label": "devhire-pro-ats",
+      "url": "https://devhire-pro-ats.vercel.app",
+      "samples": [
+        {
+          "status_code": 200,
+          "latency_ms": 211
         },
         {
           "status_code": 200,
@@ -45,58 +79,10 @@
       "status_code": 200,
       "latency_ms": 183,
       "ok": true
-    },
-    {
-      "label": "nexusmart",
-      "url": "https://nexusmart-dusky.vercel.app",
-      "samples": [
-        {
-          "status_code": 200,
-          "latency_ms": 387
-        },
-        {
-          "status_code": 200,
-          "latency_ms": 254
-        }
-      ],
-      "status_code": 200,
-      "latency_ms": 254,
-      "ok": true
-    },
-    {
-      "label": "devhire-pro-ats",
-      "url": "https://devhire-pro-ats.vercel.app",
-      "samples": [
-        {
-          "status_code": 200,
-          "latency_ms": 386
-        },
-        {
-          "status_code": 200,
-          "latency_ms": 185
-        }
-      ],
-      "status_code": 200,
-      "latency_ms": 185,
-      "ok": true
     }
   ],
   "history": {
     "portfolio": [
-      {
-        "t": "2026-10-27T22:35:13Z",
-        "ms": 345,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
-      {
-        "t": "2026-10-27T22:35:13Z",
-        "ms": 193,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
       {
         "t": "2026-10-28T06:15:38Z",
         "ms": 328,
@@ -250,23 +236,23 @@
         "status_code": 200,
         "ok": true,
         "source": "real"
+      },
+      {
+        "t": "2026-10-31T21:51:04Z",
+        "ms": 237,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-10-31T21:51:04Z",
+        "ms": 184,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
       }
     ],
     "nexusmart": [
-      {
-        "t": "2026-10-27T22:35:13Z",
-        "ms": 481,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
-      {
-        "t": "2026-10-27T22:35:13Z",
-        "ms": 131,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
       {
         "t": "2026-10-28T06:15:38Z",
         "ms": 310,
@@ -420,23 +406,23 @@
         "status_code": 200,
         "ok": true,
         "source": "real"
+      },
+      {
+        "t": "2026-10-31T21:51:04Z",
+        "ms": 425,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-10-31T21:51:04Z",
+        "ms": 127,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
       }
     ],
     "devhire-pro-ats": [
-      {
-        "t": "2026-10-27T22:35:13Z",
-        "ms": 119,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
-      {
-        "t": "2026-10-27T22:35:13Z",
-        "ms": 237,
-        "status_code": 200,
-        "ok": true,
-        "source": "real"
-      },
       {
         "t": "2026-10-28T06:15:38Z",
         "ms": 194,
@@ -587,6 +573,20 @@
       {
         "t": "2026-10-31T13:01:40Z",
         "ms": 185,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-10-31T21:51:04Z",
+        "ms": 211,
+        "status_code": 200,
+        "ok": true,
+        "source": "real"
+      },
+      {
+        "t": "2026-10-31T21:51:04Z",
+        "ms": 183,
         "status_code": 200,
         "ok": true,
         "source": "real"
