@@ -1,0 +1,25 @@
+name: Sign the sheet
+description: Add your name to the signature margin of drawing MJB-001.
+title: "sign: "
+labels: ["sign"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Keep the title in the form **`sign: your note`** — the workflow reads
+        the text after the colon. Notes are sanitised and cut to 34 characters
+        before they are drawn, and only your GitHub username is shown.
+  - type: textarea
+    id: note
+    attributes:
+      label: Your note
+      description: Used only when the title has no note after the colon.
+      placeholder: built on a phone, respect
+      maxlength: 34
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent
+      options:
+        - label: My GitHub username and this note may appear publicly on the sheet.
+          required: true

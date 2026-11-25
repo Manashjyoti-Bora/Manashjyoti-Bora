@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If the artwork, the automation or the writing here was useful, cite it."
+title: "Manashjyoti Bora — profile artwork and hands-free automation"
+type: software
+authors:
+  - family-names: Bora
+    given-names: Manashjyoti
+    affiliation: "Dr. B.K.B. College · B.Voc IT"
+version: 2026.2
+date-released: 2026-11-25
+url: "https://github.com/Manashjyoti-Bora/Manashjyoti-Bora"
+repository-code: "https://github.com/Manashjyoti-Bora/Manashjyoti-Bora"
+keywords:
+  - svg
+  - github-actions
+  - profile-readme
+  - mermaid
+  - automation

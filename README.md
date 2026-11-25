@@ -1,17 +1,17 @@
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--  MANASHJYOTI BORA · PROFILE README · 2026 EDITION                    -->
 <!--  Hand-built on an Android phone. Every claim links to live work.      -->
-<!--  Art: 5 theme-aware SVG sections, CSS-only motion, zero JavaScript.   -->
+<!--  Art: 6 theme-aware SVG sections, CSS-only motion, zero JavaScript.   -->
 <!--  Live regions below are owned by GitHub Actions — do not hand-edit    -->
-<!--  between the AUTO-UPDATE / REPO-INDEX / LANG-PIE markers.             -->
+<!--  between the AUTO-UPDATE / REPO-INDEX / LANG-PIE / SIGN markers.      -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/next-hero-dark.svg?v=2026a">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/next-hero-light.svg?v=2026a">
-  <img src="./assets/next-hero-dark.svg?v=2026a" width="1180" height="620" alt="Manashjyoti Bora — oversized name, cycling roles, orbital monogram. Hand-coded SVG with CSS-only motion, no JavaScript.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/next-hero-dark.svg?v=2026b">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/next-hero-light.svg?v=2026b">
+  <img src="./assets/next-hero-dark.svg?v=2026b" width="1180" height="620" alt="Manashjyoti Bora — oversized name, cycling roles, orbital monogram. Hand-coded SVG with CSS-only motion, no JavaScript.">
 </picture>
 
 <sub><ruby>মনজ্যোতি বৰা<rt>Manashjyoti Bora</rt></ruby> · Nagaon, Assam 🇮🇳 — full-stack developer, SVG craftsman, automation tinkerer</sub>
@@ -34,14 +34,23 @@
 
 $${\color{#247BFF}\textsf{Learning in public}} \cdot {\color{#FF354F}\textsf{Building daily}} \cdot {\color{#34E5A1}\textsf{the work will decide}}$$
 
+<br>
+
+<sub><a href="#story">01 story</a> · <a href="#work">02 work</a> · <a href="#stack">03 stack</a> · <a href="#machine">04 machine</a> · <a href="#lab">05 rare lab</a> · <a href="#roadmap">06 roadmap</a> · <a href="#faq">faq</a> · <a href="#connect">07 connect</a></sub>
+
 </div>
 
 > [!IMPORTANT]
 > **Summary:** First-year IT student, learning full-stack development in public. While studying, I have **designed, built and deployed two production applications** — using only an Android phone as my development machine.[^1] A third build is in progress. Every claim on this page links to live, verifiable work; the live numbers below are pulled from the GitHub API by my own workflows.
 
-<img src="./assets/next-about-dark.svg?v=2026a" width="100%" alt="The operator — capabilities beside a three-slide interests carousel that changes every four seconds." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/next-about-dark.svg?v=2026b">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/next-about-light.svg?v=2026b">
+  <img src="./assets/next-about-dark.svg?v=2026b" width="1180" height="480" alt="The operator — capabilities beside a three-slide interests carousel that changes every four seconds.">
+</picture>
 
 <div align="center">
+<a name="story"></a>
 
 # 📖 01 · The Story — Why a Phone?
 
@@ -111,6 +120,7 @@ gitGraph
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/aurora-divider.svg" width="100%" alt="Aurora divider — animated hand-coded SMIL ribbon" />
 
 <div align="center">
+<a name="work"></a>
 
 # 🗂️ 02 · Selected Work — What Each One Taught Me
 
@@ -202,6 +212,65 @@ gitGraph
 
 </div>
 
+### 🧬 The data model behind that store
+
+A year ago a database was a scary word. This is the real shape of NexusMart's
+schema — four collections, and the relationships that actually matter:
+
+```mermaid
+erDiagram
+    USER ||--o{ ORDER : places
+    ORDER ||--|{ LINE_ITEM : contains
+    PRODUCT ||--o{ LINE_ITEM : "priced from"
+    USER {
+        ObjectId _id PK
+        string name
+        string email UK
+        string passwordHash
+        string role
+    }
+    PRODUCT {
+        ObjectId _id PK
+        string title
+        number price
+        number stock
+    }
+    ORDER {
+        ObjectId _id PK
+        number total
+        string status
+        date placedAt
+    }
+    LINE_ITEM {
+        string title
+        number qty
+        number unitPrice
+    }
+```
+
+### 🔐 The ₹1 lesson, drawn as a sequence
+
+The bug and the fix, honestly — the browser sends whatever it likes, and the
+server refuses to believe any of it:
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant B as Browser
+    participant A as API · /checkout
+    participant D as MongoDB Atlas
+    B->>A: POST cart + total ₹1
+    Note over A: trust nothing from the client
+    A->>D: find prices by product _id
+    D-->>A: server-side unit prices
+    A->>A: rebuild total · Zod validate
+    A->>D: insert order · status pending
+    D-->>A: order _id
+    A-->>B: 201 orderId + real total
+```
+
+<sub>Both diagrams describe routes and collections that exist in the public repo — nothing here is a mockup.</sub>
+
 <div align="center">
 
 ## 🧪 devhire-pro-ats & taskflow-enterprise
@@ -259,12 +328,17 @@ quadrantChart
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-cosmos.svg" width="100%" alt="Animation dashboard — nine hand-coded SMIL techniques" />
 
 <div align="center">
+<a name="stack"></a>
 
 # 🛠️ 03 · Skills & Environment
 
 </div>
 
-<img src="./assets/next-stack-dark.svg?v=2026a" width="100%" alt="The stack as three tilted tech orbits — frontend, backend and data, craft and ops." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/next-stack-dark.svg?v=2026b">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/next-stack-light.svg?v=2026b">
+  <img src="./assets/next-stack-dark.svg?v=2026b" width="1180" height="520" alt="The stack as three tilted tech orbits — frontend, backend and data, craft and ops.">
+</picture>
 
 ### 🧠 Skill map
 
@@ -318,15 +392,26 @@ mindmap
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/skills.svg" width="100%" alt="Animated skill bars — hand-coded SMIL" />
 
-<img src="./assets/next-id-dark.svg?v=2026a" width="100%" alt="Hanging lanyard badge with portrait, barcode and pendulum motion beside the verified identity details." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/next-id-dark.svg?v=2026b">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/next-id-light.svg?v=2026b">
+  <img src="./assets/next-id-dark.svg?v=2026b" width="1180" height="700" alt="Hanging lanyard badge with portrait, barcode and pendulum motion beside the verified identity details.">
+</picture>
 
 <div align="center">
+<a name="machine"></a>
 
 # ⚙️ 04 · The Machine — Automation That Proves Itself
 
 **Seven GitHub Actions pipelines keep this profile alive. None of them need a human.**
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/next-ops-dark.svg?v=2026b">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/next-ops-light.svg?v=2026b">
+  <img src="./assets/next-ops-dark.svg?v=2026b" width="1180" height="520" alt="Twenty-four hour schedule map — seven pipelines, fourteen cron runs a day, plotted per UTC hour.">
+</picture>
 
 | Pipeline | Schedule | What it writes |
 |----------|----------|----------------|
@@ -351,6 +436,19 @@ the README updater falls back to the last cached snapshot instead of dying.
 
 The rules I keep: the markers belong to the bots, the prose belongs to me.
 **Never hand-edit between the markers** — they are rebuilt from live API data.
+
+```mermaid
+stateDiagram-v2
+    [*] --> Edit: bot writes SVGs and marker blocks
+    Edit --> Stage: only changed files
+    Stage --> Commit: git diff is dirty
+    Commit --> Rebase: git pull --rebase --autostash
+    Rebase --> Push
+    Push --> Done: exit 0
+    Push --> Wait: rejected
+    Wait --> Rebase: retry ×5 with backoff
+    Done --> [*]
+```
 
 </details>
 
@@ -406,13 +504,21 @@ The rules I keep: the markers belong to the bots, the prose belongs to me.
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manashjyoti-Bora&layout=compact&theme=tokyonight&hide_border=true&bg_color=070B16&title_color=247BFF&text_color=F4F7FF" width="100%" alt="top languages" />
 
-**🐍 The snake — regenerated daily at 00:00 UTC:**
+**🐍 The snake — regenerated daily at 00:05 UTC:**
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions">
+</picture>
 
 **👾 Pac-Man, eating the same graph:**
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/pacman-contribution-graph-dark.svg" width="100%" alt="pacman contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/pacman-contribution-graph-dark.svg" width="100%" alt="pacman contribution graph">
+</picture>
 
 **🏙️ Contributions as a 3D city:**
 
@@ -421,6 +527,7 @@ The rules I keep: the markers belong to the bots, the prose belongs to me.
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="divider" />
 
 <div align="center">
+<a name="lab"></a>
 
 # 💎 05 · The Rare Lab
 
@@ -512,6 +619,27 @@ endfacet
 endsolid gem
 ```
 
+### ✍️ The signature margin — put your name on the drawing
+
+This one is alive. Open an issue titled `sign: your note` (the **Sign the
+sheet** template is one tap) and a workflow reads it, sanitises it, and inks
+you into the margin below. No database, no service, no JavaScript — the
+signature is a real GitHub issue rendered as a technical drawing.
+
+<!-- SIGN:START -->
+
+No signatures yet. The margin is blank and waiting.
+
+Total signatures: **0**
+
+<!-- SIGN:END -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/signatures-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/signatures-light.svg">
+  <img src="./assets/signatures-dark.svg" width="1200" height="330" alt="Signature margin of drawing MJB-001 — visitors who signed by opening an issue.">
+</picture>
+
 ### 🧮 The consistency equation
 
 $$\text{Skill}(t)=\int_{0}^{t}\text{commits}(\tau)\,d\tau \quad\Longrightarrow\quad \lim_{t\to\infty}\text{Skill}(t)={\color{#34E5A1}\text{mastery}}$$
@@ -542,6 +670,7 @@ journey
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/aurora-divider.svg" width="100%" alt="Aurora divider" />
 
 <div align="center">
+<a name="roadmap"></a>
 
 # 🧭 06 · Roadmap
 
@@ -564,13 +693,100 @@ journey
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/roadmap.svg" width="100%" alt="Animated roadmap — line-draw, checkmarks and confetti at THE NEXT BUILD" />
 
+### 🗓️ The same plan, on a calendar
+
+Dates are targets, not promises — but a milestone you can see is harder to
+quietly drop.
+
+```mermaid
+gantt
+    title 2026–27 — plans written down so they can be judged
+    dateFormat YYYY-MM-DD
+    axisFormat %b
+    section Shipped
+    NexusMart live            :done, n1, 2026-07-10, 2026-07-28
+    Portfolio v2              :done, p1, 2026-08-01, 2026-08-15
+    Profile art v3            :done, a1, 2026-11-20, 2026-11-26
+    section In flight
+    Aurevyn storefront        :active, av, 2026-11-01, 2026-12-20
+    First open-source PR      :pr, 2026-12-01, 2026-12-31
+    section Next
+    Tiny npm package          :np, 2027-01-05, 2027-02-15
+    THE NEXT BUILD            :milestone, m1, 2027-03-01, 0d
+```
+
 <div align="center">
+<a name="faq"></a>
+
+# ❓ FAQ — The Honest Answers
+
+</div>
+
+<details>
+<summary><b>“Do you really not own a laptop?”</b></summary>
+
+<br>
+
+Correct. Termux for Git, Node.js and Python; GitHub's web editor for files;
+Vercel for cloud builds. Everything on this page was typed on a phone, which
+is also why the art is SVG and not a screenshot — it has to survive a small
+screen and a slow connection.
+
+</details>
+
+<details>
+<summary><b>“Which numbers here can I trust?”</b></summary>
+
+<br>
+
+The three marker blocks — snapshot, repo table, language pie — are rebuilt
+from the GitHub API by [the updater](./scripts/update_readme.py). They are as
+trustworthy as the API, and they stop claiming a streak if the pipeline ever
+misses a day. Everything else is prose I wrote, next to links you can check.
+
+</details>
+
+<details>
+<summary><b>“How long did this page take?”</b></summary>
+
+<br>
+
+The art is one Python file ([`build_next.py`](./build_next.py)) that emits six
+theme-aware SVGs from two palettes — changing a colour means changing one
+dictionary. The README is hand-written around three bot-owned blocks.
+
+</details>
+
+<details>
+<summary>🧰 <b>Steal this setup — the four files that do the work</b></summary>
+
+<br>
+
+| File | Job | Copy it if… |
+|------|-----|-------------|
+| [`scripts/update_readme.py`](./scripts/update_readme.py) | GitHub API → marker blocks | you want live numbers |
+| [`push-safe.sh`](./.github/scripts/push-safe.sh) | commit → rebase → push, 5 retries | you run more than one bot |
+| [`guestbook.py`](./.github/scripts/guestbook.py) | issues → signature sheet | you want a guestbook with no backend |
+| [`build_next.py`](./build_next.py) | one source of truth for the art | you have hand-edited an SVG twice |
+
+<br>
+
+<sub>Keep the marker comments, give every workflow its own concurrency group, and never let two bots write the same block. That is the whole trick.</sub>
+
+</details>
+
+<div align="center">
+<a name="connect"></a>
 
 # 📬 07 · Contact
 
 </div>
 
-<img src="./assets/next-connect-dark.svg?v=2026a" width="100%" alt="Connect — social cards for GitHub, LinkedIn, portfolio, email and resume." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/next-connect-dark.svg?v=2026b">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/next-connect-light.svg?v=2026b">
+  <img src="./assets/next-connect-dark.svg?v=2026b" width="1180" height="450" alt="Connect — social cards for GitHub, LinkedIn, portfolio, email and resume.">
+</picture>
 
 <div align="center">
 
@@ -597,15 +813,19 @@ journey
 
 | Layer | Detail |
 |-------|--------|
-| Hero, operator, stack, badge, connect | 5 theme-aware SVG sections, generated by [`build_next.py`](./build_next.py) |
+| Hero, operator, stack, badge, ops, connect | 6 theme-aware SVG sections, generated by [`build_next.py`](./build_next.py) |
 | Motion | CSS keyframes only — no JS, no SMIL, honours `prefers-reduced-motion` |
 | Portrait | Inlined base64 JPEG — the badge makes zero network requests |
 | Dividers & cards | 14 hand-typed SVG files, zero JS |
+| Signature margin | Real GitHub issues, sanitised by a workflow, drawn as a sheet |
+| Open data | `assets/data/*.json` — the same numbers, machine-readable |
+| Citation | `CITATION.cff` gives the repo a native Cite button |
+| Security policy | `SECURITY.md` — private reporting, real scope, no theatre |
 | Map | Native GitHub GeoJSON rendering |
 | QR code | Generated + styled by hand — scannable |
 | 3D gem | Native GitHub STL viewer |
 | Math | Native GitHub LaTeX (with colors!) |
-| Diagrams | Mermaid timeline · gitGraph · journey · mindmap · quadrant · pie (real API data) |
+| Diagrams | Mermaid timeline · gitGraph · journey · mindmap · quadrant · pie · ER · sequence · state · gantt |
 | Pipelines | 7 GitHub Actions — all self-running, all conflict-safe |
 | Hardware | One Android phone 📱 |
 

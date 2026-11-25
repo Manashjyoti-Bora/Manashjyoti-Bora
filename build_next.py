@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """Build the 2026 profile art set — a single deterministic source of truth.
 
-Emits five theme-aware SVG sections (dark + light) used by README.md:
+Emits six theme-aware SVG sections (dark + light) used by README.md:
 
     assets/next-hero-{dark,light}.svg        the opening frame
     assets/next-about-{dark,light}.svg       capabilities + autoplay carousel
     assets/next-stack-{dark,light}.svg       three tilted tech orbits
     assets/next-id-{dark,light}.svg          the hanging lanyard badge
+    assets/next-ops-{dark,light}.svg         the 24h automation schedule
     assets/next-connect-{dark,light}.svg     social cards
 
 Rules the output follows (GitHub renders these inside <img>):
@@ -694,7 +695,99 @@ def build_identity(p) -> str:
 
 
 # ---------------------------------------------------------------------------
-# 5 · CONNECT
+# 5 · THE MACHINE / OPS TIMELINE
+# ---------------------------------------------------------------------------
+
+def build_ops(p) -> str:
+    """A 24-hour map of the real cron schedule, read from .github/workflows.
+
+    Nothing here is invented: the seven rows are the seven workflows, the
+    strip below counts how many scheduled runs land in each UTC hour
+    (00:05, 00:10, 00:17, 00:41, 02:30, 03:00, 06:17, 06:41, 12:17, 12:41,
+    18:17, 18:41 — 14 runs a day).
+    """
+    w, h = 1180, 520
+    rows = [
+        ("00:05", "SNAKE", "daily · output branch", p["mint"]),
+        ("00:10", "PAC-MAN", "daily · output branch", p["crimson"]),
+        ("00:17", "LIVE TELEMETRY", "every 6h · terminal card", p["blue2"]),
+        ("00:41", "BLUEPRINT SHEETS", "every 6h · drawing sheet", p["blue"]),
+        ("02:30", "DAILY SELF-UPDATE", "daily · README markers", p["blue"]),
+        ("03:00", "3D CITY", "daily · skyline SVG", p["mint"]),
+        ("12:17", "SIGNATURE MARGIN", "every 12h · plus issues", p["crimson"]),
+    ]
+    row_svg = []
+    for i, (t, name, cad, accent) in enumerate(rows):
+        y = 152 + i * 33
+        row_svg.append(
+            rule(600, 1116, y - 20, p, .07)
+            + f'<circle cx="600" cy="{y - 4}" r="3" fill="{accent}" class="dotp" style="animation-delay:-{i * 0.42:.2f}s"/>'
+            + txt(616, y, t, 11, accent, 700, mono=True)
+            + txt(676, y, name, 12.5, p["text2"], 600, ls=.9)
+            + txt(1116, y, cad, 9.5, p["muted"], 500, "end", ls=.7, mono=True)
+        )
+
+    # Runs per UTC hour, straight from the cron lines in .github/workflows.
+    hours = [5, 0, 1, 1, 0, 0, 2, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
+    step = 1052 / 24
+    cell_svg, axis_svg = [], []
+    for i, n in enumerate(hours):
+        x = 64 + i * step
+        cell_svg.append(
+            rect(x, 434, step - 5.5, 30, fill=p["blue"] if n else p["line"],
+                 op=0.06 + min(n, 5) * 0.11, rx=4)
+        )
+        if n:
+            cell_svg.append(txt(x + (step - 5.5) / 2, 428, str(n), 8, p["muted"], 600, "middle", mono=True))
+    for hr in (0, 6, 12, 18, 24):
+        x = 64 + hr * step
+        anchor = "start" if hr == 0 else ("end" if hr == 24 else "middle")
+        axis_svg.append(txt(x, 484, f"{hr:02d}", 8.5, p["muted"], 600, anchor, 1.4, mono=True))
+
+    defs = '<clipPath id="oclip"><rect width="1180" height="520" rx="28"/></clipPath>'
+    body = f"""
+<g clip-path="url(#oclip)">
+  <rect width="{w}" height="{h}" fill="url(#dots)" opacity=".45"/>
+  <ellipse cx="1110" cy="490" rx="420" ry="300" fill="url(#glowA)" opacity=".5"/>
+  <ellipse cx="70" cy="10" rx="320" ry="240" fill="url(#glowB)" opacity=".45"/>
+</g>
+{section_head(p, "04 / THE MACHINE", "SCHEDULED IN UTC")}
+
+<g class="e b2">{txt(64, 170, "While I sleep,", 40, p["text"], 800, ls=-1.3)}</g>
+<g class="e b2">{txt(64, 214, "seven robots ship.", 40, "url(#nameGrad)", 800, ls=-1.3)}</g>
+<g class="e b3">
+  {txt(64, 252, "Fourteen scheduled runs a day — every one", 11.5, p["muted"], 400, mono=True)}
+  {txt(64, 270, "of them writes real data. None need me.", 11.5, p["muted"], 400, mono=True)}
+</g>
+<g class="e b5">{pill(64, 296, 176, 30, "CONFLICT-SAFE BY DESIGN", p, size=9, ls=1.2)}</g>
+
+<g class="e b4">
+  {txt(64, 366, "07", 30, p["text"], 800, ls=-1)}
+  {txt(64, 386, "PIPELINES", 8.5, p["muted"], 600, ls=2, mono=True)}
+  {txt(212, 366, "14", 30, p["blue2"], 800, ls=-1)}
+  {txt(212, 386, "RUNS / DAY", 8.5, p["muted"], 600, ls=2, mono=True)}
+  {txt(360, 366, "00", 30, p["crimson"], 800, ls=-1)}
+  {txt(360, 386, "HANDS", 8.5, p["muted"], 600, ls=2, mono=True)}
+</g>
+
+{''.join(row_svg)}
+
+<g class="e b6">
+  {txt(64, 412, "SCHEDULE MAP · RUNS PER HOUR", 8.5, p["muted"], 600, ls=2, mono=True)}
+  {txt(1116, 412, "UTC · 24H", 8.5, p["muted"], 600, "end", ls=2, mono=True)}
+</g>
+{''.join(cell_svg)}
+<g class="e b7">{''.join(axis_svg)}</g>
+<g class="e b8">
+  {txt(64, 506, "CRON IN UTC · CONCURRENCY GROUPS SERIALISE EACH FAMILY · PUSH-SAFE.SH RETRIES ×5", 8, p["muted"], 600, ls=1.3, mono=True)}
+</g>
+{corner(1116, 152, p, 6, .35)}
+"""
+    return shell(p, w, h, defs, body)
+
+
+# ---------------------------------------------------------------------------
+# 6 · CONNECT
 # ---------------------------------------------------------------------------
 
 def build_connect(p) -> str:
@@ -755,7 +848,7 @@ def build_connect(p) -> str:
   <ellipse cx="120" cy="450" rx="440" ry="300" fill="url(#glowA)" opacity=".55"/>
   <ellipse cx="1100" cy="30" rx="320" ry="220" fill="url(#glowB)" opacity=".5"/>
 </g>
-{section_head(p, "04 / CONNECT", "REPLIES WITHIN 24H")}
+{section_head(p, "05 / CONNECT", "REPLIES WITHIN 24H")}
 
 <g class="e b2">{txt(64, 190, "Let's build", 52, p["text"], 800, ls=-2)}</g>
 <g class="e b3"><text x="64" y="248" font-size="52" font-weight="800" letter-spacing="-2" fill="{p['text']}">something <tspan fill="url(#crimGrad)">loud.</tspan></text></g>
@@ -786,6 +879,7 @@ def main() -> int:
         "next-about": build_about,
         "next-stack": build_stack,
         "next-id": build_identity,
+        "next-ops": build_ops,
         "next-connect": build_connect,
     }
     total = 0
@@ -796,7 +890,7 @@ def main() -> int:
             path.write_text(svg, encoding="utf-8")
             total += len(svg.encode("utf-8"))
             print(f"wrote {path.relative_to(ROOT)}  {len(svg.encode('utf-8')) // 1024} KB")
-    print(f"total {total // 1024} KB across 10 files")
+    print(f"total {total // 1024} KB across {len(builders) * 2} files")
     return 0
 
 
