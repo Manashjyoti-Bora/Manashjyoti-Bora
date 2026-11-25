@@ -1,42 +1,87 @@
 {
-  "generated_at": "mock",
-  "source": "mock",
+  "generated_at": "2026-11-25T19:48:40Z",
+  "source": "live",
   "repos": [
     {
       "name": "Manashjyoti-Bora",
-      "score": 6,
+      "score": 3,
       "passed": [
         "readme",
         "gitignore",
-        "license",
-        "ci",
-        "tests",
-        "manifest"
+        "ci"
       ],
       "env_in_git": false,
       "pushed_at": "2026-11-25",
-      "size_kb": 412
+      "size_kb": 4320
     },
     {
       "name": "aurevyn-store",
-      "score": 6,
+      "score": 5,
       "passed": [
         "readme",
         "gitignore",
-        "license",
         "ci",
         "tests",
         "manifest"
       ],
       "env_in_git": false,
       "pushed_at": "2026-11-24",
-      "size_kb": 2680
+      "size_kb": 3616
+    },
+    {
+      "name": "portfolio",
+      "score": 3,
+      "passed": [
+        "readme",
+        "gitignore",
+        "manifest"
+      ],
+      "env_in_git": false,
+      "pushed_at": "2026-08-15",
+      "size_kb": 64572
+    },
+    {
+      "name": "taskflow-enterprise",
+      "score": 3,
+      "passed": [
+        "readme",
+        "ci",
+        "manifest"
+      ],
+      "env_in_git": false,
+      "pushed_at": "2026-07-28",
+      "size_kb": 26
+    },
+    {
+      "name": "devhire-pro-ats",
+      "score": 3,
+      "passed": [
+        "readme",
+        "ci",
+        "manifest"
+      ],
+      "env_in_git": false,
+      "pushed_at": "2026-07-28",
+      "size_kb": 25
+    },
+    {
+      "name": "nexusmart",
+      "score": 4,
+      "passed": [
+        "readme",
+        "gitignore",
+        "ci",
+        "manifest"
+      ],
+      "env_in_git": false,
+      "pushed_at": "2026-07-28",
+      "size_kb": 120
     }
   ],
   "summary": {
-    "repos": 2,
-    "checks_passed": 12,
-    "checks_possible": 12,
+    "repos": 6,
+    "checks_passed": 21,
+    "checks_possible": 36,
     "env_leaks": 0,
     "dirty_repos": []
   }

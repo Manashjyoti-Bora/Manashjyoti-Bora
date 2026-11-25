@@ -1,27 +1,5 @@
 {
-  "generated_at": "2026-11-25T19:47:28Z",
-  "count": 3,
-  "cards": [
-    {
-      "login": "pixel-pilot",
-      "name": "Aditi Sen",
-      "note": "the heartbeat wheel made me rebuild my own profile. wild.",
-      "date": "2026-11-22",
-      "number": 1
-    },
-    {
-      "login": "ru-aayush",
-      "name": "Aayush Das",
-      "note": "second time here, still copying the divider.",
-      "date": "2026-11-23",
-      "number": 2
-    },
-    {
-      "login": "mi-juno",
-      "name": "Juno",
-      "note": "নমস্তে from Bengaluru — keep shipping from the phone.",
-      "date": "2026-11-24",
-      "number": 3
-    }
-  ]
+  "generated_at": "2026-11-25T19:48:30Z",
+  "count": 0,
+  "cards": []
 }

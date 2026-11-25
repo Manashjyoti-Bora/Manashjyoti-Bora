@@ -1,10 +1,10 @@
 {
   "date": "2026-11-25",
-  "commits": 6,
-  "repos_touched": 2,
+  "commits": 0,
+  "repos_touched": 0,
   "live_up": "2/2",
-  "cards": 3,
-  "headline": "mock day: 6 commits landed across 2 repositories.",
+  "cards": 0,
+  "headline": "no commits in the last 24 hours — the automation still ran.",
   "repos": [],
-  "fired_at": "2026-11-25T19:47:28Z"
+  "fired_at": "2026-11-25T19:48:30Z"
 }
