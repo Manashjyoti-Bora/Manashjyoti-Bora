@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Profile art preview — Manashjyoti Bora</title>
+<style>
+  :root { color-scheme: dark; }
+  [data-theme="light"] { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 32px 20px 80px;
+    background: #05080f;
+    color: #f4f7ff;
+    font: 14px/1.6 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+    transition: background .25s ease, color .25s ease;
+  }
+  [data-theme="light"] body { background: #eef3fd; color: #070b16; }
+  header { max-width: 1180px; margin: 0 auto 28px; display: flex; flex-wrap: wrap; gap: 14px; align-items: flex-end; justify-content: space-between; }
+  h1 { font-size: 20px; margin: 0; letter-spacing: -.02em; }
+  p.sub { margin: 4px 0 0; opacity: .6; font-size: 12px; }
+  .tools { display: flex; gap: 8px; }
+  button {
+    font: 11px/1 ui-monospace, SFMono-Regular, Consolas, monospace;
+    letter-spacing: .12em; text-transform: uppercase;
+    color: inherit; background: transparent; border: 1px solid currentColor;
+    border-radius: 999px; padding: 10px 16px; cursor: pointer; opacity: .65;
+  }
+  button:hover, button[aria-pressed="true"] { opacity: 1; }
+  main { max-width: 1180px; margin: 0 auto; display: grid; gap: 22px; }
+  section { display: grid; gap: 8px; }
+  section > span { font: 10px/1 ui-monospace, SFMono-Regular, Consolas, monospace; letter-spacing: .18em; text-transform: uppercase; opacity: .5; }
+  img { display: block; width: 100%; height: auto; border-radius: 22px; }
+  .note { max-width: 1180px; margin: 34px auto 0; font-size: 12px; opacity: .55; }
+  a { color: #247bff; }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Profile art preview</h1>
+    <p class="sub">assets/next-*.svg · CSS-only motion · <span id="mode">dark</span> theme</p>
+  </div>
+  <div class="tools">
+    <button id="theme" type="button" aria-pressed="true">Dark</button>
+  </div>
+</header>
+<main>
+  <section><span>01 · hero</span><img data-base="assets/next-hero" alt="Hero"></section>
+  <section><span>02 · the operator</span><img data-base="assets/next-about" alt="About"></section>
+  <section><span>03 · the stack</span><img data-base="assets/next-stack" alt="Stack"></section>
+  <section><span>04 · identity badge</span><img data-base="assets/next-id" alt="Identity badge"></section>
+  <section><span>05 · connect</span><img data-base="assets/next-connect" alt="Connect"></section>
+</main>
+<p class="note">This page is a local design preview only. GitHub renders the same files inside README.md as images.</p>
+<script>
+  const html = document.documentElement;
+  const imgs = [...document.querySelectorAll('img[data-base]')];
+  const themeBtn = document.getElementById('theme');
+  const mode = document.getElementById('mode');
+  let theme = 'dark';
+  const paint = () => {
+    imgs.forEach(img => { img.src = `${img.dataset.base}-${theme}.svg?v=2026a`; });
+    mode.textContent = theme;
+    themeBtn.textContent = theme === 'dark' ? 'Dark' : 'Light';
+  };
+  themeBtn.addEventListener('click', () => {
+    theme = theme === 'dark' ? 'light' : 'dark';
+    html.dataset.theme = theme;
+    paint();
+  });
+  paint();
+</script>
+</body>
+</html>

@@ -1,43 +1,45 @@
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  MANASHJYOTI BORA · PROFILE README · ULTRA-RARE EDITION             -->
-<!--  Hand-built on an Android phone. Every claim links to live work.    -->
-<!--  Inside: STL 3D · GeoJSON map · colored LaTeX · Assamese ruby       -->
-<!--  gitGraph · XY chart · quadrant chart · timeline · mindmap          -->
-<!--  5 alert types · footnotes · nested details · theme-aware SVG       -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--  MANASHJYOTI BORA · PROFILE README · 2026 EDITION                    -->
+<!--  Hand-built on an Android phone. Every claim links to live work.      -->
+<!--  Art: 5 theme-aware SVG sections, CSS-only motion, zero JavaScript.   -->
+<!--  Live regions below are owned by GitHub Actions — do not hand-edit    -->
+<!--  between the AUTO-UPDATE / REPO-INDEX / LANG-PIE markers.             -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark-v2.svg?v=c52e9b6d">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-light-v2.svg?v=c52e9b6d">
-  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark-v2.svg?v=c52e9b6d" width="1180" height="610" alt="Animated terminal-style hero banner — ASCII-art portrait, typing system info. Hand-coded SVG + SMIL, zero JavaScript.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/next-hero-dark.svg?v=2026a">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/next-hero-light.svg?v=2026a">
+  <img src="./assets/next-hero-dark.svg?v=2026a" width="1180" height="620" alt="Manashjyoti Bora — oversized name, cycling roles, orbital monogram. Hand-coded SVG with CSS-only motion, no JavaScript.">
 </picture>
 
-<sub><ruby>মনজ্যোতি বৰা<rt>Manashjyoti Bora</rt></ruby> · Nagaon, Assam 🇮🇳 — hand-coded banner, adapts to your GitHub theme</sub>
+<sub><ruby>মনজ্যোতি বৰা<rt>Manashjyoti Bora</rt></ruby> · Nagaon, Assam 🇮🇳 — full-stack developer, SVG craftsman, automation tinkerer</sub>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VIEWS&color=10B981&style=for-the-badge" alt="profile views" />&nbsp;
-<a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=030712" alt="followers" /></a>&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8C%B1_STATUS-BUILDING_%26_LEARNING-10B981?style=for-the-badge&labelColor=030712" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VIEWS&color=247BFF&style=for-the-badge" alt="profile views" />&nbsp;
+<a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=070B16" alt="followers" /></a>&nbsp;
+<img src="https://img.shields.io/badge/%E2%9C%A6_STATUS-BUILDING_DAILY-34E5A1?style=for-the-badge&labelColor=070B16" alt="status" />
 
-[![Portfolio](https://img.shields.io/badge/%E2%9A%A1_PORTFOLIO-Live-22D3EE?style=for-the-badge&labelColor=030712)](https://portfolio-manashjyoti-bora.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=030712&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)&nbsp;
-[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL-24h_reply-D14836?style=for-the-badge&labelColor=030712&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com)&nbsp;
-[![Resume](https://img.shields.io/badge/%F0%9F%93%84_RESUME-PDF-7C3AED?style=for-the-badge&labelColor=030712)](https://raw.githubusercontent.com/Manashjyoti-Bora/portfolio/main/assets/resume/Manashjyoti_Bora_Resume.pdf)
+<br><br>
 
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fportfolio-manashjyoti-bora.vercel.app&style=for-the-badge&label=PORTFOLIO%20UPTIME&labelColor=030712&up_color=10B981" alt="portfolio uptime" />&nbsp;
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fnexusmart-dusky.vercel.app&style=for-the-badge&label=NEXUSMART%20UPTIME&labelColor=030712&up_color=10B981" alt="nexusmart uptime" />
+[![Portfolio](https://img.shields.io/badge/%E2%9A%A1_PORTFOLIO-Live-247BFF?style=for-the-badge&labelColor=070B16)](https://portfolio-manashjyoti-bora.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=070B16&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)&nbsp;
+[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL-24h_reply-D14836?style=for-the-badge&labelColor=070B16&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com)&nbsp;
+[![Resume](https://img.shields.io/badge/%F0%9F%93%84_RESUME-PDF-FF354F?style=for-the-badge&labelColor=070B16)](https://raw.githubusercontent.com/Manashjyoti-Bora/portfolio/main/assets/resume/Manashjyoti_Bora_Resume.pdf)
 
-$${\color{#22D3EE}\textsf{Learning in public}} \cdot {\color{#7C3AED}\textsf{Building daily}} \cdot {\color{#10B981}\textsf{the work will decide}}$$
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fportfolio-manashjyoti-bora.vercel.app&style=for-the-badge&label=PORTFOLIO%20UPTIME&labelColor=070B16&up_color=34E5A1" alt="portfolio uptime" />&nbsp;
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fnexusmart-dusky.vercel.app&style=for-the-badge&label=NEXUSMART%20UPTIME&labelColor=070B16&up_color=34E5A1" alt="nexusmart uptime" />
+
+$${\color{#247BFF}\textsf{Learning in public}} \cdot {\color{#FF354F}\textsf{Building daily}} \cdot {\color{#34E5A1}\textsf{the work will decide}}$$
 
 </div>
 
 > [!IMPORTANT]
-> **Summary:** First-year IT student, learning full-stack development in public. While studying, I have **designed, built, and deployed two production applications** — using only an Android phone as my development machine.[^1] Every claim on this page links to live, verifiable work.
+> **Summary:** First-year IT student, learning full-stack development in public. While studying, I have **designed, built and deployed two production applications** — using only an Android phone as my development machine.[^1] A third build is in progress. Every claim on this page links to live, verifiable work; the live numbers below are pulled from the GitHub API by my own workflows.
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-matrix.svg" width="100%" alt="Matrix rain divider — hand-coded SMIL animation" />
+<img src="./assets/next-about-dark.svg?v=2026a" width="100%" alt="The operator — capabilities beside a three-slide interests carousel that changes every four seconds." />
 
 <div align="center">
 
@@ -55,9 +57,10 @@ for cloud builds. The constraint was never a wall — it became the brand.[^2]
 ```
 
 > [!NOTE]
-> Everything on this page — the banner, dividers, dashboards — was
-> hand-typed in SVG + SMIL on this same phone. Zero JavaScript.
-> Zero libraries. Zero design tools.
+> Everything on this page — the hero, the badge, the orbit diagram — was
+> hand-typed in SVG + SMIL on that same phone. Zero JavaScript. Zero libraries.
+> Zero design tools. The art set is generated by one readable Python file,
+> [`build_next.py`](./build_next.py), so it can be rebuilt and audited.
 
 ### ⏳ The timeline (real events only)
 
@@ -69,9 +72,11 @@ timeline
     2026 H1 : B.Voc IT begins — Dr. B.K.B. College
             : React and state management click
     2026 Jul : NexusMart ships — full-stack, live
-             : 12-file SVG animation system
+             : 14-file SVG animation system
     2026 Aug : Portfolio v2 redesign ships
              : First security disclosure — fixed in hours
+    2026 Nov : Aurevyn storefront build begins
+             : Profile automation reaches 80+ days
 ```
 
 ### 🌿 The journey as a git graph
@@ -97,6 +102,9 @@ gitGraph
     commit id: "gsap + seo"
     checkout main
     merge portfolio-v2 tag: "LIVE"
+    branch aurevyn
+    commit id: "storefront + admin console"
+    checkout main
     commit id: "HEAD → next?" type: HIGHLIGHT
 ```
 
@@ -104,9 +112,34 @@ gitGraph
 
 <div align="center">
 
-# 🗂️ 02 · Projects — What Each One Taught Me
+# 🗂️ 02 · Selected Work — What Each One Taught Me
 
-**Each repository is a stage of learning. All demos are live:**
+**Each repository is a stage of learning. Two are live in production:**
+
+</div>
+
+<div align="center">
+
+## 🛍️ aurevyn-store — Systems Thinking <sub>`in progress · newest`</sub>
+
+</div>
+
+```text
+┌─ OVERVIEW ──────────────────────────────┐
+│ Meesho-resale storefront + admin console│
+│ · Next.js + PostgreSQL                  │
+│ · catalog, orders, reseller workflow    │
+│ · autonomous operations layer           │
+├─ WHAT IT IS TEACHING ME ────────────────┤
+│ schema design · server actions          │
+│ operational tooling · real users        │
+│ shipping while still learning           │
+└─────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![Code](https://img.shields.io/badge/%F0%9F%93%82_CODE-aurevyn--store-247BFF?style=for-the-badge&labelColor=070B16)](https://github.com/Manashjyoti-Bora/aurevyn-store)
 
 </div>
 
@@ -132,7 +165,7 @@ gitGraph
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/%F0%9F%94%B4_LIVE-portfolio--manashjyoti--bora.vercel.app-22D3EE?style=for-the-badge&labelColor=030712)](https://portfolio-manashjyoti-bora.vercel.app)&nbsp;[![Code](https://img.shields.io/badge/%F0%9F%93%82_CODE-GitHub-7C3AED?style=for-the-badge&labelColor=030712)](https://github.com/Manashjyoti-Bora/portfolio)
+[![Live](https://img.shields.io/badge/%F0%9F%94%B4_LIVE-portfolio--manashjyoti--bora.vercel.app-247BFF?style=for-the-badge&labelColor=070B16)](https://portfolio-manashjyoti-bora.vercel.app)&nbsp;[![Code](https://img.shields.io/badge/%F0%9F%93%82_CODE-GitHub-FF354F?style=for-the-badge&labelColor=070B16)](https://github.com/Manashjyoti-Bora/portfolio)
 
 </div>
 
@@ -165,7 +198,7 @@ gitGraph
 
 <div align="center">
 
-[![Live](https://img.shields.io/badge/%F0%9F%94%B4_LIVE-nexusmart--dusky.vercel.app-10B981?style=for-the-badge&labelColor=030712)](https://nexusmart-dusky.vercel.app)&nbsp;[![Code](https://img.shields.io/badge/%F0%9F%93%82_CODE-GitHub-7C3AED?style=for-the-badge&labelColor=030712)](https://github.com/Manashjyoti-Bora/nexusmart)
+[![Live](https://img.shields.io/badge/%F0%9F%94%B4_LIVE-nexusmart--dusky.vercel.app-34E5A1?style=for-the-badge&labelColor=070B16)](https://nexusmart-dusky.vercel.app)&nbsp;[![Code](https://img.shields.io/badge/%F0%9F%93%82_CODE-GitHub-FF354F?style=for-the-badge&labelColor=070B16)](https://github.com/Manashjyoti-Bora/nexusmart)
 
 </div>
 
@@ -186,7 +219,7 @@ gitGraph
 
 <div align="center">
 
-[![DevHire](https://img.shields.io/badge/%F0%9F%93%82_DEVHIRE-Code-7C3AED?style=for-the-badge&labelColor=030712)](https://github.com/Manashjyoti-Bora/devhire-pro-ats)&nbsp;[![TaskFlow](https://img.shields.io/badge/%F0%9F%93%82_TASKFLOW-Code-7C3AED?style=for-the-badge&labelColor=030712)](https://github.com/Manashjyoti-Bora/taskflow-enterprise)
+[![DevHire](https://img.shields.io/badge/%F0%9F%93%82_DEVHIRE-Code-FF354F?style=for-the-badge&labelColor=070B16)](https://github.com/Manashjyoti-Bora/devhire-pro-ats)&nbsp;[![TaskFlow](https://img.shields.io/badge/%F0%9F%93%82_TASKFLOW-Code-FF354F?style=for-the-badge&labelColor=070B16)](https://github.com/Manashjyoti-Bora/taskflow-enterprise)
 
 </div>
 
@@ -218,21 +251,178 @@ quadrantChart
     quadrant-4 Grind zone
     nexusmart: [0.85, 0.9]
     portfolio: [0.7, 0.65]
+    aurevyn-store: [0.65, 0.8]
     devhire-pro-ats: [0.45, 0.55]
     taskflow-enterprise: [0.35, 0.45]
 ```
-
-> [!TIP]
-> This profile is itself a project: **seven self-running GitHub Actions pipelines**
-> (daily self-update · live telemetry · blueprint sheets · snake · Pac-Man · 3D city ·
-> signature guestbook) plus **a dozen hand-coded SVG files** rendered on this page.
-> Every push is conflict-safe — even when the bots race each other.
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-cosmos.svg" width="100%" alt="Animation dashboard — nine hand-coded SMIL techniques" />
 
 <div align="center">
 
-# 💎 03 · The Rare Lab
+# 🛠️ 03 · Skills & Environment
+
+</div>
+
+<img src="./assets/next-stack-dark.svg?v=2026a" width="100%" alt="The stack as three tilted tech orbits — frontend, backend and data, craft and ops." />
+
+### 🧠 Skill map
+
+```mermaid
+mindmap
+  root((Manashjyoti))
+    Frontend
+      HTML5 · CSS3
+      JavaScript ES6+
+      React 19
+      Next.js
+      Responsive UI
+    Backend
+      Node.js
+      REST APIs
+      Zod validation
+      JWT auth
+    Database
+      MongoDB Atlas
+      Mongoose
+      PostgreSQL
+    Craft
+      SVG + SMIL art
+      GitHub Actions
+      Clean commits
+    Environment
+      Android phone
+      Termux
+      Vercel
+```
+
+### Core stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,nodejs,express,mongodb&theme=dark" alt="core stack icons" />
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,vercel,git,github,githubactions,linux,vite,npm,figma&theme=dark" alt="tooling icons" />
+
+</div>
+
+### The whole office fits in a pocket
+
+| Tool | Role |
+|------|------|
+| <kbd>📱 Android phone</kbd> | The entire machine |
+| <kbd>Termux</kbd> | Git · Node.js · Python |
+| <kbd>GitHub web editor</kbd> | Code editing |
+| <kbd>Vercel</kbd> | Cloud builds & deploys |
+| <kbd>MongoDB Atlas</kbd> | Database |
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/skills.svg" width="100%" alt="Animated skill bars — hand-coded SMIL" />
+
+<img src="./assets/next-id-dark.svg?v=2026a" width="100%" alt="Hanging lanyard badge with portrait, barcode and pendulum motion beside the verified identity details." />
+
+<div align="center">
+
+# ⚙️ 04 · The Machine — Automation That Proves Itself
+
+**Seven GitHub Actions pipelines keep this profile alive. None of them need a human.**
+
+</div>
+
+| Pipeline | Schedule | What it writes |
+|----------|----------|----------------|
+| **Daily self-update** | 02:30 UTC daily | Snapshot box, repo table, language pie, `assets/data/*.json` |
+| **Live telemetry** | every 6 h | `assets/live-dark.svg` / `live-light.svg` |
+| **Blueprint sheets** | every 6 h | as-built log, test report, sheet SVGs |
+| **Signature margin** | every 12 h + on issues | visitor signatures in the sheet |
+| **Snake** | 00:05 UTC daily | contribution snake (`output` branch) |
+| **Pac-Man** | 00:10 UTC daily | Pac-Man contribution graph (`output` branch) |
+| **3D city** | 03:00 UTC daily | `profile-3d-contrib/*.svg` |
+
+<details>
+<summary>🔧 <b>Why the bots never break each other</b></summary>
+
+<br>
+
+Every push goes through [`.github/scripts/push-safe.sh`](./.github/scripts/push-safe.sh):
+commit → `git pull --rebase --autostash` → push, with up to 5 retries and a
+15-second backoff. Concurrency groups serialize workflows in the same family, so
+a push can never fail as "non-fast-forward". If the GitHub API is unreachable,
+the README updater falls back to the last cached snapshot instead of dying.
+
+The rules I keep: the markers belong to the bots, the prose belongs to me.
+**Never hand-edit between the markers** — they are rebuilt from live API data.
+
+</details>
+
+<br>
+
+<!--AUTO-UPDATE:START-->
+```text
+┌─ DAILY SNAPSHOT · LIVE DATA ──────────────────┐
+│ 25 Nov 2026 · 17:08 IST                       │
+│ 25 Nov 2026 · 11:38 UTC                       │
+│ Public repos ..... 6                          │
+│ Followers ........ 10                         │
+│ Total stars ...... 3                          │
+│ Commits (all) ... 1208                        │
+│ Top language ..... TypeScript                 │
+│ Last push ........ 2026-11-25                 │
+│ Auto-update ...... 83d                        │
+├───────────────────────────────────────────────┤
+│ Generated by GitHub Actions — no hands        │
+│ were involved.                                │
+└───────────────────────────────────────────────┘
+```
+<!--AUTO-UPDATE:END-->
+
+<br><br>
+
+**📡 Live telemetry — this terminal is rebuilt every 6 hours by Actions:**
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/live-dark.svg" width="100%" alt="Live telemetry — a terminal-style card generated from GitHub API data by GitHub Actions" />
+
+<br>
+
+<!--REPO-INDEX:START-->
+**6 public repos · 10 followers — table rebuilt from the live GitHub API.**
+
+| Repository | Language | Stars | Last push |
+|------------|----------|-------|-----------|
+| [Manashjyoti-Bora](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora) | Python | 0 ⭐ | 2026-11-25 |
+| [aurevyn-store](https://github.com/Manashjyoti-Bora/aurevyn-store) | TypeScript | 0 ⭐ | 2026-11-24 |
+| [portfolio](https://github.com/Manashjyoti-Bora/portfolio) | JavaScript | 0 ⭐ | 2026-08-15 |
+| [taskflow-enterprise](https://github.com/Manashjyoti-Bora/taskflow-enterprise) | JavaScript | 1 ⭐ | 2026-07-28 |
+| [devhire-pro-ats](https://github.com/Manashjyoti-Bora/devhire-pro-ats) | JavaScript | 1 ⭐ | 2026-07-28 |
+| [nexusmart](https://github.com/Manashjyoti-Bora/nexusmart) | TypeScript | 1 ⭐ | 2026-07-28 |
+
+<sub>🤖 Auto-updated 25 Nov 2026 11:38 UTC — [workflow](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora/blob/main/.github/workflows/daily-update.yml)</sub>
+<!--REPO-INDEX:END-->
+
+<br><br>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070B16&title_color=247BFF&icon_color=34E5A1&text_color=F4F7FF&ring_color=FF354F" width="100%" alt="GitHub stats" />
+
+<img src="https://streak-stats.vercel.app/?user=Manashjyoti-Bora&theme=tokyonight&hide_border=true&background=070B16&ring=247BFF&fire=FF354F&currStreakLabel=247BFF&stroke=34E5A1&sideLabels=F4F7FF" width="100%" alt="contribution streak" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manashjyoti-Bora&layout=compact&theme=tokyonight&hide_border=true&bg_color=070B16&title_color=247BFF&text_color=F4F7FF" width="100%" alt="top languages" />
+
+**🐍 The snake — regenerated daily at 00:00 UTC:**
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions" />
+
+**👾 Pac-Man, eating the same graph:**
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/pacman-contribution-graph-dark.svg" width="100%" alt="pacman contribution graph" />
+
+**🏙️ Contributions as a 3D city:**
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
+
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="divider" />
+
+<div align="center">
+
+# 💎 05 · The Rare Lab
 
 **Things GitHub can render that almost nobody uses.**
 
@@ -324,7 +514,7 @@ endsolid gem
 
 ### 🧮 The consistency equation
 
-$$\text{Skill}(t)=\int_{0}^{t}\text{commits}(\tau)\,d\tau \quad\Longrightarrow\quad \lim_{t\to\infty}\text{Skill}(t)={\color{#10B981}\text{mastery}}$$
+$$\text{Skill}(t)=\int_{0}^{t}\text{commits}(\tau)\,d\tau \quad\Longrightarrow\quad \lim_{t\to\infty}\text{Skill}(t)={\color{#34E5A1}\text{mastery}}$$
 
 <sub>Translation: show up every day, let the integral do its work.</sub>
 
@@ -345,141 +535,11 @@ journey
       Headphones sold for Re.1: 1: Me
       Fix shipped in hours: 5: Me
     section Now
-      13 hand-coded animations: 5: Me
+      14 hand-coded animations: 5: Me
       The next build: 4: Me
 ```
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/aurora-divider.svg" width="100%" alt="Aurora divider" />
-
-<div align="center">
-
-# 🛠️ 04 · Skills & Environment
-
-</div>
-
-### 🧠 Skill map
-
-```mermaid
-mindmap
-  root((Manashjyoti))
-    Frontend
-      HTML5 · CSS3
-      JavaScript ES6+
-      React basics
-      Responsive UI
-    Backend
-      Node.js
-      REST APIs
-      Zod validation
-      JWT auth
-    Database
-      MongoDB Atlas
-      Mongoose
-    Craft
-      SVG + SMIL art
-      GitHub Actions
-      Clean commits
-    Environment
-      Android phone
-      Termux
-      Vercel
-```
-
-### Core stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,nodejs,express,mongodb&theme=dark" alt="core stack icons" />
-<br>
-<img src="https://skillicons.dev/icons?i=vercel,git,github,githubactions,linux,vite,npm,figma&theme=dark" alt="tooling icons" />
-
-</div>
-
-### The whole office fits in a pocket
-
-| Tool | Role |
-|------|------|
-| <kbd>📱 Android phone</kbd> | The entire machine |
-| <kbd>Termux</kbd> | Git · Node.js · Python |
-| <kbd>GitHub web editor</kbd> | Code editing |
-| <kbd>Vercel</kbd> | Cloud builds & deploys |
-| <kbd>MongoDB Atlas</kbd> | Database |
-
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/skills.svg" width="100%" alt="Animated skill bars — hand-coded SMIL" />
-
-<div align="center">
-
-# 📊 05 · Live Metrics
-
-<sub>All numbers pulled live from the GitHub API — nothing typed by hand.</sub>
-
-<br>
-
-<!--AUTO-UPDATE:START-->
-```text
-┌─ DAILY SNAPSHOT · LIVE DATA ──────────────────┐
-│ 25 Nov 2026 · 17:08 IST                       │
-│ 25 Nov 2026 · 11:38 UTC                       │
-│ Public repos ..... 6                          │
-│ Followers ........ 10                         │
-│ Total stars ...... 3                          │
-│ Commits (all) ... 1208                        │
-│ Top language ..... TypeScript                 │
-│ Last push ........ 2026-11-25                 │
-│ Auto-update ...... 83d                        │
-├───────────────────────────────────────────────┤
-│ Generated by GitHub Actions — no hands        │
-│ were involved.                                │
-└───────────────────────────────────────────────┘
-```
-<!--AUTO-UPDATE:END-->
-
-<br><br>
-
-**📡 Live telemetry — this terminal is rebuilt every 6 hours by Actions:**
-
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/live-dark.svg" width="100%" alt="Live telemetry — a terminal-style card generated from GitHub API data by GitHub Actions" />
-
-<br>
-
-<!--REPO-INDEX:START-->
-**6 public repos · 10 followers — table rebuilt from the live GitHub API.**
-
-| Repository | Language | Stars | Last push |
-|------------|----------|-------|-----------|
-| [Manashjyoti-Bora](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora) | Python | 0 ⭐ | 2026-11-25 |
-| [aurevyn-store](https://github.com/Manashjyoti-Bora/aurevyn-store) | TypeScript | 0 ⭐ | 2026-11-24 |
-| [portfolio](https://github.com/Manashjyoti-Bora/portfolio) | JavaScript | 0 ⭐ | 2026-08-15 |
-| [taskflow-enterprise](https://github.com/Manashjyoti-Bora/taskflow-enterprise) | JavaScript | 1 ⭐ | 2026-07-28 |
-| [devhire-pro-ats](https://github.com/Manashjyoti-Bora/devhire-pro-ats) | JavaScript | 1 ⭐ | 2026-07-28 |
-| [nexusmart](https://github.com/Manashjyoti-Bora/nexusmart) | TypeScript | 1 ⭐ | 2026-07-28 |
-
-<sub>🤖 Auto-updated 25 Nov 2026 11:38 UTC — [workflow](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora/blob/main/.github/workflows/daily-update.yml)</sub>
-<!--REPO-INDEX:END-->
-
-<br><br>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=10B981&text_color=F8FAFC&ring_color=7C3AED" width="100%" alt="GitHub stats" />
-
-<img src="https://streak-stats.vercel.app/?user=Manashjyoti-Bora&theme=tokyonight&hide_border=true&background=030712&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&stroke=7C3AED&sideLabels=F8FAFC" width="100%" alt="contribution streak" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manashjyoti-Bora&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=F8FAFC" width="100%" alt="top languages" />
-
-**🐍 The snake — regenerated daily at 00:00 UTC:**
-
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake eating contributions" />
-
-**👾 Pac-Man, eating the same graph:**
-
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/pacman-contribution-graph-dark.svg" width="100%" alt="pacman contribution graph" />
-
-**🏙️ Contributions as a 3D city:**
-
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="divider" />
 
 <div align="center">
 
@@ -495,6 +555,8 @@ mindmap
 - [x] Hand-code an SVG/SMIL animation system (14 files)
 - [x] Rebuild portfolio with 100% real data
 - [x] Survive a real security disclosure — and fix it fast
+- [x] Build automation that maintains the profile itself (7 pipelines)
+- [ ] Take Aurevyn from build to launch
 - [ ] First open-source pull request
 - [ ] Publish a tiny npm package
 - [ ] Next.js App Router — deeper patterns
@@ -508,20 +570,23 @@ mindmap
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/contact.svg" width="100%" alt="Animated contact card — email, LinkedIn, GitHub, portfolio with live marquee" />
+<img src="./assets/next-connect-dark.svg?v=2026a" width="100%" alt="Connect — social cards for GitHub, LinkedIn, portfolio, email and resume." />
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-Manashjyoti--Bora-F4F7FF?style=for-the-badge&labelColor=070B16&logo=github)](https://github.com/Manashjyoti-Bora)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=070B16&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Live-247BFF?style=for-the-badge&labelColor=070B16&logo=vercel&logoColor=white)](https://portfolio-manashjyoti-bora.vercel.app)&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-manashjyotibora122%40gmail.com-D14836?style=for-the-badge&labelColor=070B16&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com?subject=Hello%20Manashjyoti)&nbsp;
+[![Resume](https://img.shields.io/badge/RESUME-PDF-FF354F?style=for-the-badge&labelColor=070B16&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/Manashjyoti-Bora/portfolio/main/assets/resume/Manashjyoti_Bora_Resume.pdf)
+
+</div>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/qr-portfolio.svg" width="230" alt="Scannable QR code — points to portfolio-manashjyoti-bora.vercel.app. Hand-generated, brand-styled." />
 
 <sub>📱 Real scannable QR — point your camera at it. Meta: you're probably already on a phone, like this whole profile.</sub>
-
-</div>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL-manashjyotibora122%40gmail.com-D14836?style=for-the-badge&labelColor=030712&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com?subject=Hello%20Manashjyoti)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=030712&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
 
 </div>
 
@@ -532,7 +597,9 @@ mindmap
 
 | Layer | Detail |
 |-------|--------|
-| Banner | Hand-coded SVG + SMIL, ASCII portrait, theme-aware |
+| Hero, operator, stack, badge, connect | 5 theme-aware SVG sections, generated by [`build_next.py`](./build_next.py) |
+| Motion | CSS keyframes only — no JS, no SMIL, honours `prefers-reduced-motion` |
+| Portrait | Inlined base64 JPEG — the badge makes zero network requests |
 | Dividers & cards | 14 hand-typed SVG files, zero JS |
 | Map | Native GitHub GeoJSON rendering |
 | QR code | Generated + styled by hand — scannable |
@@ -549,8 +616,9 @@ mindmap
 
 You found it. 🎉 Fun facts nobody scrolls far enough to read:
 
-- The ASCII portrait in the banner is **thousands of characters**, generated by a Python pipeline I run in Termux.
-- The aurora divider above is **2.2 KB of hand-typed SMIL** — the ribbon colors cycle through my three brand colors every 8 seconds.
+- The hero monogram is **not an image** — it's a rounded rect with a gradient hairline and two text nodes. It weighs less than this sentence's font file.
+- The rings you see rotating are `stroke-dashoffset` animations. No paths are being moved, which is why they stay smooth on a phone.
+- The lanyard's light sweep is a 90 px gradient band clipped to the card. It loops every 7 seconds and runs entirely in CSS.
 - My name in Assamese is <ruby>মনজ্যোতি<rt>Monojyoti</rt></ruby> — the <code>&lt;ruby&gt;</code> tag you just saw render is also rare on GitHub. 😄
 
 <sub>If you read this far — say hi. I reply within 24h.</sub>
