@@ -1,0 +1,30 @@
+name: daybreak · morning digest
+# At 02:37 UTC (08:07 IST) the bot posts yesterday in one line: commits, new
+# repos, live apps, cards. Written to assets/data/daybreak.json, shown in README.
+on:
+  schedule:
+    - cron: "37 2 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: daybreak
+  cancel-in-progress: false
+jobs:
+  digest:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: write the digest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/daybreak.py
+      - name: keep the skyline as proof
+        run: python3 .github/scripts/skyline.py || true
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+            bash .github/scripts/commit.sh "chore(daybreak): digest"

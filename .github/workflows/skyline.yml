@@ -1,0 +1,39 @@
+name: skyline · collect the numbers
+# First in the chain: every other sheet reads assets/data/snapshot.json, so the
+# counters on the profile and the drawings that quote them can never disagree.
+on:
+  schedule:
+    - cron: "7 * * * *"      # hourly, on the :07 mark
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/scripts/**", "art/**"]
+permissions:
+  contents: write
+concurrency:
+  group: skyline
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: read the GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/skyline.py
+      - name: redraw the skyline art
+        run: python3 art/build_all.py
+      - name: refresh the facts sheet and the build log
+        run: |
+          python3 .github/scripts/ledger.py
+          python3 .github/scripts/state.py
+          python3 .github/scripts/asbuilt.py
+      - name: write back
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+            bash .github/scripts/commit.sh "chore(skyline): recollect"

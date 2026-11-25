@@ -1,31 +1,27 @@
-name: Live telemetry
-
+name: live · probe the deployments
+# Two HTTPS requests per app, twelve times a day. A probe that fails is caught
+# inside the script and drawn as red - the workflow itself must not go red for
+# someone else's downtime.
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "11 */2 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-
 permissions:
   contents: write
-
 concurrency:
-  group: live-telemetry
+  group: live
   cancel-in-progress: false
-
 jobs:
-  update-live-stats:
-    runs-on: ubuntu-latest
+  probe:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-      - name: Generate telemetry SVGs
-        env:
+        with: { python-version: "3.12" }
+      - run: python3 .github/scripts/live_stats.py || true
+      - run: python3 .github/scripts/state.py || true
+      - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/live_stats.py
-      - name: Commit & push refreshed widgets
-        run: 'bash .github/scripts/push-safe.sh "chore: refresh live telemetry"'
+        run: >-
+            bash .github/scripts/commit.sh "chore(live): refresh probe results" || true

@@ -1,25 +1,33 @@
-name: Sign the sheet
-description: Add your name to the signature margin of drawing MJB-001.
-title: "sign: "
+name: Sign the postcard wall
+description: Put your name on the drawing in one line.
+title: "[sign] your name"
 labels: ["sign"]
 body:
   - type: markdown
     attributes:
       value: |
-        Keep the title in the form **`sign: your note`** — the workflow reads
-        the text after the colon. Notes are sanitised and cut to 34 characters
-        before they are drawn, and only your GitHub username is shown.
+        Thanks for stopping by. One card per GitHub account — the first one wins,
+        and the wall redraws itself within six hours.
+  - type: input
+    id: name
+    attributes:
+      label: Name to print
+      description: 40 characters or fewer. Your handle is printed underneath automatically.
+      placeholder: Ada Lovelace
+    validations:
+      required: true
   - type: textarea
     id: note
     attributes:
-      label: Your note
-      description: Used only when the title has no note after the colon.
-      placeholder: built on a phone, respect
-      maxlength: 34
+      label: One line
+      description: Keep it short (about 140 characters). It is printed on the card.
+      placeholder: e.g. "the heartbeat wheel made me rebuild my own profile"
+    validations:
+      required: false
   - type: checkboxes
     id: consent
     attributes:
       label: Consent
       options:
-        - label: My GitHub username and this note may appear publicly on the sheet.
+        - label: I'm happy for this name and line to appear on the profile README.
           required: true

@@ -1,38 +1,27 @@
-name: Generate Snake Animation
-
+name: snake
+# Unchanged output, new home: the snake lives on the `output` branch because
+# GitHub renders it from raw.githubusercontent.com and that never expires.
 on:
   schedule:
     - cron: "5 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-
 permissions:
   contents: write
-
-concurrency:
-  group: output-branch
-  cancel-in-progress: false
-
 jobs:
-  generate:
-    runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     steps:
-      - name: Generate snake animations
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: Manashjyoti-Bora
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#4DE1FF&color_dots=#0B1220,#123A4A,#1E6F86,#37B7D6,#5BF2B8
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

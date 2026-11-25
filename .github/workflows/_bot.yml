@@ -1,0 +1,30 @@
+# Shared by every automation below. Kept in one place so a new job can never
+# forget the two things that matter: the GitHub token, and a way to write back.
+#
+# NOTE ON `_` PREFIX: GitHub only runs a file if it has a top-level `on:` key
+# that resolves to an event. This file's `on:` is a reusable-call alias, so it
+# is inert on its own and only ever runs as part of another workflow.
+name: _bot (reusable setup)
+on:
+  workflow_call:
+    inputs:
+      message:
+        description: commit message used when this job writes back
+        type: string
+        required: false
+        default: "chore: automated profile refresh"
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: stamp the run
+        run: echo "BOT_RUN=$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$GITHUB_ENV"

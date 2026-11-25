@@ -1,32 +1,24 @@
-name: Generate 3D Contribution Graph
-
+name: 3d contribution graph
 on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-
 permissions:
   contents: write
-
 concurrency:
   group: profile-3d
-  cancel-in-progress: false
-
+  cancel-in-progress: true
 jobs:
-  generate:
-    runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate 3D graphs
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit & push
-        run: 'bash .github/scripts/push-safe.sh "chore: update 3D contribution graph"'
+          USERNAME: Manashjyoti-Bora
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+            bash .github/scripts/commit.sh "chore(3d): redraw the contribution terrain"

@@ -1,0 +1,25 @@
+name: state · facts sheet
+# The cheap one: no API, no network. Re-renders the five headline numbers from
+# whatever the other sheets last wrote, twice a day.
+on:
+  schedule:
+    - cron: "53 5,17 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: state
+  cancel-in-progress: false
+jobs:
+  sheet:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python3 .github/scripts/state.py
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+            bash .github/scripts/commit.sh "chore(state): refresh the facts sheet"

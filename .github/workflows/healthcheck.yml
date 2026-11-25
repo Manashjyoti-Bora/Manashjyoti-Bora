@@ -1,0 +1,51 @@
+name: healthcheck · the bot reviews itself
+# VERIFY STEP. Runs the whole pipeline in a throwaway tree with mock data:
+# every script must exit 0, every SVG must parse, every README marker must be
+# unique, and the automation cron total must match what pulse.py says. If a
+# future edit breaks the pipeline, this goes red before the profile does.
+on:
+  schedule:
+    - cron: "29 4 * * *"
+  workflow_dispatch:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: rebuild everything from mock data with the real command
+        env:
+          SKYLINE_MOCK: "1"
+          LIVE_MOCK: "1"
+          FINDINGS_MOCK: "1"
+          POSTCARD_MOCK: "1"
+          DAYBREAK_MOCK: "1"
+        run: python3 art/universe.py
+      - name: the same rebuild must be deterministic
+        env:
+          SKYLINE_MOCK: "1"
+          LIVE_MOCK: "1"
+          FINDINGS_MOCK: "1"
+          POSTCARD_MOCK: "1"
+          DAYBREAK_MOCK: "1"
+        run: |
+          set -euo pipefail
+          git add -A && git -c user.email=bot@local -c user.name=bot commit -qm "after first run"
+          python3 art/universe.py --refresh
+          test -z "$(git status --porcelain)" || { git status --porcelain; exit 1; }
+          echo "deterministic: a second run changed nothing"
+      - name: the tree still builds after the bot touched it
+        run: |
+          git diff --stat | tail -1
+          python3 - <<'PY'
+          import glob, xml.etree.ElementTree as ET
+          files = sorted(glob.glob("assets/**/*.svg", recursive=True))
+          for f in files:
+              ET.parse(f)
+          print(f"{len(files)} SVGs parsed")
+          PY

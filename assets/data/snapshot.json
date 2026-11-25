@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T18:40:47Z",
-  "source": "live",
+  "generated_at": "2026-11-25T19:47:47Z",
+  "source": "mock",
   "dates": [
     "2026-09-04",
     "2026-09-05",
@@ -89,68 +89,73 @@
   "summary": {
     "repos": 6,
     "followers": 10,
-    "stars": 3,
-    "commits_total": 1216,
+    "stars": 7,
+    "commits_total": 2775,
+    "commits_dev": 0,
     "last_push": "2026-11-25",
     "top_lang": "TypeScript",
-    "streak": 83,
-    "source": "live",
-    "generated_at": "2026-11-25T18:40:47Z"
+    "streak": 83
   },
   "repos": [
     {
       "name": "Manashjyoti-Bora",
-      "description": "",
+      "short": "profile",
       "language": "Python",
       "stars": 0,
       "forks": 0,
       "pushed_at": "2026-11-25",
-      "fork": false
+      "desc": "the profile you are reading, drawn by code",
+      "commits": 487
     },
     {
       "name": "aurevyn-store",
-      "description": "Aurevyn \u2014 Meesho-resale storefront, admin console and autonomous operations team (Next.js + PostgreSQL)",
+      "short": "aurevyn",
       "language": "TypeScript",
       "stars": 0,
       "forks": 0,
-      "pushed_at": "2026-11-24",
-      "fork": false
-    },
-    {
-      "name": "portfolio",
-      "description": "",
-      "language": "JavaScript",
-      "stars": 0,
-      "forks": 0,
-      "pushed_at": "2026-08-15",
-      "fork": false
-    },
-    {
-      "name": "taskflow-enterprise",
-      "description": "Kanban productivity app \u2014 dynamic boards, live priority tagging and sprint tracking. React with modern state management. A learning project in state handling and CRUD patterns.",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "pushed_at": "2026-07-28",
-      "fork": false
-    },
-    {
-      "name": "devhire-pro-ats",
-      "description": "Job portal & applicant tracking UI \u2014 real-time multi-attribute filtering, glassmorphic light/dark themes and an application pipeline tracker. React 19 + Vite. A learning project in complex UI patterns.",
-      "language": "JavaScript",
-      "stars": 1,
-      "forks": 0,
-      "pushed_at": "2026-07-28",
-      "fork": false
+      "pushed_at": "2026-11-25",
+      "desc": "resale storefront, admin console, autonomous ops team",
+      "commits": 25
     },
     {
       "name": "nexusmart",
-      "description": "Full-stack e-commerce \u2014 Next.js App Router, TypeScript, MongoDB Atlas, JWT auth (bcrypt + HTTP-only cookies), cart & checkout, role-gated admin panel, Zod validation on every mutation. Live demo \u2197",
+      "short": "nexusmart",
       "language": "TypeScript",
+      "stars": 2,
+      "forks": 0,
+      "pushed_at": "2026-11-25",
+      "desc": "full-stack commerce with JWT auth and a role-gated admin panel",
+      "commits": 823
+    },
+    {
+      "name": "devhire-pro-ats",
+      "short": "devhire",
+      "language": "JavaScript",
+      "stars": 3,
+      "forks": 0,
+      "pushed_at": "2026-11-25",
+      "desc": "applicant tracking UI with multi-attribute filtering",
+      "commits": 652
+    },
+    {
+      "name": "taskflow-enterprise",
+      "short": "taskflow",
+      "language": "JavaScript",
       "stars": 1,
       "forks": 0,
-      "pushed_at": "2026-07-28",
-      "fork": false
+      "pushed_at": "2026-11-25",
+      "desc": "kanban boards, live priority tagging, sprints",
+      "commits": 420
+    },
+    {
+      "name": "portfolio",
+      "short": "portfolio",
+      "language": "JavaScript",
+      "stars": 1,
+      "forks": 0,
+      "pushed_at": "2026-11-25",
+      "desc": "the portfolio this profile links to",
+      "commits": 368
     }
   ]
 }

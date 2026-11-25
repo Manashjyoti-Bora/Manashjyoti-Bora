@@ -1,0 +1,32 @@
+name: postcard wall
+# Visitors sign by opening an issue titled "[sign] <name>". This reads them,
+# keeps one card per account, redraws the wall and refreshes the README line.
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  issues:
+    types: [opened, edited, reopened, labeled]
+permissions:
+  contents: write
+  issues: read
+concurrency:
+  group: postcard
+  cancel-in-progress: false
+jobs:
+  wall:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: read the wall
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/postcard.py
+      - run: python3 .github/scripts/state.py || true
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+            bash .github/scripts/commit.sh "chore(postcard): redraw the wall"

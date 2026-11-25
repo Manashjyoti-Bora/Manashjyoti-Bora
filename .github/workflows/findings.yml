@@ -1,0 +1,56 @@
+name: findings · self-review
+# Six hygiene checks across every owned repo. Publishes what it finds, including
+# the misses: a score that can only go up is not a score.
+on:
+  schedule:
+    - cron: "47 */3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: findings
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: review every repo
+        id: review
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/findings.py
+      - name: open an issue for a real secret leak
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.request
+          data = json.load(open("assets/data/findings.json"))
+          leaks = data["summary"].get("dirty_repos") or []
+          if not leaks:
+              print("no committed .env files found")
+              raise SystemExit(0)
+          token, repo = os.environ["GITHUB_TOKEN"], os.environ["GITHUB_REPOSITORY"]
+          body = json.dumps({
+              "title": "[findings] a committed .env file was found",
+              "body": "findings.py tracked these:\\n\\n" + "\\n".join(f"- `{r}`" for r in leaks) +
+                      "\\n\\nRotate the keys first, then `git rm --cached` the file and add it to .gitignore.",
+              "labels": ["findings"]}).encode()
+          req = urllib.request.Request(f"https://api.github.com/repos/{repo}/issues", data=body,
+              headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json",
+                       "User-Agent": "mjb-findings"})
+          try:
+              urllib.request.urlopen(req, timeout=20)
+              print("opened a leak issue")
+          except Exception as exc:
+              print("could not open issue:", exc)
+          PY
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+            bash .github/scripts/commit.sh "chore(findings): refresh the self-review"

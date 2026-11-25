@@ -1,0 +1,43 @@
+{
+  "generated_at": "mock",
+  "source": "mock",
+  "repos": [
+    {
+      "name": "Manashjyoti-Bora",
+      "score": 6,
+      "passed": [
+        "readme",
+        "gitignore",
+        "license",
+        "ci",
+        "tests",
+        "manifest"
+      ],
+      "env_in_git": false,
+      "pushed_at": "2026-11-25",
+      "size_kb": 412
+    },
+    {
+      "name": "aurevyn-store",
+      "score": 6,
+      "passed": [
+        "readme",
+        "gitignore",
+        "license",
+        "ci",
+        "tests",
+        "manifest"
+      ],
+      "env_in_git": false,
+      "pushed_at": "2026-11-24",
+      "size_kb": 2680
+    }
+  ],
+  "summary": {
+    "repos": 2,
+    "checks_passed": 12,
+    "checks_possible": 12,
+    "env_leaks": 0,
+    "dirty_repos": []
+  }
+}

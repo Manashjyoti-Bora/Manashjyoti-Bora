@@ -1,0 +1,26 @@
+name: pulse · redraw the heartbeat
+# Reads the cron lines of *every* workflow (itself included) and draws them as a
+# 24-hour clock, so the schedule on the profile can never drift from the cron
+# that actually runs. Drawing only - no API calls, no network.
+on:
+  schedule:
+    - cron: "23 0,4,8,12,16,20 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: pulse
+  cancel-in-progress: false
+jobs:
+  draw:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python3 art/build_all.py --only pulse
+      - env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: >-
+            bash .github/scripts/commit.sh "chore(pulse): redraw the heartbeat"
