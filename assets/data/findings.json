@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:46:52Z",
+  "generated_at": "2026-11-26T11:27:31Z",
   "source": "live",
   "repos": [
     {
@@ -12,7 +12,7 @@
       ],
       "env_in_git": false,
       "pushed_at": "2026-11-26",
-      "size_kb": 4481
+      "size_kb": 2848
     },
     {
       "name": "aurevyn-store",
