@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26 13:48 UTC",
+  "generated_at": "2026-11-26 22:15 UTC",
   "rows": [
     {
       "status": 200,
@@ -7,14 +7,14 @@
         200,
         200
       ],
-      "ms": 445,
-      "fingerprint": "61000700dddb",
+      "ms": 318,
+      "fingerprint": "e8697278c8c0",
       "content_type": "text/html; charset=utf-8",
       "bytes": 8192,
       "server": "Vercel",
       "url": "https://portfolio-manashjyoti-bora.vercel.app",
       "label": "portfolio",
-      "repeat_n": 5
+      "repeat_n": 2
     },
     {
       "status": 200,
@@ -29,7 +29,7 @@
       "server": "Vercel",
       "url": "https://nexusmart-dusky.vercel.app",
       "label": "nexusmart",
-      "repeat_n": 19
+      "repeat_n": 21
     }
   ]
 }
