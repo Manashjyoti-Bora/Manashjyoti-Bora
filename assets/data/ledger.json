@@ -1,10 +1,10 @@
 {
-  "total": 1235,
+  "total": 1236,
   "rows": [
     {
       "name": "Manashjyoti-Bora",
-      "commits": 1034,
-      "share": 0.8372
+      "commits": 1035,
+      "share": 0.8374
     },
     {
       "name": "aurevyn-store",
@@ -14,7 +14,7 @@
     {
       "name": "portfolio",
       "commits": 27,
-      "share": 0.0219
+      "share": 0.0218
     },
     {
       "name": "taskflow-enterprise",
@@ -24,7 +24,7 @@
     {
       "name": "devhire-pro-ats",
       "commits": 16,
-      "share": 0.013
+      "share": 0.0129
     },
     {
       "name": "nexusmart",
@@ -32,5 +32,5 @@
       "share": 0.0105
     }
   ],
-  "bot_share": 0.1174
+  "bot_share": 0.1254
 }
