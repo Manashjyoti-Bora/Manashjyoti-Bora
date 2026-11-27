@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-27T19:12:19Z",
+  "generated_at": "2026-11-27T19:26:22Z",
   "source": "live",
   "repos": [
+    {
+      "name": "Manashjyoti-Bora",
+      "score": 3,
+      "passed": [
+        "readme",
+        "gitignore",
+        "ci"
+      ],
+      "env_in_git": false,
+      "pushed_at": "2026-11-27",
+      "size_kb": 3214
+    },
     {
       "name": "autoreel-zen",
       "score": 5,
@@ -14,19 +26,7 @@
       ],
       "env_in_git": false,
       "pushed_at": "2026-11-27",
-      "size_kb": 129
-    },
-    {
-      "name": "Manashjyoti-Bora",
-      "score": 3,
-      "passed": [
-        "readme",
-        "gitignore",
-        "ci"
-      ],
-      "env_in_git": false,
-      "pushed_at": "2026-11-27",
-      "size_kb": 3214
+      "size_kb": 238
     },
     {
       "name": "aurevyn-store",

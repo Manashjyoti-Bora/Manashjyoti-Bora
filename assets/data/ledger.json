@@ -1,20 +1,20 @@
 {
-  "total": 1264,
+  "total": 1265,
   "rows": [
     {
       "name": "Manashjyoti-Bora",
-      "commits": 1038,
-      "share": 0.8212
+      "commits": 1039,
+      "share": 0.8213
     },
     {
       "name": "aurevyn-store",
       "commits": 128,
-      "share": 0.1013
+      "share": 0.1012
     },
     {
       "name": "portfolio",
       "commits": 27,
-      "share": 0.0214
+      "share": 0.0213
     },
     {
       "name": "autoreel-zen",
@@ -29,7 +29,7 @@
     {
       "name": "devhire-pro-ats",
       "commits": 16,
-      "share": 0.0127
+      "share": 0.0126
     },
     {
       "name": "nexusmart",
@@ -37,5 +37,5 @@
       "share": 0.0103
     }
   ],
-  "bot_share": 0.1479
+  "bot_share": 0.1557
 }
