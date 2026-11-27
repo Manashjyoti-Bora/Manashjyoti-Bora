@@ -40,7 +40,7 @@
 <!--DAYBREAK:END-->
 
 <!--STATE:START-->
-| 1,231 commits | 76-day streak | 2/2 apps live | 58% hygiene | 0 postcards |
+| 1,232 commits | 77-day streak | 2/2 apps live | 58% hygiene | 0 postcards |
 | :--: | :--: | :--: | :--: | :--: |
 <!--STATE:END-->
 
@@ -105,10 +105,10 @@ There is a third property worth naming: **the pipeline verifies itself**. [`doct
 <!--VITALS:START-->
 | metric | value | how it is measured |
 | --- | --- | --- |
-| commits, all repos | 1,231 | the GitHub commits API, walked once per repo |
-| hand-written | 1,128 (92%) | commits whose author is not `github-actions[bot]` |
+| commits, all repos | 1,232 | the GitHub commits API, walked once per repo |
+| hand-written | 1,119 (91%) | commits whose author is not `github-actions[bot]` |
 | public repositories | 6 | `/users/…/repos?type=owner` |
-| streak | 76 days | public contribution calendar |
+| streak | 77 days | public contribution calendar |
 | followers / stars | 10 / 3 | user + repo objects |
 | live apps answering | 2 of 2 | two HTTPS probes per URL, 12 h |
 | self-review | 58% | six checks × every repo, 12 h |
