@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:54:21Z",
+  "generated_at": "2026-11-27T19:12:13Z",
   "source": "live",
   "dates": [
     "2026-09-02",
@@ -88,13 +88,13 @@
     "2026-11-27"
   ],
   "summary": {
-    "repos": 6,
+    "repos": 7,
     "followers": 10,
     "stars": 3,
-    "commits_total": 1238,
-    "commits_dev": 1062,
+    "commits_total": 1264,
+    "commits_dev": 1077,
     "last_push": "2026-11-27",
-    "top_lang": "JavaScript",
+    "top_lang": "TypeScript",
     "streak": 77
   },
   "repos": [
@@ -106,7 +106,7 @@
       "forks": 0,
       "pushed_at": "2026-11-27",
       "desc": "",
-      "commits": 1037
+      "commits": 1038
     },
     {
       "name": "aurevyn-store",
@@ -127,6 +127,16 @@
       "pushed_at": "2026-08-15",
       "desc": "",
       "commits": 27
+    },
+    {
+      "name": "autoreel-zen",
+      "short": "autoreel",
+      "language": "TypeScript",
+      "stars": 0,
+      "forks": 0,
+      "pushed_at": "2026-11-27",
+      "desc": "AUTOREEL ZEN — free, open-source (MIT) hands-free Instagram reels studio on Cloudflare Workers: a 1,000-agent swarm writes, designs, scores, schedules and publishes reels. Reels first.",
+      "commits": 25
     },
     {
       "name": "taskflow-enterprise",
