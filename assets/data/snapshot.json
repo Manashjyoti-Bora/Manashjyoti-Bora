@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:22:35Z",
+  "generated_at": "2026-11-28T02:37:49Z",
   "source": "live",
   "dates": [
     "2026-09-02",
@@ -91,8 +91,8 @@
     "repos": 7,
     "followers": 10,
     "stars": 3,
-    "commits_total": 1266,
-    "commits_dev": 1058,
+    "commits_total": 1267,
+    "commits_dev": 1048,
     "last_push": "2026-11-27",
     "top_lang": "TypeScript",
     "streak": 77
@@ -106,7 +106,7 @@
       "forks": 0,
       "pushed_at": "2026-11-27",
       "desc": "",
-      "commits": 1040
+      "commits": 1041
     },
     {
       "name": "aurevyn-store",
