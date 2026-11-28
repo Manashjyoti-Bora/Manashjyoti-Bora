@@ -1,20 +1,20 @@
 {
-  "total": 1270,
+  "total": 1271,
   "rows": [
     {
       "name": "Manashjyoti-Bora",
-      "commits": 1044,
-      "share": 0.822
+      "commits": 1045,
+      "share": 0.8222
     },
     {
       "name": "aurevyn-store",
       "commits": 128,
-      "share": 0.1008
+      "share": 0.1007
     },
     {
       "name": "portfolio",
       "commits": 27,
-      "share": 0.0213
+      "share": 0.0212
     },
     {
       "name": "autoreel-zen",
@@ -37,5 +37,5 @@
       "share": 0.0102
     }
   ],
-  "bot_share": 0.1976
+  "bot_share": 0.2054
 }
